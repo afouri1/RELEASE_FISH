@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GUpdate/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GUpdate/version.json",
-["version"] = "1.0.70",
+["version"] = "1.0.72",
 ["packageSize"] = 5857,
 ["date"] = "20180925",
 ["depends"] = {
@@ -17,8 +17,8 @@ return {
 	},
 {
 	["u_name"]="Games/GUpdate/FileDownloader.lua",
-	["u_md5"]="ec245e59a6fe3eb77a40bd7819d84d96",
-	["u_size"]=7.92,
+	["u_md5"]="097e11460b32ac1ccff378f6489c95c4",
+	["u_size"]=7.91,
 	},
 {
 	["u_name"]="Games/GUpdate/UConst.lua",
