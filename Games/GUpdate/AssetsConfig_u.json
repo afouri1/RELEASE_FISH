@@ -1,0 +1,219 @@
+return {
+["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
+["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GUpdate/AssetsConfig_u.json",
+["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GUpdate/version.json",
+["version"] = "1.0.70",
+["packageSize"] = 5857,
+["date"] = "20180925",
+["depends"] = {
+10001,
+},
+["newDetails"] = [[]],
+["assets"] = {
+{
+	["u_name"]="Games/GUpdate/FileDownloadBatch.lua",
+	["u_md5"]="44dc0e82cff05c7dd207b1c5e0d134af",
+	["u_size"]=3.99,
+	},
+{
+	["u_name"]="Games/GUpdate/FileDownloader.lua",
+	["u_md5"]="ec245e59a6fe3eb77a40bd7819d84d96",
+	["u_size"]=7.92,
+	},
+{
+	["u_name"]="Games/GUpdate/UConst.lua",
+	["u_md5"]="2a9512feb7240073184316419a79d0af",
+	["u_size"]=0.84,
+	},
+{
+	["u_name"]="Games/GUpdate/UEachFolder.lua",
+	["u_md5"]="af017040d569aa03826ce59b651917e0",
+	["u_size"]=28.71,
+	},
+{
+	["u_name"]="Games/GUpdate/UEachGame.lua",
+	["u_md5"]="039ba092c5e6e789a2250701c1bca981",
+	["u_size"]=6.4,
+	},
+{
+	["u_name"]="Games/GUpdate/UManifest.lua",
+	["u_md5"]="29d447eb293bc5a84999b34a3d69b384",
+	["u_size"]=8.99,
+	},
+{
+	["u_name"]="Games/GUpdate/UUpdate.lua",
+	["u_md5"]="459d01334f9e29ed4253910b1389c1c0",
+	["u_size"]=7.83,
+	},
+{
+	["u_name"]="Games/GUpdate/UUpdateView.lua",
+	["u_md5"]="426d70666bc3bc54d766027a1bdfa0e4",
+	["u_size"]=11.37,
+	},
+{
+	["u_name"]="Games/GUpdate/UpdateMain.lua",
+	["u_md5"]="c91602217e63058180f730f27ecaa86d",
+	["u_size"]=5.21,
+	},
+{
+	["u_name"]="Games/GUpdate/res/Map_1.jpg",
+	["u_md5"]="5a566875595228957128be9b92d2387d",
+	["u_size"]=220.03,
+	},
+{
+	["u_name"]="Games/GUpdate/res/UpdateView.json",
+	["u_md5"]="ad024378d516acef4c0cd728102a13cb",
+	["u_size"]=82.16,
+	},
+{
+	["u_name"]="Games/GUpdate/res/bg/bg.png",
+	["u_md5"]="145717db208cf51a3fe9088ae49bf3f1",
+	["u_size"]=900.56,
+	},
+{
+	["u_name"]="Games/GUpdate/res/bg/logo.png",
+	["u_md5"]="9d9ea4de8f96657acc23cb4fdeb03a14",
+	["u_size"]=355.18,
+	},
+{
+	["u_name"]="Games/GUpdate/res/bg/txt1.png",
+	["u_md5"]="1e924d0658939538bbce4330670d990f",
+	["u_size"]=37.96,
+	},
+{
+	["u_name"]="Games/GUpdate/res/bg/txt2.png",
+	["u_md5"]="6d4b544d7c0203af2386b9d2c973bc5d",
+	["u_size"]=13.99,
+	},
+{
+	["u_name"]="Games/GUpdate/res/bg/txt3.png",
+	["u_md5"]="0085fa901a01cff97321f16943acd12b",
+	["u_size"]=14.29,
+	},
+{
+	["u_name"]="Games/GUpdate/res/downFail/button_cxxz.png",
+	["u_md5"]="9411f111011eceb7ff1653733ec47708",
+	["u_size"]=3.66,
+	},
+{
+	["u_name"]="Games/GUpdate/res/downFail/button_exit.png",
+	["u_md5"]="81aa9b4a9bd4ee747af87c5fb8226d19",
+	["u_size"]=4.26,
+	},
+{
+	["u_name"]="Games/GUpdate/res/downFail/pop_xzsb.png",
+	["u_md5"]="188f773b3ecae56b579d3d1e81a7e8e3",
+	["u_size"]=314.01,
+	},
+{
+	["u_name"]="Games/GUpdate/res/downProgress/loading.png",
+	["u_md5"]="abcb019711e9573c415ef047a643eecf",
+	["u_size"]=5.05,
+	},
+{
+	["u_name"]="Games/GUpdate/res/downProgress/loading_bg.png",
+	["u_md5"]="3a661bed3d37f35f159a83aaef81fb58",
+	["u_size"]=1.19,
+	},
+{
+	["u_name"]="Games/GUpdate/res/downProgress/pop_xzzy.png",
+	["u_md5"]="ea3bfdc1046124c02b45c006a36fc5db",
+	["u_size"]=99.35,
+	},
+{
+	["u_name"]="Games/GUpdate/res/logoAction/logotexiao_1.plist",
+	["u_md5"]="6153ecb1c39f78b9918c6325af1307db",
+	["u_size"]=5.34,
+	},
+{
+	["u_name"]="Games/GUpdate/res/logoAction/logotexiao_1.png",
+	["u_md5"]="c9b1796ade9da0c7fc0f7a190ab3c83c",
+	["u_size"]=181.29,
+	},
+{
+	["u_name"]="Games/GUpdate/res/logoAction/logotexiao_2.plist",
+	["u_md5"]="5e6eac06fc64115ca5c20b823b83c94b",
+	["u_size"]=5.34,
+	},
+{
+	["u_name"]="Games/GUpdate/res/logoAction/logotexiao_2.png",
+	["u_md5"]="27722dfc7db2a3d7d90fba1c102d041e",
+	["u_size"]=504.55,
+	},
+{
+	["u_name"]="Games/GUpdate/res/logoAction/logotexiao_3.plist",
+	["u_md5"]="c5eac2cdeb96747504e07467cad86ee8",
+	["u_size"]=5.34,
+	},
+{
+	["u_name"]="Games/GUpdate/res/logoAction/logotexiao_3.png",
+	["u_md5"]="7ad753228ecb04e2fecc187a48bce522",
+	["u_size"]=686.5,
+	},
+{
+	["u_name"]="Games/GUpdate/res/logoAction/logotexiao_4.plist",
+	["u_md5"]="3112c3e8de448ee8bece6c5e04232860",
+	["u_size"]=5.34,
+	},
+{
+	["u_name"]="Games/GUpdate/res/logoAction/logotexiao_4.png",
+	["u_md5"]="1e2d736cdb0fb9a1527014f3091e2fcf",
+	["u_size"]=700.89,
+	},
+{
+	["u_name"]="Games/GUpdate/res/logoAction/logotexiao_5.plist",
+	["u_md5"]="c377ca0f83a4e50addfdfca6be7f99b4",
+	["u_size"]=5.34,
+	},
+{
+	["u_name"]="Games/GUpdate/res/logoAction/logotexiao_5.png",
+	["u_md5"]="1d985e7265abba4bcb45b1ad1685c74c",
+	["u_size"]=658.57,
+	},
+{
+	["u_name"]="Games/GUpdate/res/logoAction/logotexiao_6.plist",
+	["u_md5"]="fa651ccf8eaef14d959679ee5f36ba02",
+	["u_size"]=5.34,
+	},
+{
+	["u_name"]="Games/GUpdate/res/logoAction/logotexiao_6.png",
+	["u_md5"]="4612fbf5bfd9cb30cfa9ffac05f8043d",
+	["u_size"]=622.78,
+	},
+{
+	["u_name"]="Games/GUpdate/res/newVersion/button_queding.png",
+	["u_md5"]="f7e233018307f1678ec09d233aea326c",
+	["u_size"]=2.61,
+	},
+{
+	["u_name"]="Games/GUpdate/res/newVersion/button_quxiao.png",
+	["u_md5"]="ef52b495bfa099b4171c3c9b4a7fe040",
+	["u_size"]=2.94,
+	},
+{
+	["u_name"]="Games/GUpdate/res/newVersion/img_close.png",
+	["u_md5"]="da293b3b0a71acbaa775e44ecee685ad",
+	["u_size"]=9.4,
+	},
+{
+	["u_name"]="Games/GUpdate/res/newVersion/img_dqbbh.png",
+	["u_md5"]="6e5db2da5113211aaa8c315756d80a8c",
+	["u_size"]=4.57,
+	},
+{
+	["u_name"]="Games/GUpdate/res/newVersion/img_zxbbh.png",
+	["u_md5"]="d63c2e403436658511a4bb1229e292ea",
+	["u_size"]=4.96,
+	},
+{
+	["u_name"]="Games/GUpdate/res/newVersion/input.png",
+	["u_md5"]="0378a9d72fa2fddf59c3de71956c72a9",
+	["u_size"]=3.05,
+	},
+{
+	["u_name"]="Games/GUpdate/res/newVersion/sheet_fxxbb.png",
+	["u_md5"]="715f8f57631f62461ab946c19d3517cf",
+	["u_size"]=309.38,
+	},
+} 
+}
