@@ -10,7 +10,14 @@
   "designHeight": 1280,
   "designWidth": 720,
   "textures": [],
-  "texturesPng": [],
+  "texturesPng": [
+    "Games/GLobby/res/common/bg.png",
+    "Games/GLobby/res/common/img_shurukuang.png",
+    "Games/GLobby/res/club/img_num_sheet.png",
+    "Games/GLobby/res/club/txt_tip.png",
+    "Games/GLobby/res/club/button_sqjr.png",
+    "Games/GLobby/res/club/button_cjjlb.png"
+  ],
   "version": "1.6.0.0",
   "widgetTree": {
     "classname": "Panel",
@@ -513,7 +520,7 @@
           "customProperty": "",
           "flipX": false,
           "flipY": false,
-          "height": 27,
+          "height": 26,
           "ignoreSize": true,
           "layoutParameter": null,
           "opacity": 255,
@@ -530,7 +537,7 @@
           "touchAble": false,
           "useMergedTexture": false,
           "visible": true,
-          "width": 459,
+          "width": 432,
           "x": 360,
           "y": 850,
           "capInsetsHeight": 1,
@@ -539,13 +546,13 @@
           "capInsetsY": 0,
           "fileName": null,
           "fileNameData": {
-            "path": "Games/GLobby/res/club/txt_tips.png",
+            "path": "Games/GLobby/res/club/txt_tip.png",
             "plistFile": "",
             "resourceType": 0
           },
           "scale9Enable": false,
-          "scale9Height": 27,
-          "scale9Width": 459
+          "scale9Height": 26,
+          "scale9Width": 432
         }
       },
       {

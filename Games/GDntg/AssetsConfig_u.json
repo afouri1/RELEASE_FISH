@@ -2,13 +2,24 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.0.76",
-["packageSize"] = 20665,
-["date"] = "20180925",
+["version"] = "1.0.88",
+["packageSize"] = 20656,
+["date"] = "20180926",
 ["depends"] = {
 1000,
 },
-["newDetails"] = [[	假的更新
+["newDetails"] = [[1.【质检】【外网】【android】进入游戏时会替换掉已在座位上的玩家  
+2.【质检】提示版本更新后，点击确定，无法完成下载  
+3.【质检】账号重复登录时没有提示，也没有将其中一个踢下线 
+4.【质检】【内网】【android】进入房间的玩家看不到其它玩家  
+5.【质检】有部分大于14倍的鱼击杀后没有人声音效，详见描述  
+6.【质检】手机在玩的过程中充电，有时会触发断线重连 
+7.【质检】切换场景之后，除了背景音效，其他音效都会变小 
+8.【质检】开始没有出现音乐，出现音乐之后，卡死之后闪退 
+9.每次更新，版本更新内容，版本号需要加上，每次更新提升一个版本号；发内外网pc端和apk包均需要区分包体（增加版本更新内容）
+10.【质检】微信登录的号是单独的，不能串号，进入游戏之后，其他玩家也进入，自己会起立
+11.【质检】冰冻完之后，出现boss，没有出现警报声音和boss背景音效 
+12.【质检】通用提示弹窗点击一下提示一个，现在一直在弹 
 ]],
 ["assets"] = {
 {
@@ -1038,73 +1049,73 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/die15.mp3",
-	["u_md5"]="0295e33b11d30f28dda96cc48afa07b4",
-	["u_size"]=17.04,
+	["u_md5"]="ae5d07cc74aac77782094aea36c6e689",
+	["u_size"]=16.63,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/die16.mp3",
-	["u_md5"]="8627a237160e1b73940475f0df8ea872",
-	["u_size"]=23.47,
+	["u_md5"]="aa58c3c6504e45bfad1482b48d9ae6c3",
+	["u_size"]=23.05,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/die17.mp3",
-	["u_md5"]="0b821faf2d42427a075e6006a67977e7",
-	["u_size"]=17.04,
+	["u_md5"]="34baa5b7730477a5a87737822b4f438e",
+	["u_size"]=16.63,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/die18.mp3",
-	["u_md5"]="70f54672395308adc7292f8dc6ee6e66",
-	["u_size"]=24.08,
+	["u_md5"]="a51dc5c8fc1916784bc039402afe865f",
+	["u_size"]=23.66,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/die19.mp3",
-	["u_md5"]="bb2d92fa53c6360585054d41aff07dd5",
-	["u_size"]=31.43,
+	["u_md5"]="90581e6387e49a46a38bf84c7ac09c75",
+	["u_size"]=31,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/die20.mp3",
-	["u_md5"]="b98ebc2eb9b11361608c0afa19470b86",
-	["u_size"]=27.45,
+	["u_md5"]="5049b53d758ee776fca0299ab2690ebe",
+	["u_size"]=27.02,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/die21.mp3",
-	["u_md5"]="264e2b834a3cbf58240716f6ee474c97",
-	["u_size"]=25.62,
+	["u_md5"]="bd93b6154a4c69021c75a9d1fe71279b",
+	["u_size"]=25.19,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/die22.mp3",
-	["u_md5"]="63dfc406792d43ea7081c44eddeb0bbe",
-	["u_size"]=27.76,
+	["u_md5"]="426f8698be4334d1d786cc9b83f835b4",
+	["u_size"]=27.33,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/die23.mp3",
-	["u_md5"]="35af9cf2b24c48387d3dd7930013565a",
-	["u_size"]=42.45,
+	["u_md5"]="d151750f72c8514ece1a8a29749b73c1",
+	["u_size"]=42,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/die24.mp3",
-	["u_md5"]="8693cc5bad3018091bdec4131686c333",
-	["u_size"]=21.94,
+	["u_md5"]="5c384e649913090bf0cd6ef0bd400ec1",
+	["u_size"]=21.52,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/die25.mp3",
-	["u_md5"]="cf0c5ddb385d5d38340c3ab81527f9d6",
-	["u_size"]=27.45,
+	["u_md5"]="e7efba16a61e936603648a46f7a63222",
+	["u_size"]=27.02,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/die26.mp3",
-	["u_md5"]="86cf04864c1effec1efe36f7da55248c",
-	["u_size"]=27.15,
+	["u_md5"]="275d9a26fab8ef67d1ed2a14256cb137",
+	["u_size"]=26.72,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/die27.mp3",
-	["u_md5"]="8badf5e684b45a9b868153752eb20251",
-	["u_size"]=20.1,
+	["u_md5"]="50ce473155591b7a0680367fc7a2e3f4",
+	["u_size"]=19.69,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/die28.mp3",
-	["u_md5"]="655eb85caa5cb9a4f9cabfa082c659ea",
-	["u_size"]=25.31,
+	["u_md5"]="769d5decea563969ab71c6e2dc481656",
+	["u_size"]=24.88,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/dtbg.mp3",
@@ -1113,8 +1124,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/fenghuolun5.mp3",
-	["u_md5"]="d562dde35cdc08f8aa6a1ac9d94c3ad9",
-	["u_size"]=21.02,
+	["u_md5"]="c9223753eb093e4d1e3f4d513004bb0a",
+	["u_size"]=20.6,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/frozen.mp3",
@@ -1133,13 +1144,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/jingubang4.mp3",
-	["u_md5"]="32dc44984417c7b862877dbd38aa7432",
-	["u_size"]=17.96,
+	["u_md5"]="dee145999f6156a154fbac23df9b3f80",
+	["u_size"]=17.55,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/jinyumantang9.mp3",
-	["u_md5"]="ba4bb2e90d712963a1c336f76acf1b6c",
-	["u_size"]=22.55,
+	["u_md5"]="f3482025b4e7d366b231987185ed5e9f",
+	["u_size"]=22.13,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/lightningeffect.mp3",
@@ -1153,13 +1164,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/luozha30.mp3",
-	["u_md5"]="2dd6194b5782c669bfa7de71eb2f190c",
-	["u_size"]=25,
+	["u_md5"]="6c276fd6e66cb3dcbdf29187ef522841",
+	["u_size"]=24.58,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/meirenyu29.mp3",
-	["u_md5"]="5e96da6fc1a28979050456ef58858bd3",
-	["u_size"]=25.62,
+	["u_md5"]="8a87469199687520e4eef2e9da6a2fd3",
+	["u_size"]=25.19,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/panel_open.mp3",
@@ -1173,8 +1184,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/shandianliansuo6.mp3",
-	["u_md5"]="87dcb45aea8545b1bbcafae6edb24967",
-	["u_size"]=25,
+	["u_md5"]="1ad6129fd96017949808e8c67b710718",
+	["u_size"]=24.58,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/shot.mp3",
@@ -1193,13 +1204,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/turntable.mp3",
-	["u_md5"]="25e3bf1131ca5f5eba6440a2de0c2e2b",
-	["u_size"]=35.86,
+	["u_md5"]="d9eb2a89ef94c18c47c184f67c38da4c",
+	["u_size"]=37.25,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/wanfouchaozong3.mp3",
-	["u_md5"]="b239dc0034a00a6f292ce8862ba7d2ec",
-	["u_size"]=26.53,
+	["u_md5"]="479e2b4ad290aab5acbe050367d3d874",
+	["u_size"]=26.11,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/wave.mp3",
@@ -1208,23 +1219,23 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/wukong1.mp3",
-	["u_md5"]="19aaef84d3285a7e50c411a89d08abef",
-	["u_size"]=23.78,
+	["u_md5"]="01d3a0f7b3065cfc795e422e2bedd596",
+	["u_size"]=23.36,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/yijianshuangdiao7.mp3",
-	["u_md5"]="50267860fe1c751b1b0c6872d1507799",
-	["u_size"]=23.78,
+	["u_md5"]="d49e94a3c197937c5610577131dbc192",
+	["u_size"]=23.36,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/yishisanyu8.mp3",
-	["u_md5"]="d824e8833cc0b3ee3c7f9664500b9cde",
-	["u_size"]=20.72,
+	["u_md5"]="a90008d0e49a31c6ed407ca9bb9bd4a3",
+	["u_size"]=20.3,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/yuhuangdadi2.mp3",
-	["u_md5"]="bf77a0dc824337bb901da2d548aa1f95",
-	["u_size"]=31.43,
+	["u_md5"]="35ec7dda1c5a3958694dd61fe06f0ee0",
+	["u_size"]=31,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/music/yxbg1.mp3",
@@ -1758,8 +1769,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerMediator.lua",
-	["u_md5"]="3a43db8dd411082ac93d08f9a3cb417c",
-	["u_size"]=6.62,
+	["u_md5"]="64bbb5d1b38ed0f0cc055005e1a137cd",
+	["u_size"]=6.71,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerView.lua",
@@ -1783,8 +1794,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishView.lua",
-	["u_md5"]="cdf370232f2c5e1a045ed7d8790bb55e",
-	["u_size"]=10.04,
+	["u_md5"]="1bd3c534bffba8745beb45abb8fdf7cf",
+	["u_size"]=10.1,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GNetMediator.lua",
@@ -1853,13 +1864,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerMediator.lua",
-	["u_md5"]="67d245f84f9a0307896b58f5ae9cb30c",
-	["u_size"]=12.59,
+	["u_md5"]="1c349400f9d28c2a7f48e648f7e54773",
+	["u_size"]=12.7,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
-	["u_md5"]="53563f4ed917719b0ea2c56d7ca18da2",
-	["u_size"]=20.1,
+	["u_md5"]="13d4354e9446953e05cf44599828fa57",
+	["u_size"]=20.38,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GPlayerMediator.lua",
@@ -1893,8 +1904,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GSkill/GSkillMediator.lua",
-	["u_md5"]="a58fcb704b01d6c4574250510fc1ee98",
-	["u_size"]=12.12,
+	["u_md5"]="198e36b382cff0f1765811ec4f4c10dd",
+	["u_size"]=12.08,
 	},
 {
 	["u_name"]="Games/GDntg/src/GSkill/GSkillView.lua",
@@ -1923,8 +1934,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GUILayerView.lua",
-	["u_md5"]="2fb290169641f1e48d3a160c6cd5783e",
-	["u_size"]=8.89,
+	["u_md5"]="4d419fbe4945d8028b2af9f620384072",
+	["u_size"]=8.9,
 	},
 {
 	["u_name"]="Games/GDntg/src/GameConst/DntgEvent.lua",
@@ -1963,8 +1974,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLogic.lua",
-	["u_md5"]="1ab85be7ce44358f20b6687c4bd0e552",
-	["u_size"]=17.02,
+	["u_md5"]="781cc24b6e711c0682d824c0d7370123",
+	["u_size"]=16.94,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GPlayerData.lua",
