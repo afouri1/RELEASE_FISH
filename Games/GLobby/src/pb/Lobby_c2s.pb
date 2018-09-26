@@ -2,7 +2,7 @@
 œ
 Lobby_c2s.protolobby",
 CreateClub_Req
-clubName (RclubName"&
+clubName (	RclubName"&
 JoinClub_Req
 clubId (RclubId"Æ
 CreateDesk_Req
