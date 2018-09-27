@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.0.95",
-["packageSize"] = 20657,
+["version"] = "1.0.97",
+["packageSize"] = 21338,
 ["date"] = "20180927",
 ["depends"] = {
 1000,
@@ -1148,6 +1148,11 @@ return {
 	["u_size"]=24.23,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/music/hallbackground.mp3",
+	["u_md5"]="b2adaeb435ffed2b54c439a3e96cf7e1",
+	["u_size"]=680.97,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/music/hitthefish.mp3",
 	["u_md5"]="7d286183c6000e17b85225cbd8f55a43",
 	["u_size"]=5.67,
@@ -1754,8 +1759,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="c00fd716da40b30e4f953cb59e71cfbd",
-	["u_size"]=26.71,
+	["u_md5"]="d091b328ba8c41a22461466eb5da428e",
+	["u_size"]=26.95,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -2019,8 +2024,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/sound/AudioManager.lua",
-	["u_md5"]="a6b842e7c10a1779bae2211f05f2f84a",
-	["u_size"]=9.48,
+	["u_md5"]="18f911ad77d02a8e8db574734b33e1c2",
+	["u_size"]=9.57,
 	},
 } 
 }
