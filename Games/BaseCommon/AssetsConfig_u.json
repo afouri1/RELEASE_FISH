@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.0.90",
-["packageSize"] = 7859,
-["date"] = "20180926",
+["version"] = "1.0.93",
+["packageSize"] = 7860,
+["date"] = "20180927",
 ["depends"] = {
 10002,
 10003,
@@ -18,8 +18,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/CommonFunc.lua",
-	["u_md5"]="9523ab4bd3b261a5ff92eed8328bb5ea",
-	["u_size"]=4.63,
+	["u_md5"]="a33738e20ce69a81aa7ee4a317d1731b",
+	["u_size"]=6.89,
 	},
 {
 	["u_name"]="Games/BaseCommon/ErrorHandler.lua",
@@ -33,8 +33,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/GameNetwork/GameSocket.lua",
-	["u_md5"]="4a6a8c13793c094b8eefcd9e706c05ed",
-	["u_size"]=15.28,
+	["u_md5"]="dd430ba17a9e4c0d4060eee0ec0b5637",
+	["u_size"]=15.33,
 	},
 {
 	["u_name"]="Games/BaseCommon/GameNetwork/GameSocketEvent.lua",
@@ -78,8 +78,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/TYFramework/LuaNotifCenter.lua",
-	["u_md5"]="845a6c2fd4739308e74b2dcc73b4c146",
-	["u_size"]=6.73,
+	["u_md5"]="c32cb0d863635989750feaa600493dde",
+	["u_size"]=7.53,
 	},
 {
 	["u_name"]="Games/BaseCommon/TYFramework/Sandbox.lua",
@@ -163,8 +163,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/res/comTips/ComTips.json",
-	["u_md5"]="8d399249beaa1501f9b87884ce69da5b",
-	["u_size"]=17.36,
+	["u_md5"]="6749ffa6c968ad7fa84fb27dc0d04b60",
+	["u_size"]=17.05,
 	},
 {
 	["u_name"]="Games/BaseCommon/res/comTips/button_no.png",
@@ -183,8 +183,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/res/comTips/pop.png",
-	["u_md5"]="01fd2155d54e11eceb46aee0be889d12",
-	["u_size"]=217.11,
+	["u_md5"]="6784353ccd07c6bd8a92628b4b0c92ef",
+	["u_size"]=215.88,
 	},
 {
 	["u_name"]="Games/BaseCommon/res/hei_bian.jpg",
@@ -248,8 +248,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/KeyboardHandler.lua",
-	["u_md5"]="1510a0b70c6c9e9a36dd670e3dc267a3",
-	["u_size"]=5.66,
+	["u_md5"]="cd7a9d227ef2e42a32d9d19ce5e26c7b",
+	["u_size"]=5.8,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/MyAnimation.lua",

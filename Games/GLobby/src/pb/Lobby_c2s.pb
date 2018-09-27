@@ -1,5 +1,5 @@
 
-œ
+¢
 Lobby_c2s.protolobby",
 CreateClub_Req
 clubName (	RclubName"&
@@ -50,11 +50,11 @@ clubLogoId
 ChangeMemberPower_Req
 clubId (RclubId
 changeId (RchangeId*
-changeMemberType (RchangeMemberType"…
+changeMemberType (RchangeMemberType"‹
 GiveAskGift_Req
 giveId (RgiveId
-	receiveId (R	receiveId
-type (Rtype
+	receiveId (R	receiveId
+reqType (RreqType
 giftId (RgiftId
 num (Rnum"f
 GiftRecord_Req

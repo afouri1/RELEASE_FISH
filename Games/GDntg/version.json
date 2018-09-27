@@ -2,13 +2,22 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.0.90",
-["packageSize"] = 20656,
-["date"] = "20180926",
+["version"] = "1.0.93",
+["packageSize"] = 20657,
+["date"] = "20180927",
 ["depends"] = {
 1000,
 },
-["newDetails"] = [[1.【质检】【外网】【android】进入游戏时会替换掉已在座位上的玩家  
+["newDetails"] = [[更新内容:
+1.转盘数字规则修改
+2.金银数字修改
+3.音效修改
+4.界面UI调整
+5.游戏内卡死BUG修改
+
+
+近期更新:
+1.【质检】【外网】【android】进入游戏时会替换掉已在座位上的玩家  
 2.【质检】提示版本更新后，点击确定，无法完成下载  
 3.【质检】账号重复登录时没有提示，也没有将其中一个踢下线 
 4.【质检】【内网】【android】进入房间的玩家看不到其它玩家  
@@ -20,6 +29,7 @@ return {
 10.【质检】微信登录的号是单独的，不能串号，进入游戏之后，其他玩家也进入，自己会起立
 11.【质检】冰冻完之后，出现boss，没有出现警报声音和boss背景音效 
 12.【质检】通用提示弹窗点击一下提示一个，现在一直在弹 
+
 ]],
 ["assets"] = {} 
 }

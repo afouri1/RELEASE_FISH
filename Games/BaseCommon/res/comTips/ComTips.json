@@ -10,12 +10,7 @@
   "designHeight": 1280,
   "designWidth": 720,
   "textures": [],
-  "texturesPng": [
-    "Games/BaseCommon/res/comTips/pop.png",
-    "Games/BaseCommon/res/comTips/close.png",
-    "Games/BaseCommon/res/comTips/button_yes.png",
-    "Games/BaseCommon/res/comTips/button_no.png"
-  ],
+  "texturesPng": [],
   "version": "1.6.0.0",
   "widgetTree": {
     "classname": "Panel",
@@ -48,8 +43,8 @@
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
-              "positionPercentX": 0.410094649,
-              "positionPercentY": 0.392670155,
+              "positionPercentX": 0.4123335,
+              "positionPercentY": 0.392512083,
               "positionType": 0,
               "rotation": 0,
               "scaleX": 1,
@@ -60,10 +55,10 @@
               "tag": 1023,
               "touchAble": false,
               "useMergedTexture": false,
-              "visible": true,
+              "visible": false,
               "width": 66,
-              "x": 260,
-              "y": 150,
+              "x": 251,
+              "y": 144,
               "capInsetsHeight": 1,
               "capInsetsWidth": 1,
               "capInsetsX": 0,
@@ -232,7 +227,7 @@
               "fontName": "微软雅黑",
               "fontSize": 27,
               "hAlignment": 1,
-              "text": "生动风景爱问金佛看东方海外和肺癌我问问而覅环卫服安慰法违法安慰法奇发额无法偶i",
+              "text": "QQ",
               "touchScaleEnable": false,
               "vAlignment": 1
             }
@@ -325,7 +320,7 @@
               "layoutParameter": null,
               "opacity": 255,
               "positionPercentX": 0,
-              "positionPercentY": -0.327225059,
+              "positionPercentY": -0.324607342,
               "positionType": 0,
               "rotation": 0,
               "scaleX": 1,
@@ -389,7 +384,7 @@
               "layoutParameter": null,
               "opacity": 255,
               "positionPercentX": 0.190851733,
-              "positionPercentY": -0.327225119,
+              "positionPercentY": -0.324607342,
               "positionType": 0,
               "rotation": 0,
               "scaleX": 1,
@@ -445,7 +440,7 @@
           "customProperty": "",
           "flipX": false,
           "flipY": false,
-          "height": 382,
+          "height": 368,
           "ignoreSize": true,
           "layoutParameter": null,
           "opacity": 255,
@@ -462,7 +457,7 @@
           "touchAble": false,
           "useMergedTexture": false,
           "visible": true,
-          "width": 634,
+          "width": 609,
           "x": 0,
           "y": 0,
           "capInsetsHeight": 1,
@@ -476,8 +471,8 @@
             "resourceType": 0
           },
           "scale9Enable": false,
-          "scale9Height": 382,
-          "scale9Width": 634
+          "scale9Height": 368,
+          "scale9Width": 609
         }
       }
     ],
