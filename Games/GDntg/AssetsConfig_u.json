@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.0.93",
+["version"] = "1.0.94",
 ["packageSize"] = 20657,
 ["date"] = "20180927",
 ["depends"] = {
@@ -1754,7 +1754,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="92ac65ba784c007de9f7c1d21182aa3e",
+	["u_md5"]="c00fd716da40b30e4f953cb59e71cfbd",
 	["u_size"]=26.71,
 	},
 {

@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.0.93",
-["packageSize"] = 11626,
+["version"] = "1.0.94",
+["packageSize"] = 11627,
 ["date"] = "20180927",
 ["depends"] = {
 10001,
