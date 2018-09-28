@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.0.102",
+["version"] = "1.0.104",
 ["packageSize"] = 12691,
 ["date"] = "20180928",
 ["depends"] = {
@@ -1693,8 +1693,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLogoActionLayer.lua",
-	["u_md5"]="97426bd356bb0801c1481289858ea3f6",
-	["u_size"]=1.91,
+	["u_md5"]="cb372d0b16d99e8fd5ab7357034f7a55",
+	["u_size"]=2.14,
 	},
 {
 	["u_name"]="Games/GLobby/src/NetworkConfig/LobbyNetworkCmd.lua",
