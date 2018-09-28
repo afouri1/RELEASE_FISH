@@ -10,7 +10,24 @@
   "designHeight": 1280,
   "designWidth": 720,
   "textures": [],
-  "texturesPng": [],
+  "texturesPng": [
+    "Games/GLobby/res/common/bg.png",
+    "Games/GLobby/res/common/img_panel.png",
+    "Games/GLobby/res/club/clubManage/icon_huizhang1.png",
+    "Games/GLobby/res/club/addMember/img_shurukuang.png",
+    "Games/GLobby/res/club/clubManage/txt_js.png",
+    "Games/GLobby/res/club/clubManage/txt_xg.png",
+    "Games/GLobby/res/club/clubManage/txt_cjr.png",
+    "Games/GLobby/res/common/img_person_head.png",
+    "Games/GLobby/res/club/clubManage/txt_cjsj.png",
+    "Games/GLobby/res/common/sheet_ptzsjl.png",
+    "Games/GLobby/res/common/img_seg.png",
+    "Games/GLobby/res/club/clubManage/cm_item1.png",
+    "Games/GLobby/res/club/clubManage/cm_item2.png",
+    "Games/GLobby/res/club/clubManage/cm_item3.png",
+    "Games/GLobby/res/club/clubManage/cm_item4.png",
+    "Games/GLobby/res/club/button_jsjlb.png"
+  ],
   "version": "1.6.0.0",
   "widgetTree": {
     "classname": "Panel",
@@ -671,7 +688,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 80,
+              "height": 54,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -688,7 +705,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 80,
+              "width": 54,
               "x": -160,
               "y": -150,
               "capInsetsHeight": 1,
@@ -697,13 +714,13 @@
               "capInsetsY": 0,
               "fileName": null,
               "fileNameData": {
-                "path": "C:\\Program Files (x86)\\Cocos Studio\\EditorDefaultRes\\GUI/image.png",
+                "path": "Games/GLobby/res/common/img_person_head.png",
                 "plistFile": "",
-                "resourceType": 2
+                "resourceType": 0
               },
               "scale9Enable": false,
-              "scale9Height": 80,
-              "scale9Width": 80
+              "scale9Height": 54,
+              "scale9Width": 54
             }
           },
           {

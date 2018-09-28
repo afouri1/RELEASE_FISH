@@ -41,7 +41,7 @@ difficulty&
 
 clubLogoId (R
 clubLogoId
-clubName (RclubName
+clubName (	RclubName
 	briefIntr (	R	briefIntr")
 DismissClub_Req
 clubId (RclubId"+
