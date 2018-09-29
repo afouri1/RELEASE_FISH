@@ -13,7 +13,7 @@
   "texturesPng": [
     "Games/GLobby/res/club/memberManage/button_zs.png",
     "Games/GLobby/res/club/memberManage/pop_cygl.png",
-    "Games/GLobby/res/club/clubHead/icon_huizhang1.png",
+    "Games/GLobby/res/common/img_person_head.png",
     "Games/GLobby/res/club/memberManage/ico_chengyuan.png",
     "Games/GLobby/res/club/memberManage/ico_guanliyuan.png",
     "Games/GLobby/res/club/memberManage/button_swgly.png",
@@ -155,7 +155,7 @@
               "capInsetsY": 0,
               "fileName": null,
               "fileNameData": {
-                "path": "Games/GLobby/res/club/clubHead/icon_huizhang1.png",
+                "path": "Games/GLobby/res/common/img_person_head.png",
                 "plistFile": "",
                 "resourceType": 0
               },
@@ -449,7 +449,7 @@
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
-              "positionPercentX": -0.0509338,
+              "positionPercentX": -0.0509337857,
               "positionPercentY": 0.379746825,
               "positionType": 0,
               "rotation": 0,

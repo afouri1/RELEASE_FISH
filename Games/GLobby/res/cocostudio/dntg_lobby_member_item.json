@@ -10,7 +10,15 @@
   "designHeight": 78,
   "designWidth": 692,
   "textures": [],
-  "texturesPng": [],
+  "texturesPng": [
+    "Games/GLobby/res/club/memberManage/sheet_cygl.png",
+    "Games/GLobby/res/common/img_person_head.png",
+    "Games/GLobby/res/club/memberManage/ico_chengyuan.png",
+    "Games/GLobby/res/club/memberManage/ico_guanliyuan.png",
+    "Games/GLobby/res/club/memberManage/ico_chuangshiren.png",
+    "Games/GLobby/res/club/memberManage/button_guanli.png",
+    "Games/GLobby/res/club/memberManage/button_jilu.png"
+  ],
   "version": "1.6.0.0",
   "widgetTree": {
     "classname": "Panel",
@@ -89,8 +97,8 @@
           "customProperty": "",
           "flipX": false,
           "flipY": false,
-          "height": 70,
-          "ignoreSize": false,
+          "height": 54,
+          "ignoreSize": true,
           "layoutParameter": null,
           "opacity": 255,
           "positionPercentX": 0.06647399,
@@ -106,7 +114,7 @@
           "touchAble": false,
           "useMergedTexture": false,
           "visible": true,
-          "width": 70,
+          "width": 54,
           "x": 46,
           "y": 39,
           "capInsetsHeight": 1,
@@ -115,13 +123,13 @@
           "capInsetsY": 0,
           "fileName": null,
           "fileNameData": {
-            "path": "Games/GLobby/res/club/Club_member_add2.png",
+            "path": "Games/GLobby/res/common/img_person_head.png",
             "plistFile": "",
-            "resourceType": 2
+            "resourceType": 0
           },
           "scale9Enable": false,
-          "scale9Height": 70,
-          "scale9Width": 70
+          "scale9Height": 54,
+          "scale9Width": 54
         }
       },
       {
