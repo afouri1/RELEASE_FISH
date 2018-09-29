@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.0.107",
+["version"] = "1.0.108",
 ["packageSize"] = 21342,
 ["date"] = "20180929",
 ["depends"] = {
@@ -1879,8 +1879,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerMediator.lua",
-	["u_md5"]="1e38f8819a63eb8847db675628ef5ada",
-	["u_size"]=12.7,
+	["u_md5"]="810612ece6422243a7e503997898b68f",
+	["u_size"]=12.75,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
