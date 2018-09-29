@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.0.110",
+["version"] = "1.0.111",
 ["packageSize"] = 21343,
 ["date"] = "20180929",
 ["depends"] = {
@@ -1989,8 +1989,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLogic.lua",
-	["u_md5"]="182f1da67dd648eccb7271526c014614",
-	["u_size"]=17.03,
+	["u_md5"]="458003cf34feaab5436cfd10f57de8d7",
+	["u_size"]=17.02,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GPlayerData.lua",
