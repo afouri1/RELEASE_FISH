@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.0.117",
-["packageSize"] = 24279,
+["version"] = "1.0.118",
+["packageSize"] = 24289,
 ["date"] = "20180930",
 ["depends"] = {
 1000,
@@ -917,8 +917,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fontNum/brdszp.png",
-	["u_md5"]="6e8c88abaae44c5cc3b5cf0cd24404a6",
-	["u_size"]=28.82,
+	["u_md5"]="eccb109a547768494dfde561f1b79c73",
+	["u_size"]=34.71,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fontNum/num_gold.png",
@@ -962,8 +962,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fontNum/zjdszp.png",
-	["u_md5"]="90fe40a9a63a6f8bdba823b6a490d9b2",
-	["u_size"]=26.06,
+	["u_md5"]="925e0208f33a058ce51ab940079b2a7e",
+	["u_size"]=30.37,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jiguang.plist",
@@ -2027,8 +2027,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerMediator.lua",
-	["u_md5"]="e4430b5d132d3ef39741f3b3fa6163e8",
-	["u_size"]=7.08,
+	["u_md5"]="4d776d34c4144b57e6d9f5d5100d7578",
+	["u_size"]=7.1,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerView.lua",
@@ -2052,7 +2052,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishView.lua",
-	["u_md5"]="d28ccc52c5dcddd9f2eac85ee0026645",
+	["u_md5"]="dee02e9acc160be8e2d35357df8e2eb5",
 	["u_size"]=11.03,
 	},
 {
@@ -2127,8 +2127,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
-	["u_md5"]="6b36a65318cbb66c19908ec255878d91",
-	["u_size"]=20.47,
+	["u_md5"]="3fb80c55a814ea49c76a06026597344b",
+	["u_size"]=20.49,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GPlayerMediator.lua",
