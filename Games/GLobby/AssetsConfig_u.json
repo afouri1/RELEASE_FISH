@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.0.120",
-["packageSize"] = 12890,
+["version"] = "1.0.121",
+["packageSize"] = 12895,
 ["date"] = "20180930",
 ["depends"] = {
 10001,
@@ -813,8 +813,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/dntg_lobby_card_manage.json",
-	["u_md5"]="0d8677780462459d60a963a0e8e019b8",
-	["u_size"]=53.3,
+	["u_md5"]="c45a6c71676e53acdd1762f09d5278fc",
+	["u_size"]=58.02,
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/dntg_lobby_club_manage.json",
@@ -1513,8 +1513,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardManageLayerView.lua",
-	["u_md5"]="8637c886a64d410f61fe966615a7fef8",
-	["u_size"]=15.06,
+	["u_md5"]="2c3f1fb306387b69fd32b3035a0b8783",
+	["u_size"]=15.39,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubListLayerItem.lua",
