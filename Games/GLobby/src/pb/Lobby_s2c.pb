@@ -1,5 +1,5 @@
 
-Æ
+ž
 Lobby_s2c.protolobbyLobby_Basis.proto"/
 ClubList_Ret
 club (2.lobby.ClubRclub"7
@@ -8,10 +8,9 @@
 JoinClub_Ret%
 result (2.lobby.ResultRresult"7
 CreateDesk_Ret%
-result (2.lobby.ResultRresult"^
-DesksInfo_Ret
-desk (2.lobby.DeskRdesk,
-manage (2.lobby.DeskForManageRmanage"7
+result (2.lobby.ResultRresult"6
+DesksInfo_Ret%
+desks (2.lobby.DeskInfoRdesks"7
 ModifyDesk_Ret%
 result (2.lobby.ResultRresult"6
 CloseDesk_Ret%
