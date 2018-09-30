@@ -1,5 +1,5 @@
 
-„
+ª
 	s2c.proto"#
 ServerTimeRet
 time (Rtime"¨
@@ -13,7 +13,9 @@
 LogoUrl (	RLogoUrl"A
 CMD_UserLoginRet
 ret (Rret
-uer (2	.UserInfoRuer"v
+uer (2	.UserInfoRuer"$
+CMD_UserLeaveRet
+ret (Rret"v
 CMD_UserLoginGameRet
 ret (Rret
 appid (Rappid

@@ -1,9 +1,9 @@
 
-¨
+Â
 dntg_s2c.protodntgdntg_Basis.proto"D
 CreateRoom_Ret
 roomType (RroomType
-roomId (RroomId"”
+roomId (RroomId"®
 RoomInfo_Ret
 	errorCode (R	errorCode
 roomId (RroomId
@@ -12,7 +12,8 @@
 players (2.dntg.PlayerRplayers$
 fishs (2.dntg.FishInfoRfishs&
 bullets (2.dntg.BulletRbullets 
-selectionId (RselectionId"T
+selectionId (RselectionId
+bltBase	 (RbltBase"T
 JoinGame_Ret&
 players (2.dntg.PlayerRplayers
 	errorCode (R	errorCode",

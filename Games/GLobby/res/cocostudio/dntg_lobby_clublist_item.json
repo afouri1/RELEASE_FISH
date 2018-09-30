@@ -10,7 +10,11 @@
   "designHeight": 165,
   "designWidth": 720,
   "textures": [],
-  "texturesPng": [],
+  "texturesPng": [
+    "Games/GLobby/res/common/img_panel.png",
+    "Games/GLobby/res/club/clubHead/icon_huizhang1.png",
+    "Games/GLobby/res/common/img_shurukuang.png"
+  ],
   "version": "1.6.0.0",
   "widgetTree": {
     "classname": "Panel",
@@ -89,7 +93,7 @@
           "customProperty": "",
           "flipX": false,
           "flipY": false,
-          "height": 80,
+          "height": 136,
           "ignoreSize": true,
           "layoutParameter": null,
           "opacity": 255,
@@ -106,7 +110,7 @@
           "touchAble": false,
           "useMergedTexture": false,
           "visible": true,
-          "width": 80,
+          "width": 109,
           "x": 80,
           "y": 83,
           "capInsetsHeight": 1,
@@ -115,13 +119,13 @@
           "capInsetsY": 0,
           "fileName": null,
           "fileNameData": {
-            "path": "C:\\Program Files (x86)\\Cocos Studio\\EditorDefaultRes\\GUI/image.png",
+            "path": "Games/GLobby/res/club/clubHead/icon_huizhang1.png",
             "plistFile": "",
-            "resourceType": 2
+            "resourceType": 0
           },
           "scale9Enable": false,
-          "scale9Height": 80,
-          "scale9Width": 80
+          "scale9Height": 136,
+          "scale9Width": 109
         }
       },
       {
