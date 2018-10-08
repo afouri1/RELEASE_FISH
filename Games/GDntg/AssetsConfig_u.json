@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.0.123",
+["version"] = "1.0.124",
 ["packageSize"] = 24986,
 ["date"] = "20181008",
 ["depends"] = {
@@ -1959,8 +1959,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/EffctTime.lua",
-	["u_md5"]="cfa81fac0535f12b56c6810006a759f0",
-	["u_size"]=1.86,
+	["u_md5"]="4f05c890a49f8c34e9800af80a455dc7",
+	["u_size"]=1.87,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish.lua",
@@ -2274,8 +2274,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLogic.lua",
-	["u_md5"]="d1c12e0e834a1bc284f8582208ac079e",
-	["u_size"]=17.24,
+	["u_md5"]="a88b89a8a61b95811a5c59fbb26f546a",
+	["u_size"]=17.39,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GPlayerData.lua",
