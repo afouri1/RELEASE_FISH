@@ -115,7 +115,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 170,
+              "width": 136,
               "x": -210,
               "y": 0,
               "areaHeight": 0,
@@ -124,7 +124,7 @@
               "fontName": "Games/GLobby/res/font/fangzhengzhunyuan.TTF",
               "fontSize": 34,
               "hAlignment": 0,
-              "text": "俱乐部头像",
+              "text": "渔场头像",
               "touchScaleEnable": false,
               "vAlignment": 0
             }
@@ -274,7 +274,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 170,
+              "width": 136,
               "x": -210,
               "y": 0,
               "areaHeight": 0,
@@ -283,7 +283,7 @@
               "fontName": "Games/GLobby/res/font/fangzhengzhunyuan.TTF",
               "fontSize": 34,
               "hAlignment": 0,
-              "text": "俱乐部名称",
+              "text": "渔场名称",
               "touchScaleEnable": false,
               "vAlignment": 0
             }
@@ -374,7 +374,7 @@
               "touchAble": true,
               "useMergedTexture": false,
               "visible": true,
-              "width": 224,
+              "width": 196,
               "x": 170,
               "y": 0,
               "areaHeight": 0,
@@ -386,7 +386,7 @@
               "maxLengthEnable": false,
               "passwordEnable": false,
               "passwordStyleText": "*",
-              "placeHolder": "请输入俱乐部名称",
+              "placeHolder": "请输入渔场名称",
               "text": ""
             }
           }
@@ -477,7 +477,7 @@
           "touchAble": false,
           "useMergedTexture": false,
           "visible": true,
-          "width": 170,
+          "width": 136,
           "x": 150,
           "y": 810,
           "areaHeight": 0,
@@ -486,7 +486,7 @@
           "fontName": "Games/GLobby/res/font/fangzhengzhunyuan.TTF",
           "fontSize": 34,
           "hAlignment": 0,
-          "text": "俱乐部简介",
+          "text": "渔场简介",
           "touchScaleEnable": false,
           "vAlignment": 0
         }

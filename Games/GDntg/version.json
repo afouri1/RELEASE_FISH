@@ -2,20 +2,22 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.0.122",
-["packageSize"] = 24290,
-["date"] = "20180930",
+["version"] = "1.0.123",
+["packageSize"] = 24986,
+["date"] = "20181008",
 ["depends"] = {
 1000,
 },
-["newDetails"] = [[版本更新内容:
-1.俱乐部加入房间错误修复
+["newDetails"] = [[版本更新提示
+1.俱乐部界面调整
 2.大厅界面调整
-3.捕鱼游戏鱼游动速度调整
-4.捕鱼游戏金币、数字、界面替换
-5.音效播放条件修改
-6.部分鱼资源替换
-7.其他bug修复
+3.大厅输入框点击区域及输入框字体大小修改
+4.添加大厅自动消失和通用提示弹窗
+5.游戏内更多按钮界面修改
+6.捕中鱼炮弹爆炸位置修改
+7.跳动及转盘金币调整
+8.小鱼音效可以共存
+9.微信登陆串号
 
 
 ]],
