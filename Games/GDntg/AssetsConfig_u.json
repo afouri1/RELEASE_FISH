@@ -2,22 +2,19 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.0.126",
+["version"] = "1.0.127",
 ["packageSize"] = 25130,
 ["date"] = "20181009",
 ["depends"] = {
 1000,
 },
 ["newDetails"] = [[版本更新提示
-1.俱乐部界面调整
-2.大厅界面调整
-3.大厅输入框点击区域及输入框字体大小修改
-4.添加大厅自动消失和通用提示弹窗
-5.游戏内更多按钮界面修改
-6.捕中鱼炮弹爆炸位置修改
-7.跳动及转盘金币调整
-8.小鱼音效可以共存
-9.微信登陆串号
+1.大厅公告界面调整
+2.渔场常见解散修复
+3.提示弹窗替换资源
+4.俱乐部界面显示调整
+5.小鱼音效按概率播放
+6.转盘金币及显示修复
 
 
 ]],
@@ -2059,7 +2056,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
-	["u_md5"]="9e4590ae1e4615c6f4df960e69352b74",
+	["u_md5"]="7d7d346524433b55fbb6be56a80e38de",
 	["u_size"]=5.75,
 	},
 {
