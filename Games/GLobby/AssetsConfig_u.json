@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.0.124",
-["packageSize"] = 12938,
-["date"] = "20181008",
+["version"] = "1.0.126",
+["packageSize"] = 12793,
+["date"] = "20181009",
 ["depends"] = {
 10001,
 1001,
@@ -18,7 +18,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
-	["u_md5"]="41e7f9cd4387e9e0e6029bb69125d25f",
+	["u_md5"]="03ab7629c467b5553f29aee4c51eb564",
 	["u_size"]=22.22,
 	},
 {
@@ -43,33 +43,28 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/main.lua",
-	["u_md5"]="c63dfdc26953f6783e5323e43180fc4d",
-	["u_size"]=4.75,
+	["u_md5"]="af44cce3dd1ba294d76f20f540f62b39",
+	["u_size"]=3.61,
 	},
 {
 	["u_name"]="Games/GLobby/res/ComTips/LobbyComTips.json",
-	["u_md5"]="fddc03d0203d8e9dae1636da7649ae58",
-	["u_size"]=21.4,
+	["u_md5"]="5597d2dd064efea1bff2dcc507562c64",
+	["u_size"]=19.37,
 	},
 {
 	["u_name"]="Games/GLobby/res/ComTips/button_queding.png",
-	["u_md5"]="f7e233018307f1678ec09d233aea326c",
-	["u_size"]=2.61,
+	["u_md5"]="0c85cb7419b25afdb18a2fd3f52763c9",
+	["u_size"]=2.55,
 	},
 {
 	["u_name"]="Games/GLobby/res/ComTips/button_quxiao.png",
-	["u_md5"]="ef52b495bfa099b4171c3c9b4a7fe040",
-	["u_size"]=2.94,
+	["u_md5"]="e0997141b81f245050a5d53fbd58d29d",
+	["u_size"]=2.87,
 	},
 {
-	["u_name"]="Games/GLobby/res/ComTips/input.png",
-	["u_md5"]="0378a9d72fa2fddf59c3de71956c72a9",
-	["u_size"]=3.05,
-	},
-{
-	["u_name"]="Games/GLobby/res/ComTips/sheet_fxxbb.png",
-	["u_md5"]="715f8f57631f62461ab946c19d3517cf",
-	["u_size"]=309.38,
+	["u_name"]="Games/GLobby/res/ComTips/pop_xzsb.png",
+	["u_md5"]="1c36dfefe46edf1f4b417e55751db139",
+	["u_size"]=170.36,
 	},
 {
 	["u_name"]="Games/GLobby/res/TYmanifest/Common_button_1.png",

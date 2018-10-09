@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.0.124",
-["packageSize"] = 24986,
-["date"] = "20181008",
+["version"] = "1.0.126",
+["packageSize"] = 25130,
+["date"] = "20181009",
 ["depends"] = {
 1000,
 },
@@ -99,8 +99,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/cocostudio/UI_Lock.json",
-	["u_md5"]="f18013e3d6e3f5e9fc2b3a0381e49033",
-	["u_size"]=19.3,
+	["u_md5"]="60ca4f524f709ed0249fe3b923bd8574",
+	["u_size"]=19.09,
 	},
 {
 	["u_name"]="Games/GDntg/res/cocostudio/myPosTip.json",
@@ -1001,6 +1001,16 @@ return {
 	["u_name"]="Games/GDntg/res/game/fontNum/zjdszp.png",
 	["u_md5"]="4358cbc9c90ed55295432d503f3f0387",
 	["u_size"]=43.53,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Kingfish.plist",
+	["u_md5"]="80e13ccfd533104cdbf6d119a13ea1a1",
+	["u_size"]=7.41,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Kingfish.png",
+	["u_md5"]="dac98e2188ed795c8186cd84bdc060c6",
+	["u_size"]=135.6,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jiguang.plist",
@@ -1964,13 +1974,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish.lua",
-	["u_md5"]="1be9d9d8a9bd39513520394dd4a98a39",
-	["u_size"]=32,
+	["u_md5"]="e1394284b0c4ebac0f21d91dd9e56b3d",
+	["u_size"]=32.15,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish1.lua",
-	["u_md5"]="a9a12c55d2576e7954395b6a39e8555d",
-	["u_size"]=11.3,
+	["u_md5"]="d21ff52fe9e68dc9e03893fb4e44b843",
+	["u_size"]=11.45,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/FishSkill.lua",
@@ -2089,13 +2099,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishMediator.lua",
-	["u_md5"]="6777e785c8c35a764597cbe17df545c7",
-	["u_size"]=17.6,
+	["u_md5"]="f6b7b23a1e75eb651efcb7646059175f",
+	["u_size"]=17.74,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishView.lua",
-	["u_md5"]="609e1e643051df8b738bc086dfb6be4f",
-	["u_size"]=11.06,
+	["u_md5"]="42da21f7cbbc08c3429bbc3be6dac942",
+	["u_size"]=11.47,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GNetMediator.lua",
@@ -2114,8 +2124,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GShadowView.lua",
-	["u_md5"]="bf4fa267806a3bafa5e8576bf78c9c97",
-	["u_size"]=4.2,
+	["u_md5"]="61a89e53d1950c07ea639b812f191774",
+	["u_size"]=4.27,
 	},
 {
 	["u_name"]="Games/GDntg/src/GFishFormation/GFishFormatConfig.lua",
@@ -2164,13 +2174,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerMediator.lua",
-	["u_md5"]="9f38e2c9cb37a5f8362a8a7b34885644",
-	["u_size"]=12.75,
+	["u_md5"]="a1be51c91a6254c44eec5fc66c10b27c",
+	["u_size"]=12.76,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
-	["u_md5"]="7cd346bc4fa13860adf2d105039ffdee",
-	["u_size"]=21.18,
+	["u_md5"]="96621890c9615931d613dd5b17d69c81",
+	["u_size"]=21.69,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GPlayerMediator.lua",
@@ -2219,8 +2229,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GLockUIView.lua",
-	["u_md5"]="67b235eb4545600b8059db5825791af1",
-	["u_size"]=6.33,
+	["u_md5"]="2b9ab135950a0d39324ac8985e7ce49a",
+	["u_size"]=6.32,
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GNoviceGuideLayer.lua",
