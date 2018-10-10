@@ -1,13 +1,14 @@
 
-ï
+‡
 dntg_c2s.protodntgdntg_Basis.proto",
 CreateRoom_Req
-roomType (RroomType"J
+roomType (RroomType"b
 JoinGame_Req
 roomType (RroomType
 
 clubDeskId (R
-clubDeskId"+
+clubDeskId
+clubId (RclubId"+
 ChangeGun_Req
 newGunLv (RnewGunLv"8
 SendBullet_Req&

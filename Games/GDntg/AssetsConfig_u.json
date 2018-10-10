@@ -2,19 +2,19 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.0.129",
-["packageSize"] = 25130,
-["date"] = "20181009",
+["version"] = "1.0.130",
+["packageSize"] = 25133,
+["date"] = "20181010",
 ["depends"] = {
 1000,
 },
 ["newDetails"] = [[版本更新提示
-1.大厅公告界面调整
-2.渔场常见解散修复
-3.提示弹窗替换资源
-4.俱乐部界面显示调整
-5.小鱼音效按概率播放
-6.转盘金币及显示修复
+1.大厅输入框点击区域修复
+2.俱乐部界面显示修复
+3.俱乐部群发消息修复
+4.大厅自动消失弹窗添加
+5.鱼阵重叠
+6.logo影子去掉
 
 
 ]],
@@ -75,6 +75,11 @@ return {
 	["u_size"]=7.01,
 	},
 {
+	["u_name"]="Games/GDntg/res/blank.png",
+	["u_md5"]="8353ff2cd353e549c85d3377f4b1eaa8",
+	["u_size"]=2.74,
+	},
+{
 	["u_name"]="Games/GDntg/res/cocostudio/Panel_exit.json",
 	["u_md5"]="0962927e14644593ca452d9f60500d2f",
 	["u_size"]=12.05,
@@ -106,8 +111,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/cocostudio/noviceGuide_UI.json",
-	["u_md5"]="b6a33bc3f3d6c013463c3b6f19baaa88",
-	["u_size"]=151.87,
+	["u_md5"]="b67c59c3c778accc4c45e673a97f669b",
+	["u_size"]=151.86,
 	},
 {
 	["u_name"]="Games/GDntg/res/fire.plist",
@@ -2051,12 +2056,12 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="6d82e8052551e91baceda1cf2dcc6a41",
+	["u_md5"]="6b2f0070e6fb7e0023d42bce7d51efff",
 	["u_size"]=29.33,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
-	["u_md5"]="7d7d346524433b55fbb6be56a80e38de",
+	["u_md5"]="9e4590ae1e4615c6f4df960e69352b74",
 	["u_size"]=5.75,
 	},
 {
@@ -2231,8 +2236,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GNoviceGuideLayer.lua",
-	["u_md5"]="5864f62fdb89eb64f8ff049bdb9cfc4b",
-	["u_size"]=2.23,
+	["u_md5"]="05467ae8611bf20c280f6ecb61e4f714",
+	["u_size"]=2.24,
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GUILayerMediator.lua",
@@ -2281,8 +2286,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLogic.lua",
-	["u_md5"]="a88b89a8a61b95811a5c59fbb26f546a",
-	["u_size"]=17.39,
+	["u_md5"]="0af296e573f00ef758e02cec70f6c504",
+	["u_size"]=17.4,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GPlayerData.lua",
@@ -2306,8 +2311,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/pb/dntg_c2s.pb",
-	["u_md5"]="115fae2f8180b3cc17f397872a50f7ae",
-	["u_size"]=0.36,
+	["u_md5"]="ed450fa668f84de2001645d79f20da85",
+	["u_size"]=0.38,
 	},
 {
 	["u_name"]="Games/GDntg/src/pb/dntg_s2c.pb",

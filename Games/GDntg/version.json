@@ -2,19 +2,19 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.0.129",
-["packageSize"] = 25130,
-["date"] = "20181009",
+["version"] = "1.0.130",
+["packageSize"] = 25133,
+["date"] = "20181010",
 ["depends"] = {
 1000,
 },
 ["newDetails"] = [[版本更新提示
-1.大厅公告界面调整
-2.渔场常见解散修复
-3.提示弹窗替换资源
-4.俱乐部界面显示调整
-5.小鱼音效按概率播放
-6.转盘金币及显示修复
+1.大厅输入框点击区域修复
+2.俱乐部界面显示修复
+3.俱乐部群发消息修复
+4.大厅自动消失弹窗添加
+5.鱼阵重叠
+6.logo影子去掉
 
 
 ]],
