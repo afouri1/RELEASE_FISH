@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.0.132",
+["version"] = "1.1.133",
 ["packageSize"] = 25136,
-["date"] = "20181010",
+["date"] = "20181011",
 ["depends"] = {
 1000,
 },
@@ -2056,8 +2056,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="6b2f0070e6fb7e0023d42bce7d51efff",
-	["u_size"]=29.33,
+	["u_md5"]="61deb01625761376c919dbc2f58e7095",
+	["u_size"]=29.57,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -2066,8 +2066,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GBulletLayer/GBulletLayerMediator.lua",
-	["u_md5"]="efc7d17953d21d1ec46df4c53b0be41b",
-	["u_size"]=4.88,
+	["u_md5"]="d21763dc99fb01ab58960dece2a1ace6",
+	["u_size"]=5.12,
 	},
 {
 	["u_name"]="Games/GDntg/src/GBulletLayer/GBulletLayerView.lua",
@@ -2096,8 +2096,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GBulletView.lua",
-	["u_md5"]="6ef08aa95baac0f22b0fc1b4702f076a",
-	["u_size"]=10.01,
+	["u_md5"]="d0b92fbd5a8178c0864d6ea79eaea3fd",
+	["u_size"]=10.07,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishMediator.lua",
@@ -2286,8 +2286,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLogic.lua",
-	["u_md5"]="0af296e573f00ef758e02cec70f6c504",
-	["u_size"]=17.4,
+	["u_md5"]="0abb02f33a1d87e7a39732c2ce7f5379",
+	["u_size"]=17.7,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GPlayerData.lua",
