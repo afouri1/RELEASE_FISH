@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GUpdate/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GUpdate/version.json",
-["version"] = "1.1.134",
+["version"] = "1.1.135",
 ["packageSize"] = 5861,
 ["date"] = "20181011",
 ["depends"] = {
@@ -52,8 +52,8 @@ return {
 	},
 {
 	["u_name"]="Games/GUpdate/UpdateMain.lua",
-	["u_md5"]="c4373a60dcd5f8c4b0e9ca6af10302cf",
-	["u_size"]=5.81,
+	["u_md5"]="5978e8ea22fa1a49a26ec9fdc1960968",
+	["u_size"]=5.91,
 	},
 {
 	["u_name"]="Games/GUpdate/res/Map_1.jpg",
