@@ -766,7 +766,7 @@
               "rotation": 0,
               "scaleX": 1,
               "scaleY": 1,
-              "sizePercentX": 0.0875,
+              "sizePercentX": 0.126388893,
               "sizePercentY": 0.10546875,
               "sizeType": 0,
               "tag": 380,
@@ -893,7 +893,7 @@
               "maxLengthEnable": true,
               "passwordEnable": false,
               "passwordStyleText": "*",
-              "placeHolder": "1000",
+              "placeHolder": "0",
               "text": ""
             }
           },
@@ -1053,7 +1053,7 @@
               "maxLengthEnable": true,
               "passwordEnable": false,
               "passwordStyleText": "*",
-              "placeHolder": "1000000",
+              "placeHolder": "0",
               "text": ""
             }
           },
@@ -1213,7 +1213,7 @@
               "maxLengthEnable": true,
               "passwordEnable": false,
               "passwordStyleText": "*",
-              "placeHolder": "100",
+              "placeHolder": "0",
               "text": ""
             }
           },
@@ -1253,7 +1253,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 84,
+              "width": 70,
               "x": 490,
               "y": 130,
               "areaHeight": 0,
@@ -1262,7 +1262,7 @@
               "fontName": "Games/GLobby/res/font/fangzhengzhunyuan.TTF",
               "fontSize": 27,
               "hAlignment": 0,
-              "text": "/ 8888",
+              "text": "/9999",
               "touchScaleEnable": false,
               "vAlignment": 1
             }
@@ -1357,7 +1357,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 84,
+              "width": 12,
               "x": 234,
               "y": 60,
               "areaHeight": 0,
@@ -1366,7 +1366,7 @@
               "fontName": "Games/GLobby/res/font/fangzhengzhunyuan.TTF",
               "fontSize": 24,
               "hAlignment": 0,
-              "text": "8888888",
+              "text": "0",
               "touchScaleEnable": false,
               "vAlignment": 1
             }

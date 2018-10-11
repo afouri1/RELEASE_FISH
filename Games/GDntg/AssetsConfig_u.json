@@ -2,19 +2,18 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.135",
+["version"] = "1.1.136",
 ["packageSize"] = 25140,
 ["date"] = "20181011",
 ["depends"] = {
 1000,
 },
 ["newDetails"] = [[版本更新提示
-1.大厅输入框点击区域修复
-2.俱乐部界面显示修复
-3.俱乐部群发消息修复
-4.大厅自动消失弹窗添加
-5.鱼阵重叠
-6.logo影子去掉
+1.创建加入俱乐部修复
+2.多人视角下锁定炮弹路径调整
+3.俱乐部/大厅界面错位修复
+4.版本号修复
+5.其他常规bug修复
 
 
 ]],
@@ -2096,8 +2095,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GBulletView.lua",
-	["u_md5"]="f3b2647cf86aa26f90711cb96a641582",
-	["u_size"]=10.08,
+	["u_md5"]="d3d8f0d2d01b55268a1c40e948e04148",
+	["u_size"]=10.24,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishMediator.lua",
@@ -2106,7 +2105,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishView.lua",
-	["u_md5"]="a3560fd1e2d5a4316aa92eaeae543618",
+	["u_md5"]="f70df2289bf15287007203bc5daa3d9c",
 	["u_size"]=12.05,
 	},
 {
