@@ -2,19 +2,14 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.139",
+["version"] = "1.1.140",
 ["packageSize"] = 25333,
 ["date"] = "20181012",
 ["depends"] = {
 1000,
 },
 ["newDetails"] = [[版本更新提示
-1.创建加入俱乐部修复
-2.多人视角下锁定炮弹路径调整
-3.俱乐部/大厅界面错位修复
-4.版本号修复
-5.其他常规bug修复
-
+1.更换子弹及爆炸效果
 
 ]],
 ["assets"] = {
