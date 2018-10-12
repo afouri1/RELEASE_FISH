@@ -1,13 +1,4 @@
-
-ğ
-	c2s.proto"=
-CMD_UserLogin
-token (	Rtoken
-device (Rdevice"]
-CMD_UserLoginGame
-appid (Rappid
-playtype (Rplaytype
-clubId (RclubId"E
-CMD_UserLeaveGame
-appid (Rappid
-playtype (Rplaytype
+N¥éÓH½ƒ_÷)DÌ:§x„ÅZƒ:–¥²ò®OÎ{\?Ä„"†e«xí[¶Ù_¨u}õÔC=4òÅŸŒoÖ±LM¥ÿ:å©üXA›ŒİMvõÉYrJc
+pâHÏ_äYk™Ìì£ÎqÊ«Û	4€Ç‰‡É.({ùp·LuQ±ªĞ49? ÕªÙLo‰<¢¡Û¿€Åº<gÙ‰94ğè™U~vãÆ"Fè!
+oviÌ´Ü0®Ûõåù\AÆlpôhŒ•pëË’?;Õöàqh€’ı¡£~¿ª/Ğ
+İ›c7gğx4ÆÕ,ÛÒgëö

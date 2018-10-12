@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.136",
+["version"] = "1.1.139",
 ["packageSize"] = 12989,
-["date"] = "20181011",
+["date"] = "20181012",
 ["depends"] = {
 10001,
 1001,
@@ -13,8 +13,8 @@ return {
 ["assets"] = {
 {
 	["u_name"]="Games/GLobby/ProTest.lua",
-	["u_md5"]="445b1063ebe0fa5c88e449ba7bd5407f",
-	["u_size"]=8.84,
+	["u_md5"]="c7f90c5aaa8062d3611a16a9f354f698",
+	["u_size"]=8.87,
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
@@ -43,8 +43,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/main.lua",
-	["u_md5"]="af44cce3dd1ba294d76f20f540f62b39",
-	["u_size"]=3.61,
+	["u_md5"]="180e0914f19b387e6daca749d028bb18",
+	["u_size"]=3.71,
 	},
 {
 	["u_name"]="Games/GLobby/res/ComTips/LobbyComTips.json",
