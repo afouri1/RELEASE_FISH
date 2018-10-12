@@ -2,14 +2,17 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.140",
-["packageSize"] = 25333,
+["version"] = "1.1.142",
+["packageSize"] = 25336,
 ["date"] = "20181012",
 ["depends"] = {
 1000,
 },
 ["newDetails"] = [[版本更新提示
-1.更换子弹及爆炸效果
+1.炮弹及爆炸效果替换
+2.boss提示特效
+3.去掉换座
+4.大厅输入框修改
 
 ]],
 ["assets"] = {
@@ -2010,7 +2013,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish.lua",
-	["u_md5"]="e1394284b0c4ebac0f21d91dd9e56b3d",
+	["u_md5"]="18347cb0de86e1c718fd4ef65a0a4e02",
 	["u_size"]=32.15,
 	},
 {
@@ -2090,8 +2093,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="1070320691b5d84819e032006b209bd6",
-	["u_size"]=29.8,
+	["u_md5"]="e855c4faccea472f3a453dd24e834e9d",
+	["u_size"]=32.57,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -2130,8 +2133,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GBulletView.lua",
-	["u_md5"]="ef32ee64f51014a139c3f214c4a033e1",
-	["u_size"]=10.63,
+	["u_md5"]="3ad0a89f0e7007583a51842706649c81",
+	["u_size"]=10.69,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishMediator.lua",
@@ -2140,7 +2143,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishView.lua",
-	["u_md5"]="8dc9abcc62fce047047a12abe4f22cad",
+	["u_md5"]="bfdcbeece098ca0ef310d5c7ba094ab5",
 	["u_size"]=12.08,
 	},
 {
@@ -2150,8 +2153,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GNetView.lua",
-	["u_md5"]="b49d8ecfe7524b7fe49a1b5f9da4bf85",
-	["u_size"]=1.62,
+	["u_md5"]="c91f24959c8bcddaac0a22742278d2fb",
+	["u_size"]=1.68,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GShadowMediator.lua",
@@ -2280,8 +2283,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GUILayerView.lua",
-	["u_md5"]="8c591bf1e04990244dbe38fd028677c8",
-	["u_size"]=10.57,
+	["u_md5"]="b3d2a5aa49281750aaebbff08095bc22",
+	["u_size"]=10.72,
 	},
 {
 	["u_name"]="Games/GDntg/src/GameConst/DntgEvent.lua",
@@ -2325,7 +2328,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLogic.lua",
-	["u_md5"]="c7b639a62262dc2f3f46d81ef9ada09a",
+	["u_md5"]="a3e8fc4b34b004a4a31bc5f64878e395",
 	["u_size"]=17.75,
 	},
 {
@@ -2350,8 +2353,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/pb/dntg_c2s.pb",
-	["u_md5"]="ed450fa668f84de2001645d79f20da85",
-	["u_size"]=0.38,
+	["u_md5"]="557df0cc8a00175de1d684b0a6607bbe",
+	["u_size"]=0.45,
 	},
 {
 	["u_name"]="Games/GDntg/src/pb/dntg_s2c.pb",

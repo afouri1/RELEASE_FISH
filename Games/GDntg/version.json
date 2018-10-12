@@ -2,14 +2,17 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.140",
-["packageSize"] = 25333,
+["version"] = "1.1.142",
+["packageSize"] = 25336,
 ["date"] = "20181012",
 ["depends"] = {
 1000,
 },
 ["newDetails"] = [[版本更新提示
-1.更换子弹及爆炸效果
+1.炮弹及爆炸效果替换
+2.boss提示特效
+3.去掉换座
+4.大厅输入框修改
 
 ]],
 ["assets"] = {} 
