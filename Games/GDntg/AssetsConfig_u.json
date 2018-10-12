@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.143",
-["packageSize"] = 25172,
+["version"] = "1.1.144",
+["packageSize"] = 25200,
 ["date"] = "20181012",
 ["depends"] = {
 1000,
@@ -2073,8 +2073,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishPath.lua",
-	["u_md5"]="5e6a4eba9c2fdfbef67d9f92d32cc09c",
-	["u_size"]=63.2,
+	["u_md5"]="786983e09e4118a0e65a3709cd0a43d7",
+	["u_size"]=90.97,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fisharray.lua",
@@ -2098,7 +2098,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="e855c4faccea472f3a453dd24e834e9d",
+	["u_md5"]="34b795261ed3b0804d5c36de15573111",
 	["u_size"]=32.57,
 	},
 {
