@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.145",
-["packageSize"] = 12882,
-["date"] = "20181013",
+["version"] = "1.1.146",
+["packageSize"] = 12914,
+["date"] = "20181015",
 ["depends"] = {
 10001,
 1001,
@@ -23,8 +23,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/ScriptConfig.lua",
-	["u_md5"]="72b8a3266a3c846c61db71db3c356b32",
-	["u_size"]=4.87,
+	["u_md5"]="476f9da969c9d6923ae2743e3f2115e0",
+	["u_size"]=5.01,
 	},
 {
 	["u_name"]="Games/GLobby/VisibleRect.lua",
@@ -33,8 +33,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/Words.lua",
-	["u_md5"]="56b1175ff3907dd42b8e911ccd87f933",
-	["u_size"]=3.05,
+	["u_md5"]="b8a024ce375a78d2e46e1f3709333769",
+	["u_size"]=3.1,
 	},
 {
 	["u_name"]="Games/GLobby/config.lua",
@@ -292,6 +292,11 @@ return {
 	["u_size"]=4.72,
 	},
 {
+	["u_name"]="Games/GLobby/res/club/cardInfo/button_cjpj.png",
+	["u_md5"]="80214b33580c94fcc431318bb3407ede",
+	["u_size"]=4.51,
+	},
+{
 	["u_name"]="Games/GLobby/res/club/cardInfo/button_lt1.png",
 	["u_md5"]="0c3347129593fc5d77e1d43978bf32c0",
 	["u_size"]=4.27,
@@ -310,6 +315,11 @@ return {
 	["u_name"]="Games/GLobby/res/club/cardInfo/button_pj2.png",
 	["u_md5"]="1b5b6e3ea8dd8daae74c308cf033ffa5",
 	["u_size"]=3.54,
+	},
+{
+	["u_name"]="Games/GLobby/res/club/cardInfo/button_tjcy.png",
+	["u_md5"]="a5838f9bfb7bd84f7a9f026519c89304",
+	["u_size"]=4.66,
 	},
 {
 	["u_name"]="Games/GLobby/res/club/cardInfo/img.png",
@@ -833,8 +843,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/dntg_lobby_card_info.json",
-	["u_md5"]="22a78ee70edb8d9634a9ef82191d2455",
-	["u_size"]=17.41,
+	["u_md5"]="21138c654870e480c1a46f36604072a9",
+	["u_size"]=23.07,
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/dntg_lobby_card_item.json",
@@ -918,8 +928,13 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/dntg_lobby_member_record.json",
-	["u_md5"]="9eadfaa6c2d8aaa692bc50005a3e217a",
-	["u_size"]=32.85,
+	["u_md5"]="3301d703dfe9475f8b4a126dce22e94e",
+	["u_size"]=30.05,
+	},
+{
+	["u_name"]="Games/GLobby/res/cocostudio/dntg_lobby_member_record_item.json",
+	["u_md5"]="ea0f4139d5800830919681de0cd12890",
+	["u_size"]=8.05,
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/dntg_lobby_modify_clubinfo.json",
@@ -1533,8 +1548,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardInfoLayerView.lua",
-	["u_md5"]="6e387d56ba101bb1535299fbe1d09381",
-	["u_size"]=17.29,
+	["u_md5"]="bef83ca04ecca145268750dd2959c5eb",
+	["u_size"]=18.37,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardManageLayerMediator.lua",
@@ -1578,8 +1593,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubModifyLayerView.lua",
-	["u_md5"]="e86515dfa5d98ffeac60089d14c48167",
-	["u_size"]=10.03,
+	["u_md5"]="e57c5d4e2b8baf296441e442a1d6c51d",
+	["u_size"]=9.88,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCreateCardLayerMediator.lua",
@@ -1603,8 +1618,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyMemberManageLayerItem.lua",
-	["u_md5"]="b264dfc42fe038ee9b7188e5b4c44809",
-	["u_size"]=6.99,
+	["u_md5"]="66d9d3328c99183822d9f6916a5201b7",
+	["u_size"]=7,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyMemberManageLayerMediator.lua",
@@ -1613,8 +1628,13 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyMemberManageLayerView.lua",
-	["u_md5"]="8c9e034a25c29d9da1f292aab80f4181",
-	["u_size"]=12.91,
+	["u_md5"]="2414750c2b6590b7ea7869aa0372ee4e",
+	["u_size"]=12.9,
+	},
+{
+	["u_name"]="Games/GLobby/src/Club/GLobbyMemberRecordLayerItem.lua",
+	["u_md5"]="93ddce16990766de4247a127370958fb",
+	["u_size"]=1.23,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyMemberRecordLayerMediator.lua",
@@ -1623,8 +1643,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyMemberRecordLayerView.lua",
-	["u_md5"]="5180e060287d65e842753d5fa77038e2",
-	["u_size"]=2.87,
+	["u_md5"]="3457200a249b0a62e93f10e59766ec5f",
+	["u_size"]=8.65,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyMsgGroupLayerMediator.lua",
@@ -1698,18 +1718,18 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerView.lua",
-	["u_md5"]="ed79d38e48d0880946abd0e882ef48e6",
-	["u_size"]=31.32,
+	["u_md5"]="7abcf2fe873040089b9817e3aceda889",
+	["u_size"]=31.86,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageTop.lua",
-	["u_md5"]="584403d200858dc2795f57c1d993bcb2",
-	["u_size"]=6.75,
+	["u_md5"]="feabedae473832e66e70f3d8eedcb5a3",
+	["u_size"]=6.98,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyTopMenu.lua",
-	["u_md5"]="4edeafd39e434049c33a5cadba04c4fb",
-	["u_size"]=13.19,
+	["u_md5"]="5b122ea1433b739f8f1689770b07ed8d",
+	["u_size"]=13.24,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/NoticeLayerMediator.lua",
@@ -1753,8 +1773,13 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/NetworkConfig/LobbyNetworkCmd.lua",
-	["u_md5"]="0095e736ba7da0970618f4682694c911",
-	["u_size"]=8.79,
+	["u_md5"]="815eb1fde5bc397a339cfacb5104702d",
+	["u_size"]=9.11,
+	},
+{
+	["u_name"]="Games/GLobby/src/data/clubGiftRecordData.lua",
+	["u_md5"]="05f96c2604a01301feaa3827df7796b6",
+	["u_size"]=2.22,
 	},
 {
 	["u_name"]="Games/GLobby/src/data/clubListData.lua",
@@ -1778,23 +1803,23 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_Basis.pb",
-	["u_md5"]="70373c21122dd7dbd4f0722d9fb2dfd3",
+	["u_md5"]="4a1f68dd2420d4cd9b68cf6ab763ac38",
 	["u_size"]=1.59,
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_Cmd.pb",
-	["u_md5"]="8910e3a1404bf5fe69d11f3e24bbc7f3",
-	["u_size"]=0.87,
+	["u_md5"]="52e001ed35f9c234e811e6833a540a37",
+	["u_size"]=0.92,
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_c2s.pb",
-	["u_md5"]="0635e3b83e81b9975bac90253f6fdc01",
-	["u_size"]=1.25,
+	["u_md5"]="f733f036f046b004be8da5338ccaa8ab",
+	["u_size"]=1.34,
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_s2c.pb",
-	["u_md5"]="aff714f5237d2078308d03e42246d9dc",
-	["u_size"]=1.03,
+	["u_md5"]="fb539d428f01f1fcd87a67ff22f17357",
+	["u_size"]=1.09,
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/c2s.pb",
