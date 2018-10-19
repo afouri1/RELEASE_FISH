@@ -11,11 +11,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{80,150}</string>
+                <string>{120,120}</string>
                 <key>spriteSourceSize</key>
-                <string>{80,150}</string>
+                <string>{120,120}</string>
                 <key>textureRect</key>
-                <string>{{0,0},{80,150}}</string>
+                <string>{{0,0},{120,120}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -26,11 +26,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{80,150}</string>
+                <string>{120,120}</string>
                 <key>spriteSourceSize</key>
-                <string>{80,150}</string>
+                <string>{120,120}</string>
                 <key>textureRect</key>
-                <string>{{0,150},{80,150}}</string>
+                <string>{{120,0},{120,120}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -41,11 +41,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{80,150}</string>
+                <string>{120,120}</string>
                 <key>spriteSourceSize</key>
-                <string>{80,150}</string>
+                <string>{120,120}</string>
                 <key>textureRect</key>
-                <string>{{0,300},{80,150}}</string>
+                <string>{{240,0},{120,120}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -56,11 +56,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{80,150}</string>
+                <string>{120,120}</string>
                 <key>spriteSourceSize</key>
-                <string>{80,150}</string>
+                <string>{120,120}</string>
                 <key>textureRect</key>
-                <string>{{0,450},{80,150}}</string>
+                <string>{{360,0},{120,120}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -71,11 +71,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{80,150}</string>
+                <string>{120,120}</string>
                 <key>spriteSourceSize</key>
-                <string>{80,150}</string>
+                <string>{120,120}</string>
                 <key>textureRect</key>
-                <string>{{0,600},{80,150}}</string>
+                <string>{{480,0},{120,120}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -86,11 +86,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{80,150}</string>
+                <string>{120,120}</string>
                 <key>spriteSourceSize</key>
-                <string>{80,150}</string>
+                <string>{120,120}</string>
                 <key>textureRect</key>
-                <string>{{0,750},{80,150}}</string>
+                <string>{{600,0},{120,120}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -106,9 +106,9 @@
             <key>realTextureFileName</key>
             <string>hongzidan.png</string>
             <key>size</key>
-            <string>{80,900}</string>
+            <string>{720,120}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:8e14af525c4c4fb127f20a50373dc2db:e7f96ca3343d976a1c765b260064dfcc:56dda1fd16e4542c3acc30f30c90211d$</string>
+            <string>$TexturePacker:SmartUpdate:ba1037252b51b623582b549fa8954746:6d970a4ed61d9aebee3394b7b0f04bb3:56dda1fd16e4542c3acc30f30c90211d$</string>
             <key>textureFileName</key>
             <string>hongzidan.png</string>
         </dict>

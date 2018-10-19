@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/framework/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/framework/version.json",
-["version"] = "1.1.146",
-["packageSize"] = 723,
-["date"] = "20181015",
+["version"] = "1.1.158",
+["packageSize"] = 725,
+["date"] = "20181019",
 ["depends"] = {
 },
 ["newDetails"] = [[]],
@@ -336,8 +336,8 @@ return {
 	},
 {
 	["u_name"]="Games/framework/display.lua",
-	["u_md5"]="4abe715aa92bdd9ac1b11c52336729bd",
-	["u_size"]=56.2,
+	["u_md5"]="2873a912b63a86ef98f9b06ad5fe1a9f",
+	["u_size"]=58.18,
 	},
 {
 	["u_name"]="Games/framework/filter.lua",
