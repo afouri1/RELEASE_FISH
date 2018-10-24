@@ -2,19 +2,24 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.159",
-["packageSize"] = 26958,
-["date"] = "20181019",
+["version"] = "1.1.188",
+["packageSize"] = 25667,
+["date"] = "20181024",
 ["depends"] = {
-1000,
 },
 ["newDetails"] = [[版本更新提示
-1.新增战绩界面
-2.新增消息界面
-3.场景切换鱼未清除修复
-4.修复同一路径重叠鱼
-5.修复大闹天宫出鱼速度
-6.游戏内UI界面调整
+1.俱乐部修复人物，数据不同步
+2.个人信息修复不出界面
+3.赠送记录界面不显示数据修复
+4.赠送记录切换月份不能进入游戏修复
+5.创建牌局点击范围扩大优化
+6.鱼王倍率修复
+7.联网loding条修复
+8.更新版本之后资源不是最新
+9.炮弹资源替换
+10.冰冻界面不同步、优化、断线重连
+11.金币爆炸优化
+12.少鱼修复
 ]],
 ["assets"] = {} 
 }
