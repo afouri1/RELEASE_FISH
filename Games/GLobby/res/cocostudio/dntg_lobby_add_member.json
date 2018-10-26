@@ -13,7 +13,8 @@
   "texturesPng": [
     "Games/GLobby/res/club/addMember/pop_yaoqing.png",
     "Games/GLobby/res/club/addMember/button_yaoqing.png",
-    "Games/GLobby/res/club/addMember/img_shurukuang.png"
+    "Games/GLobby/res/club/addMember/img_shurukuang.png",
+    "Games/GLobby/res/club/memberManage/img_close.png"
   ],
   "version": "1.6.0.0",
   "widgetTree": {
@@ -175,8 +176,8 @@
                   "rotation": 0,
                   "scaleX": 1,
                   "scaleY": 1,
-                  "sizePercentX": 0.8695652,
-                  "sizePercentY": 0.909090936,
+                  "sizePercentX": 0.7826087,
+                  "sizePercentY": 0.8181818,
                   "sizeType": 0,
                   "tag": 506,
                   "touchAble": true,
@@ -247,6 +248,60 @@
               "scale9Enable": false,
               "scale9Height": 44,
               "scale9Width": 276
+            }
+          },
+          {
+            "classname": "ImageView",
+            "name": null,
+            "children": [],
+            "options": {
+              "__type": "ImageViewSurrogate:#EditorCommon.JsonModel.Component.GUI",
+              "classname": "ImageView",
+              "name": "Image_close",
+              "ZOrder": 0,
+              "actiontag": 61270825,
+              "anchorPointX": 0.5,
+              "anchorPointY": 0.5,
+              "classType": "CocoStudio.EngineAdapterWrap.CSImageView",
+              "colorB": 255,
+              "colorG": 255,
+              "colorR": 255,
+              "customProperty": "",
+              "flipX": false,
+              "flipY": false,
+              "height": 79,
+              "ignoreSize": true,
+              "layoutParameter": null,
+              "opacity": 255,
+              "positionPercentX": 0.492239356,
+              "positionPercentY": 0.4845356,
+              "positionType": 0,
+              "rotation": 0,
+              "scaleX": 1,
+              "scaleY": 1,
+              "sizePercentX": 0.1751663,
+              "sizePercentY": 0.203608245,
+              "sizeType": 0,
+              "tag": 2949,
+              "touchAble": false,
+              "useMergedTexture": false,
+              "visible": true,
+              "width": 79,
+              "x": 221,
+              "y": 187,
+              "capInsetsHeight": 1,
+              "capInsetsWidth": 1,
+              "capInsetsX": 0,
+              "capInsetsY": 0,
+              "fileName": null,
+              "fileNameData": {
+                "path": "Games/GLobby/res/club/memberManage/img_close.png",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "scale9Enable": false,
+              "scale9Height": 79,
+              "scale9Width": 79
             }
           }
         ],

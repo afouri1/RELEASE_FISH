@@ -15,7 +15,8 @@
     "Games/GLobby/res/my/myBullet/bg_wdpd.png",
     "Games/GLobby/res/my/myBullet/NaviBar2.png",
     "Games/GLobby/res/my/myBullet/img_left.png",
-    "Games/GLobby/res/my/myBullet/img_right.png"
+    "Games/GLobby/res/my/myBullet/img_right.png",
+    "Games/GLobby/res/common/noTimeDate.png"
   ],
   "version": "1.6.0.0",
   "widgetTree": {
@@ -449,7 +450,62 @@
           {
             "classname": "Panel",
             "name": null,
-            "children": [],
+            "children": [
+              {
+                "classname": "ImageView",
+                "name": null,
+                "children": [],
+                "options": {
+                  "__type": "ImageViewSurrogate:#EditorCommon.JsonModel.Component.GUI",
+                  "classname": "ImageView",
+                  "name": "Image_noData",
+                  "ZOrder": 0,
+                  "actiontag": 20660891,
+                  "anchorPointX": 0.5,
+                  "anchorPointY": 0.5,
+                  "classType": "CocoStudio.EngineAdapterWrap.CSImageView",
+                  "colorB": 255,
+                  "colorG": 255,
+                  "colorR": 255,
+                  "customProperty": "",
+                  "flipX": false,
+                  "flipY": false,
+                  "height": 132,
+                  "ignoreSize": true,
+                  "layoutParameter": null,
+                  "opacity": 255,
+                  "positionPercentX": 0.5,
+                  "positionPercentY": 0.5,
+                  "positionType": 0,
+                  "rotation": 0,
+                  "scaleX": 1,
+                  "scaleY": 1,
+                  "sizePercentX": 0.111111112,
+                  "sizePercentY": 0.08988764,
+                  "sizeType": 0,
+                  "tag": 2928,
+                  "touchAble": false,
+                  "useMergedTexture": false,
+                  "visible": false,
+                  "width": 151,
+                  "x": 360,
+                  "y": 445,
+                  "capInsetsHeight": 1,
+                  "capInsetsWidth": 1,
+                  "capInsetsX": 0,
+                  "capInsetsY": 0,
+                  "fileName": null,
+                  "fileNameData": {
+                    "path": "Games/GLobby/res/common/noTimeDate.png",
+                    "plistFile": "",
+                    "resourceType": 0
+                  },
+                  "scale9Enable": false,
+                  "scale9Height": 132,
+                  "scale9Width": 151
+                }
+              }
+            ],
             "options": {
               "__type": "PanelSurrogate:#EditorCommon.JsonModel.Component.GUI",
               "classname": "Panel",

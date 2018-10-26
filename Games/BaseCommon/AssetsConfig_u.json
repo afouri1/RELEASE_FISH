@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.1.188",
-["packageSize"] = 7880,
-["date"] = "20181024",
+["version"] = "1.1.198",
+["packageSize"] = 7882,
+["date"] = "20181026",
 ["depends"] = {
 10002,
 10003,
@@ -33,8 +33,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/GameNetwork/GameSocket.lua",
-	["u_md5"]="8d67cf25591a50aeafe34164236185c6",
-	["u_size"]=17.19,
+	["u_md5"]="38441042d9d74b54b2080b2bd1b09d3d",
+	["u_size"]=17.48,
 	},
 {
 	["u_name"]="Games/BaseCommon/GameNetwork/GameSocketEvent.lua",
@@ -58,8 +58,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/MsgHandler.lua",
-	["u_md5"]="d770c7f54a8dafd24e5e412340836dcf",
-	["u_size"]=9.34,
+	["u_md5"]="f153b7850a6f7bbe2d03b514ed968ab6",
+	["u_size"]=8.91,
 	},
 {
 	["u_name"]="Games/BaseCommon/ProtoBuf/ProtobufParse.lua",
@@ -78,8 +78,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/TYFramework/LuaNotifCenter.lua",
-	["u_md5"]="c32cb0d863635989750feaa600493dde",
-	["u_size"]=7.53,
+	["u_md5"]="ef32e57017e88f1b0b04ba38464d727c",
+	["u_size"]=8.5,
 	},
 {
 	["u_name"]="Games/BaseCommon/TYFramework/Sandbox.lua",
@@ -273,8 +273,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/TiFunction.lua",
-	["u_md5"]="3ca5b3fa4044fe8eb9734476a91afe3d",
-	["u_size"]=52.44,
+	["u_md5"]="a2f14ce24a25033c1cafc48e747b346e",
+	["u_size"]=53.7,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/TimeUtil.lua",
