@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.198",
-["packageSize"] = 25267,
-["date"] = "20181026",
+["version"] = "1.1.214",
+["packageSize"] = 25495,
+["date"] = "20181027",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新提示
