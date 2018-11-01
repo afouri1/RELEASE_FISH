@@ -19,7 +19,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>fishMove01902 .png</key>
+            <key>fishMove01902.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -378,7 +378,7 @@
             <key>size</key>
             <string>{1840,1878}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:1c80e3cb8e77d505903a42a44ccb9133:14c141107467d39af5e89e3a77ca59a9:9ef5b6fdf8d518973fe6a5316c0163f3$</string>
+            <string>$TexturePacker:SmartUpdate:5b1f97c4df6c66f79d6ce0f5915f728a:14c141107467d39af5e89e3a77ca59a9:9ef5b6fdf8d518973fe6a5316c0163f3$</string>
             <key>textureFileName</key>
             <string>fishMove019.png</string>
         </dict>
