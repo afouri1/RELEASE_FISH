@@ -41,7 +41,7 @@
           "flipX": false,
           "flipY": false,
           "height": 1280,
-          "ignoreSize": true,
+          "ignoreSize": false,
           "layoutParameter": null,
           "opacity": 255,
           "positionPercentX": 0.5,
@@ -60,17 +60,17 @@
           "width": 720,
           "x": 360,
           "y": 640,
-          "capInsetsHeight": 1,
-          "capInsetsWidth": 1,
-          "capInsetsX": 0,
-          "capInsetsY": 0,
+          "capInsetsHeight": 2,
+          "capInsetsWidth": 2,
+          "capInsetsX": 10,
+          "capInsetsY": 10,
           "fileName": null,
           "fileNameData": {
             "path": "Games/GLobby/res/common/bg.png",
             "plistFile": "",
             "resourceType": 0
           },
-          "scale9Enable": false,
+          "scale9Enable": true,
           "scale9Height": 1280,
           "scale9Width": 720
         }
@@ -148,7 +148,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 136,
+              "height": 108,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -165,7 +165,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 109,
+              "width": 86,
               "x": 230,
               "y": 0,
               "capInsetsHeight": 1,
@@ -179,8 +179,8 @@
                 "resourceType": 0
               },
               "scale9Enable": false,
-              "scale9Height": 136,
-              "scale9Width": 109
+              "scale9Height": 108,
+              "scale9Width": 86
             }
           }
         ],
@@ -317,8 +317,8 @@
               "rotation": 0,
               "scaleX": 1,
               "scaleY": 1,
-              "sizePercentX": 0.330555558,
-              "sizePercentY": 0.34,
+              "sizePercentX": 1.38888881E-05,
+              "sizePercentY": 0.0001,
               "sizeType": 0,
               "tag": 727,
               "touchAble": false,

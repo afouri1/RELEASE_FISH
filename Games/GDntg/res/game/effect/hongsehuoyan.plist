@@ -94,21 +94,6 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>hongsehuoyan07.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{80,128}</string>
-                <key>spriteSourceSize</key>
-                <string>{80,128}</string>
-                <key>textureRect</key>
-                <string>{{480,0},{80,128}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
         </dict>
         <key>metadata</key>
         <dict>
@@ -121,9 +106,9 @@
             <key>realTextureFileName</key>
             <string>hongsehuoyan.png</string>
             <key>size</key>
-            <string>{560,128}</string>
+            <string>{480,128}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:6ddd8e9097dcdc6a0864fb70fd816552:be05d6f6ac48d2c5ec89a04943101c52:ef714a764ba8e905c149d4de92093715$</string>
+            <string>$TexturePacker:SmartUpdate:343a82b73be4250be3192896f1613527:dea23993d5ecd3de3fdb9d5453696ddd:ef714a764ba8e905c149d4de92093715$</string>
             <key>textureFileName</key>
             <string>hongsehuoyan.png</string>
         </dict>

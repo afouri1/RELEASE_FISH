@@ -94,21 +94,6 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>lansehuoyan07.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{80,128}</string>
-                <key>spriteSourceSize</key>
-                <string>{80,128}</string>
-                <key>textureRect</key>
-                <string>{{480,0},{80,128}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
         </dict>
         <key>metadata</key>
         <dict>
@@ -121,9 +106,9 @@
             <key>realTextureFileName</key>
             <string>lansehuoyan.png</string>
             <key>size</key>
-            <string>{560,128}</string>
+            <string>{480,128}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:c23639a12c4aa86c49358d7eaafa50c7:8080e93016e16bffe25d4d15e7bb632a:241691db53b5af995c9cb7ee33c7cf97$</string>
+            <string>$TexturePacker:SmartUpdate:b8b37f1a32a276c4ce7957a275823c93:c5acc149025938c5cc7e7534eac36ddc:241691db53b5af995c9cb7ee33c7cf97$</string>
             <key>textureFileName</key>
             <string>lansehuoyan.png</string>
         </dict>
