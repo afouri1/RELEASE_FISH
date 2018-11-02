@@ -4,63 +4,93 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>jinfenxing01.png</key>
+            <key>yuchaolaile13.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{323,132}</string>
+                <string>{1280,300}</string>
                 <key>spriteSourceSize</key>
-                <string>{323,132}</string>
+                <string>{1280,300}</string>
                 <key>textureRect</key>
-                <string>{{0,0},{323,132}}</string>
+                <string>{{0,0},{1280,300}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>jinfenxing02.png</key>
+            <key>yuchaolaile14.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{323,132}</string>
+                <string>{1280,300}</string>
                 <key>spriteSourceSize</key>
-                <string>{323,132}</string>
+                <string>{1280,300}</string>
                 <key>textureRect</key>
-                <string>{{323,0},{323,132}}</string>
+                <string>{{0,300},{1280,300}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>jinfenxing03.png</key>
+            <key>yuchaolaile15.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{323,132}</string>
+                <string>{1280,300}</string>
                 <key>spriteSourceSize</key>
-                <string>{323,132}</string>
+                <string>{1280,300}</string>
                 <key>textureRect</key>
-                <string>{{646,0},{323,132}}</string>
+                <string>{{0,600},{1280,300}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>jinfenxing04.png</key>
+            <key>yuchaolaile16.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{323,132}</string>
+                <string>{1280,300}</string>
                 <key>spriteSourceSize</key>
-                <string>{323,132}</string>
+                <string>{1280,300}</string>
                 <key>textureRect</key>
-                <string>{{969,0},{323,132}}</string>
+                <string>{{0,900},{1280,300}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>yuchaolaile17.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{1280,300}</string>
+                <key>spriteSourceSize</key>
+                <string>{1280,300}</string>
+                <key>textureRect</key>
+                <string>{{0,1200},{1280,300}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>yuchaolaile18.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{1280,300}</string>
+                <key>spriteSourceSize</key>
+                <string>{1280,300}</string>
+                <key>textureRect</key>
+                <string>{{0,1500},{1280,300}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -74,13 +104,13 @@
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
-            <string>jinfenxing.png</string>
+            <string>yuchaolaile_3.png</string>
             <key>size</key>
-            <string>{1292,132}</string>
+            <string>{1280,1800}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:e105bb37b2da8cc199643e1255c37624:84e8612c26b53cd8f313d04043cc3257:a448842a299a29bceade7ff6ed4c67b8$</string>
+            <string>$TexturePacker:SmartUpdate:3643174c52279e03c6b0d75d08b5c366:62bfafd5ff64c9ee6fc03bfaf1a829d0:833180185a06176c20cc4cefb31b972d$</string>
             <key>textureFileName</key>
-            <string>jinfenxing.png</string>
+            <string>yuchaolaile_3.png</string>
         </dict>
     </dict>
 </plist>

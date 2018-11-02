@@ -2,20 +2,19 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.231",
-["packageSize"] = 32493,
-["date"] = "20181101",
+["version"] = "1.1.232",
+["packageSize"] = 32619,
+["date"] = "20181102",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新提示
-1.牌局界面点击范围修复
-2.战绩统计缺失修复
-3.logo特效替换
-4.脚本报错修复
-5.金箍棒特效添加
-6.无敌风火轮特效添加
-7.新的鱼资源替换
-8.我的界面好，牌局列表界面，消息界面，渔场验证消息界面，渔场消息群发界面资源替换
+1.大厅资源替换
+2.金玉满堂技能特效添加
+3.闪电连锁技能特效添加
+4.金箍棒技能特效添加
+5.闪电连锁鱼数量修改为6条
+6.无敌风火轮技能特效添加
+7.冰冻技能优化
 ]],
 ["assets"] = {
 {
@@ -55,8 +54,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/bg/Map_1.jpg",
-	["u_md5"]="5a566875595228957128be9b92d2387d",
-	["u_size"]=220.03,
+	["u_md5"]="ed514c56a035feb6bc4bc091ffd910c7",
+	["u_size"]=378.49,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/bg/Map_2.jpg",
@@ -72,11 +71,6 @@ return {
 	["u_name"]="Games/GDntg/res/game/bg/Map_4.jpg",
 	["u_md5"]="93ec84a03dae869766a94e76e83fc762",
 	["u_size"]=172.08,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/bg/hallbg.png",
-	["u_md5"]="ec19d8196fe9a040982fbd3ccf43c74b",
-	["u_size"]=870.7,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/bg/moveBg_1.png",
@@ -432,21 +426,6 @@ return {
 	["u_name"]="Games/GDntg/res/game/effect/yingbi.png",
 	["u_md5"]="8165defb7bf77d07c9c94742adb1fbf9",
 	["u_size"]=25.34,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/effect/yuz/bgyz.png",
-	["u_md5"]="94625d9e09b28cd456af3d77d92b2eb9",
-	["u_size"]=4.13,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/effect/yuz/lightyz.png",
-	["u_md5"]="ec9b41b5f7e67be45e0a2ac7cb6cdceb",
-	["u_size"]=21.72,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/effect/yuz/tipsyz.png",
-	["u_md5"]="49ce22fda4c0ae412618c98c53927417",
-	["u_size"]=31.23,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effect/zhuanquanguang.plist",
@@ -1520,13 +1499,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jinfenxing.plist",
-	["u_md5"]="d35e889ae2b2e923ca1dbc0241425cd8",
+	["u_md5"]="696f5d1ceae43d8ef0b3ed43ccb00640",
 	["u_size"]=3.14,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jinfenxing.png",
-	["u_md5"]="8a119fb7691a6b41fa6e5034bca59aee",
-	["u_size"]=42.59,
+	["u_md5"]="2044c002974f7529b5e70739214cece7",
+	["u_size"]=159.6,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/jingubang_1.plist",
@@ -1597,6 +1576,36 @@ return {
 	["u_name"]="Games/GDntg/res/game/gameAction/bgSwitch/seawater.png",
 	["u_md5"]="606e9dae7c42e97baee94ab7cfcb3f5e",
 	["u_size"]=941.05,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/bgSwitch/yuchaolaile_1.plist",
+	["u_md5"]="cf43a66ab05df9aab4e4bd1089da90c5",
+	["u_size"]=4.15,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/bgSwitch/yuchaolaile_1.png",
+	["u_md5"]="c3edf943f57f73b80859e6534271a0fa",
+	["u_size"]=176.14,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/bgSwitch/yuchaolaile_2.plist",
+	["u_md5"]="ec9a0f942eace2ebce6257d28c7ed95e",
+	["u_size"]=4.15,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/bgSwitch/yuchaolaile_2.png",
+	["u_md5"]="d0a67826f21888cf0511383e26c705ba",
+	["u_size"]=368.69,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/bgSwitch/yuchaolaile_3.plist",
+	["u_md5"]="1857a0c5c066615206e9830b3ae0c3b9",
+	["u_size"]=4.15,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/bgSwitch/yuchaolaile_3.png",
+	["u_md5"]="be866795f764f8a17bf5fd0d42fcc9b5",
+	["u_size"]=215.56,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/shuibowen.plist",
@@ -2630,13 +2639,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerMediator.lua",
-	["u_md5"]="93527a45561ae68545b6059044ef79ea",
-	["u_size"]=7.25,
+	["u_md5"]="bfca80a62d8615652607951dc1d79d30",
+	["u_size"]=7.27,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerView.lua",
-	["u_md5"]="ef04a08182015da616672dafd88d7fb9",
-	["u_size"]=14.05,
+	["u_md5"]="b07836cb80cda33b794e61711789bd4d",
+	["u_size"]=14.64,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GBulletMediator.lua",
@@ -2755,23 +2764,23 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GSkill/GSkillLayerMediator.lua",
-	["u_md5"]="48b33c5e2249347541b568b51b93a17a",
-	["u_size"]=2.19,
+	["u_md5"]="a78e00ff92c452924b0c6889c97dfa34",
+	["u_size"]=2.75,
 	},
 {
 	["u_name"]="Games/GDntg/src/GSkill/GSkillLayerView.lua",
-	["u_md5"]="c35a7271a770fc186c7ac3c952e027b3",
-	["u_size"]=2.39,
+	["u_md5"]="9fc0706c5753aaa2f3601597abf6af5f",
+	["u_size"]=2.79,
 	},
 {
 	["u_name"]="Games/GDntg/src/GSkill/GSkillMediator.lua",
-	["u_md5"]="10218ca0da8be78280053acf8cc62a2e",
-	["u_size"]=13.7,
+	["u_md5"]="5f94a254c6507f0bed787cc92054e518",
+	["u_size"]=15.18,
 	},
 {
 	["u_name"]="Games/GDntg/src/GSkill/GSkillView.lua",
-	["u_md5"]="ce0e3a8c4e50517813ebc5c9f5a1990b",
-	["u_size"]=4.31,
+	["u_md5"]="6832ba4e4d2fc97392eaf555083c613e",
+	["u_size"]=6.66,
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GLockUIMediator.lua",
@@ -2795,8 +2804,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GUILayerView.lua",
-	["u_md5"]="d4255f0f6efa21482861d60e37a355fa",
-	["u_size"]=12.19,
+	["u_md5"]="dbf90cd7b6c172395572b32019d42ef5",
+	["u_size"]=12.18,
 	},
 {
 	["u_name"]="Games/GDntg/src/GameConst/DntgEvent.lua",

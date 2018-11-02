@@ -11,8 +11,8 @@
   "designWidth": 720,
   "textures": [],
   "texturesPng": [
-    "Games/GLobby/res/homepage/bg2.png",
-    "Games/GLobby/res/homepage/img_banner.png"
+    "Games/GLobby/res/common/bg.png",
+    "Games/GLobby/res/homepage/img_banner.jpg"
   ],
   "version": "1.6.0.0",
   "widgetTree": {
@@ -39,10 +39,10 @@
           "flipX": false,
           "flipY": false,
           "height": 1280,
-          "ignoreSize": true,
+          "ignoreSize": false,
           "layoutParameter": null,
           "opacity": 255,
-          "positionPercentX": 0.49999997,
+          "positionPercentX": 0.5,
           "positionPercentY": 0.5,
           "positionType": 0,
           "rotation": 0,
@@ -56,19 +56,19 @@
           "useMergedTexture": false,
           "visible": true,
           "width": 720,
-          "x": 359,
+          "x": 360,
           "y": 640,
-          "capInsetsHeight": 1,
-          "capInsetsWidth": 1,
-          "capInsetsX": 0,
-          "capInsetsY": 0,
+          "capInsetsHeight": 2,
+          "capInsetsWidth": 2,
+          "capInsetsX": 10,
+          "capInsetsY": 10,
           "fileName": null,
           "fileNameData": {
-            "path": "Games/GLobby/res/homepage/bg2.png",
+            "path": "Games/GLobby/res/common/bg.png",
             "plistFile": "",
             "resourceType": 0
           },
-          "scale9Enable": false,
+          "scale9Enable": true,
           "scale9Height": 1280,
           "scale9Width": 720
         }
@@ -142,7 +142,7 @@
           "customProperty": "",
           "flipX": false,
           "flipY": false,
-          "height": 258,
+          "height": 216,
           "ignoreSize": true,
           "layoutParameter": null,
           "opacity": 255,
@@ -168,12 +168,12 @@
           "capInsetsY": 0,
           "fileName": null,
           "fileNameData": {
-            "path": "Games/GLobby/res/homepage/img_banner.png",
+            "path": "Games/GLobby/res/homepage/img_banner.jpg",
             "plistFile": "",
             "resourceType": 0
           },
           "scale9Enable": false,
-          "scale9Height": 258,
+          "scale9Height": 216,
           "scale9Width": 720
         }
       },
@@ -223,10 +223,10 @@
               "areaHeight": 680,
               "areaWidth": 700,
               "fontFile": null,
-              "fontName": "Games/GLobby/res/font/fangzhengzhunyuan.TTF",
+              "fontName": "微软雅黑",
               "fontSize": 28,
               "hAlignment": 0,
-              "text": "    苹果对此进行了回应，并表示这项缺陷来自逻辑板，会导致“一小部分”iPhone 8死机、意外重启、屏幕锁定或者无法打开。                                             苹果表示，将会免费提供逻辑板维修服务，但用户必须保证产品处于原始状态（即屏幕等部件不能发生物理损坏）。该维修项目有效期延续至设备首次出售后3年内。",
+              "text": "",
               "touchScaleEnable": false,
               "vAlignment": 0
             }

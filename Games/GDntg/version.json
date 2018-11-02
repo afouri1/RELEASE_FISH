@@ -2,20 +2,19 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.231",
-["packageSize"] = 32493,
-["date"] = "20181101",
+["version"] = "1.1.232",
+["packageSize"] = 32619,
+["date"] = "20181102",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新提示
-1.牌局界面点击范围修复
-2.战绩统计缺失修复
-3.logo特效替换
-4.脚本报错修复
-5.金箍棒特效添加
-6.无敌风火轮特效添加
-7.新的鱼资源替换
-8.我的界面好，牌局列表界面，消息界面，渔场验证消息界面，渔场消息群发界面资源替换
+1.大厅资源替换
+2.金玉满堂技能特效添加
+3.闪电连锁技能特效添加
+4.金箍棒技能特效添加
+5.闪电连锁鱼数量修改为6条
+6.无敌风火轮技能特效添加
+7.冰冻技能优化
 ]],
 ["assets"] = {} 
 }
