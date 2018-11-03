@@ -2,19 +2,18 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.233",
+["version"] = "1.1.237",
 ["packageSize"] = 35313,
 ["date"] = "20181103",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新提示
-1.大厅资源替换
-2.金玉满堂技能特效添加
-3.闪电连锁技能特效添加
-4.金箍棒技能特效添加
-5.闪电连锁鱼数量修改为6条
-6.无敌风火轮技能特效添加
-7.冰冻技能优化
+1.技能特效优化
+2.提示标语添加
+3.上下分问题修复
+4.牌局管理界面修改
+5.大厅微信头像显示
+6.炮弹扣除修复
 ]],
 ["assets"] = {
 {
@@ -2704,7 +2703,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="67d0be46779b89f149973cf48747036f",
+	["u_md5"]="f8d2bac92e51c51d2eb33a919d6c2061",
 	["u_size"]=38.52,
 	},
 {
@@ -2754,8 +2753,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishView.lua",
-	["u_md5"]="1541a75ee277cc342066ed7b20f0dd37",
-	["u_size"]=12.9,
+	["u_md5"]="60c32317ec966162e0c45a3ac0aa8f55",
+	["u_size"]=12.98,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GNetMediator.lua",
@@ -2804,8 +2803,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GLockMediator.lua",
-	["u_md5"]="c4f63ab51f1bf305cdb21a92e30713db",
-	["u_size"]=9.84,
+	["u_md5"]="f70b82679292f06123f0e15b8f41fa0f",
+	["u_size"]=9.94,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GLockView.lua",
@@ -2859,8 +2858,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GSkill/GSkillLayerView.lua",
-	["u_md5"]="8c97d06e69b349b4c75851a1a6f86683",
-	["u_size"]=2.82,
+	["u_md5"]="72da2676d194c2a8724376302ee101f1",
+	["u_size"]=2.88,
 	},
 {
 	["u_name"]="Games/GDntg/src/GSkill/GSkillMediator.lua",
@@ -2869,8 +2868,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GSkill/GSkillView.lua",
-	["u_md5"]="f186848fa5f14c60c1201d72005e3e91",
-	["u_size"]=6.66,
+	["u_md5"]="0f5b64d09de1b53677b73a459f9dc613",
+	["u_size"]=6.81,
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GLockUIMediator.lua",
@@ -2939,13 +2938,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLoadingGame.lua",
-	["u_md5"]="2fc681797984ab03bdce5d21494706da",
-	["u_size"]=3.61,
+	["u_md5"]="4a3815b2c942cb534b4a2c16507e25aa",
+	["u_size"]=3.65,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLogic.lua",
-	["u_md5"]="60db1b2a16a20a55642a54b8c0b1788d",
-	["u_size"]=17.94,
+	["u_md5"]="7769652aa410509066ba7935038ca609",
+	["u_size"]=17.96,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GPlayerData.lua",

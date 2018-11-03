@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.1.233",
-["packageSize"] = 7892,
+["version"] = "1.1.237",
+["packageSize"] = 7910,
 ["date"] = "20181103",
 ["depends"] = {
 10002,
@@ -18,8 +18,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/CommonFunc.lua",
-	["u_md5"]="0e8bc7f208b0fdce7c6c5bdf5887ca49",
-	["u_size"]=11.4,
+	["u_md5"]="b64f7f8fa42937a0075e25bdbcbc4518",
+	["u_size"]=13.87,
 	},
 {
 	["u_name"]="Games/BaseCommon/ErrorHandler.lua",
@@ -70,6 +70,11 @@ return {
 	["u_name"]="Games/BaseCommon/ProtoBuf/protobuf.lua",
 	["u_md5"]="cf4bd9c8ec729f3db08ad0a30629ece0",
 	["u_size"]=13.2,
+	},
+{
+	["u_name"]="Games/BaseCommon/RichText.lua",
+	["u_md5"]="6db71bc590bd7f4153e6e69890b98b47",
+	["u_size"]=15.56,
 	},
 {
 	["u_name"]="Games/BaseCommon/SearchPathManager.lua",
@@ -268,8 +273,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/NetworkImage.lua",
-	["u_md5"]="3ea0e74b14259515ab2fdc37e8f0f10d",
-	["u_size"]=6.54,
+	["u_md5"]="7d046f69b1980dc6157b9b2f61f264e8",
+	["u_size"]=6.62,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/StrUtil.lua",
