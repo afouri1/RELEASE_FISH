@@ -13,7 +13,7 @@
   "texturesPng": [
     "Games/GLobby/res/common/bg.png",
     "Games/GLobby/res/common/dibanBg.png",
-    "Games/GLobby/res/club/clubManage/icon_huizhang1.png",
+    "Games/GLobby/res/club/clubHead/icon_huizhang1.png",
     "Games/GLobby/res/club/clubManage/txt_js.png",
     "Games/GLobby/res/club/clubManage/txt_xg.png",
     "Games/GLobby/res/common/img_person_head.png",
@@ -103,7 +103,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 136,
+              "height": 127,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -120,7 +120,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 109,
+              "width": 127,
               "x": 0,
               "y": 48,
               "capInsetsHeight": 1,
@@ -129,13 +129,13 @@
               "capInsetsY": 0,
               "fileName": null,
               "fileNameData": {
-                "path": "Games/GLobby/res/club/clubManage/icon_huizhang1.png",
+                "path": "Games/GLobby/res/club/clubHead/icon_huizhang1.png",
                 "plistFile": "",
                 "resourceType": 0
               },
               "scale9Enable": false,
-              "scale9Height": 136,
-              "scale9Width": 109
+              "scale9Height": 127,
+              "scale9Width": 127
             }
           },
           {
