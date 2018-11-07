@@ -2,23 +2,20 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.243",
-["packageSize"] = 14566,
+["version"] = "1.1.246",
+["packageSize"] = 14568,
 ["date"] = "20181107",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.炮弹不足不能发射子弹修复
-2.金玉满堂技能特效修复
-3.闪电连锁鱼替换
-4.V币同步修复
-5.牌局/俱乐部消失修复
-6.炮弹在牌局界面同步问题修复
-7.大厅全面屏修复
-8.大厅界面调整修复
-9.脚本报错修复
+1.出鱼速度调整
+2.出鱼数量调整
+3.牌局界面实时修复
+4.战绩数据对应不上修复
+5.微信头像显示问题修复
+6.俱乐部信息同步处理
 ]],
 ["assets"] = {} 
 }

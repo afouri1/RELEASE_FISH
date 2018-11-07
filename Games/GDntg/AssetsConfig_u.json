@@ -2,21 +2,18 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.243",
-["packageSize"] = 41923,
+["version"] = "1.1.246",
+["packageSize"] = 42158,
 ["date"] = "20181107",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.炮弹不足不能发射子弹修复
-2.金玉满堂技能特效修复
-3.闪电连锁鱼替换
-4.V币同步修复
-5.牌局/俱乐部消失修复
-6.炮弹在牌局界面同步问题修复
-7.大厅全面屏修复
-8.大厅界面调整修复
-9.脚本报错修复
+1.出鱼速度调整
+2.出鱼数量调整
+3.牌局界面实时修复
+4.战绩数据对应不上修复
+5.微信头像显示问题修复
+6.俱乐部信息同步处理
 ]],
 ["assets"] = {
 {
@@ -1410,6 +1407,16 @@ return {
 	["u_size"]=206.03,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/dadian.plist",
+	["u_md5"]="1b9fe96aec5a9cd3715d0ac51745fff3",
+	["u_size"]=4.21,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/dadian.png",
+	["u_md5"]="769c29e1a1940312de312554e418666c",
+	["u_size"]=84.02,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/dian_1.plist",
 	["u_md5"]="d066d23010eecbf859b437c54f4bdefe",
 	["u_size"]=4.19,
@@ -1738,6 +1745,26 @@ return {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/wanfcztis_8.png",
 	["u_md5"]="cc0eebbab0e7af60f08d81ebb49d77c2",
 	["u_size"]=464.44,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/xiaodian_1.plist",
+	["u_md5"]="ef51f18757cbc3cdc02ab4425c815c61",
+	["u_size"]=4.22,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/xiaodian_1.png",
+	["u_md5"]="fff77c70d938421f6fd6efd2478bf5e2",
+	["u_size"]=81.71,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/xiaodian_2.plist",
+	["u_md5"]="4aa5b6c94a47d392ddf76232af3f1f84",
+	["u_size"]=3.13,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameAction/Skill/xiaodian_2.png",
+	["u_md5"]="300074f8537f4c787d8ddd2ff3bc09fe",
+	["u_size"]=58.45,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/UIquan.plist",
@@ -2158,6 +2185,11 @@ return {
 	["u_name"]="Games/GDntg/res/game/gameUi/load/loadingTop.png",
 	["u_md5"]="039127a4009b31c0aad834854f9ccc52",
 	["u_size"]=2.15,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameUi/load/tipsbg.png",
+	["u_md5"]="68afdcd83ee00854e47329f40efae8bf",
+	["u_size"]=1.56,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameUi/playeruibg.png",
@@ -2936,12 +2968,12 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish.lua",
-	["u_md5"]="6502491c644a9b3c3f9e846df80801ad",
-	["u_size"]=32.08,
+	["u_md5"]="82254bd47f3653bae7ac2b034b0bc444",
+	["u_size"]=31.99,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish1.lua",
-	["u_md5"]="ac574f1a852b66fb1d588c75441ee4ed",
+	["u_md5"]="34c4e02d0b9735826f82a86a5fcd65e8",
 	["u_size"]=11.44,
 	},
 {
@@ -3016,13 +3048,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/outfishsurface.lua",
-	["u_md5"]="f7c2edcb329c33bde1d774af7a76dcc3",
-	["u_size"]=51.65,
+	["u_md5"]="4ad06cf5ac340472fe8dba0294d32def",
+	["u_size"]=46.15,
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="6133dce79915593b11278511cc3e1f7d",
-	["u_size"]=39.17,
+	["u_md5"]="5e482a08b30b05afc4ede1d84c041a5c",
+	["u_size"]=39.18,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -3066,7 +3098,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishMediator.lua",
-	["u_md5"]="e9677d4d1f118d216dabdc2e013037d0",
+	["u_md5"]="c41f66f579844cdc90211ec5913d1d43",
 	["u_size"]=19.89,
 	},
 {
@@ -3181,13 +3213,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GSkill/GSkillMediator.lua",
-	["u_md5"]="98643dab6e4af1a45dc9bb3a7e63fca2",
-	["u_size"]=15.3,
+	["u_md5"]="5ec614578af64a2c984b4d2164740bb5",
+	["u_size"]=15.61,
 	},
 {
 	["u_name"]="Games/GDntg/src/GSkill/GSkillView.lua",
-	["u_md5"]="093e84eaa4ec4a460cf84d1be93b22bc",
-	["u_size"]=7.77,
+	["u_md5"]="acefc27e1c812f874e2a04d4439b329c",
+	["u_size"]=9.38,
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GLockUIMediator.lua",
@@ -3256,8 +3288,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLoadingGame.lua",
-	["u_md5"]="4a3815b2c942cb534b4a2c16507e25aa",
-	["u_size"]=3.65,
+	["u_md5"]="d56eca2244b5b21755847d7d1284e58d",
+	["u_size"]=4.61,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLogic.lua",
