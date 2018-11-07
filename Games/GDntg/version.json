@@ -2,18 +2,21 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.237",
-["packageSize"] = 35313,
-["date"] = "20181103",
+["version"] = "1.1.243",
+["packageSize"] = 41923,
+["date"] = "20181107",
 ["depends"] = {
 },
-["newDetails"] = [[版本更新提示
-1.技能特效优化
-2.提示标语添加
-3.上下分问题修复
-4.牌局管理界面修改
-5.大厅微信头像显示
-6.炮弹扣除修复
+["newDetails"] = [[版本更新内容：
+1.炮弹不足不能发射子弹修复
+2.金玉满堂技能特效修复
+3.闪电连锁鱼替换
+4.V币同步修复
+5.牌局/俱乐部消失修复
+6.炮弹在牌局界面同步问题修复
+7.大厅全面屏修复
+8.大厅界面调整修复
+9.脚本报错修复
 ]],
 ["assets"] = {} 
 }

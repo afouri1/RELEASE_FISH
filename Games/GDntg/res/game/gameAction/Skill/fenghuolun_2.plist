@@ -4,93 +4,33 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>fenghuolun07.png</key>
+            <key>fenghuolun03.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{900,500}</string>
+                <string>{1280,720}</string>
                 <key>spriteSourceSize</key>
-                <string>{900,500}</string>
+                <string>{1280,720}</string>
                 <key>textureRect</key>
-                <string>{{0,0},{900,500}}</string>
+                <string>{{0,0},{1280,720}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>fenghuolun08.png</key>
+            <key>fenghuolun04.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{900,500}</string>
+                <string>{1280,720}</string>
                 <key>spriteSourceSize</key>
-                <string>{900,500}</string>
+                <string>{1280,720}</string>
                 <key>textureRect</key>
-                <string>{{900,0},{900,500}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>fenghuolun09.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{900,500}</string>
-                <key>spriteSourceSize</key>
-                <string>{900,500}</string>
-                <key>textureRect</key>
-                <string>{{0,500},{900,500}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>fenghuolun10.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{900,500}</string>
-                <key>spriteSourceSize</key>
-                <string>{900,500}</string>
-                <key>textureRect</key>
-                <string>{{900,500},{900,500}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>fenghuolun11.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{900,500}</string>
-                <key>spriteSourceSize</key>
-                <string>{900,500}</string>
-                <key>textureRect</key>
-                <string>{{0,1000},{900,500}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>fenghuolun12.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{900,500}</string>
-                <key>spriteSourceSize</key>
-                <string>{900,500}</string>
-                <key>textureRect</key>
-                <string>{{900,1000},{900,500}}</string>
+                <string>{{0,720},{1280,720}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -106,9 +46,9 @@
             <key>realTextureFileName</key>
             <string>fenghuolun_2.png</string>
             <key>size</key>
-            <string>{1800,1500}</string>
+            <string>{1280,1440}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:c10e2c3eb965222eaa9c6eedc0cdaa27:f30104b6414435e3f3e487cbb8ce4c3a:4fdb4c5e46a5a324ecd57b4afa5a65b4$</string>
+            <string>$TexturePacker:SmartUpdate:54fe2c8b0573a6c9c91960ef689a8957:434163266e3d9dc7036ddcccbe3b883e:4fdb4c5e46a5a324ecd57b4afa5a65b4$</string>
             <key>textureFileName</key>
             <string>fenghuolun_2.png</string>
         </dict>

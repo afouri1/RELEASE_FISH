@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.1.237",
-["packageSize"] = 7910,
-["date"] = "20181103",
+["version"] = "1.1.243",
+["packageSize"] = 7913,
+["date"] = "20181107",
 ["depends"] = {
 10002,
 10003,
@@ -28,13 +28,13 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/GameAction.lua",
-	["u_md5"]="10993c3f7b0b7f05ca8c25ead01d02ca",
-	["u_size"]=2.79,
+	["u_md5"]="571760f125209b0fd95d2c2c412cc6b0",
+	["u_size"]=3.18,
 	},
 {
 	["u_name"]="Games/BaseCommon/GameNetwork/GameSocket.lua",
-	["u_md5"]="d4aa0d2455f32a72d78f6707474b0400",
-	["u_size"]=17.51,
+	["u_md5"]="cecde731669eb9a1978dfc9e304f053d",
+	["u_size"]=17.52,
 	},
 {
 	["u_name"]="Games/BaseCommon/GameNetwork/GameSocketEvent.lua",
@@ -53,13 +53,13 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/GameUserData.lua",
-	["u_md5"]="2d9226b1623642a839f01d67c4e468cd",
+	["u_md5"]="c2e003bc881693ba0592c51e0a74ab2c",
 	["u_size"]=24.93,
 	},
 {
 	["u_name"]="Games/BaseCommon/MsgHandler.lua",
-	["u_md5"]="f6db9f64dd7d11c0ac239bb3fbca6e74",
-	["u_size"]=8.95,
+	["u_md5"]="92859adc7ac7042b9763e46551dee083",
+	["u_size"]=9.1,
 	},
 {
 	["u_name"]="Games/BaseCommon/ProtoBuf/ProtobufParse.lua",
@@ -73,8 +73,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/RichText.lua",
-	["u_md5"]="6db71bc590bd7f4153e6e69890b98b47",
-	["u_size"]=15.56,
+	["u_md5"]="0a59e490a1f666c47304678888c69eca",
+	["u_size"]=17.9,
 	},
 {
 	["u_name"]="Games/BaseCommon/SearchPathManager.lua",

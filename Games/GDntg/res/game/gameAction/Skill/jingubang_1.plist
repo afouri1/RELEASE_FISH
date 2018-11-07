@@ -11,11 +11,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{900,500}</string>
+                <string>{1280,720}</string>
                 <key>spriteSourceSize</key>
-                <string>{900,500}</string>
+                <string>{1280,720}</string>
                 <key>textureRect</key>
-                <string>{{0,0},{900,500}}</string>
+                <string>{{0,0},{1280,720}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -26,71 +26,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{900,500}</string>
+                <string>{1280,720}</string>
                 <key>spriteSourceSize</key>
-                <string>{900,500}</string>
+                <string>{1280,720}</string>
                 <key>textureRect</key>
-                <string>{{900,0},{900,500}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>jingubang03.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{900,500}</string>
-                <key>spriteSourceSize</key>
-                <string>{900,500}</string>
-                <key>textureRect</key>
-                <string>{{0,500},{900,500}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>jingubang04.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{900,500}</string>
-                <key>spriteSourceSize</key>
-                <string>{900,500}</string>
-                <key>textureRect</key>
-                <string>{{900,500},{900,500}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>jingubang05.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{900,500}</string>
-                <key>spriteSourceSize</key>
-                <string>{900,500}</string>
-                <key>textureRect</key>
-                <string>{{0,1000},{900,500}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>jingubang06.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{900,500}</string>
-                <key>spriteSourceSize</key>
-                <string>{900,500}</string>
-                <key>textureRect</key>
-                <string>{{900,1000},{900,500}}</string>
+                <string>{{0,720},{1280,720}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -106,9 +46,9 @@
             <key>realTextureFileName</key>
             <string>jingubang_1.png</string>
             <key>size</key>
-            <string>{1800,1500}</string>
+            <string>{1280,1440}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:92bb2af9e72e9570479e27badb9c9cf2:ac6c4ea812a4f2a9e1b1b6fe55b5ad59:26eeb2f62c71da68553f7ca99ed31fd7$</string>
+            <string>$TexturePacker:SmartUpdate:e707270dc4f955168c64d31ebc88bfdf:7d6e0a9b9022ded7c2ef2b48e58a8aff:26eeb2f62c71da68553f7ca99ed31fd7$</string>
             <key>textureFileName</key>
             <string>jingubang_1.png</string>
         </dict>
