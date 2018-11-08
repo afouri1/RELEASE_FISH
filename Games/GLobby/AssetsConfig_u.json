@@ -2,20 +2,22 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.252",
-["packageSize"] = 14599,
+["version"] = "1.1.254",
+["packageSize"] = 14635,
 ["date"] = "20181108",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.出鱼速度调整
-2.出鱼数量调整
-3.牌局界面实时修复
-4.战绩数据对应不上修复
-5.微信头像显示问题修复
-6.俱乐部信息同步处理
+1.命中优化
+2.没有炮弹不能发射子弹修复
+3.索取V币脚本报错修复
+4.俱乐部数据同步修复
+5.圆圈鱼阵倍率修复
+6.马甲包-中华捕鱼
+7.boss提示标语添加
+8.技能特效算分修复
 ]],
 ["assets"] = {
 {
@@ -30,8 +32,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
-	["u_md5"]="23c580dbb3c35da06c3fa5d9a55d4cce",
-	["u_size"]=25.56,
+	["u_md5"]="c8ce7cdeb16d85e3660075152dc8d2fd",
+	["u_size"]=25.57,
 	},
 {
 	["u_name"]="Games/GLobby/ScriptConfig.lua",
@@ -484,6 +486,36 @@ return {
 	["u_size"]=4.24,
 	},
 {
+	["u_name"]="Games/GLobby/res/club/chat/chat_bg.png",
+	["u_md5"]="d36b1c7b07eacd2d37dcadaf16d5d728",
+	["u_size"]=0.42,
+	},
+{
+	["u_name"]="Games/GLobby/res/club/chat/chat_gray.png",
+	["u_md5"]="1407276221336a2cdf55e0e04361f265",
+	["u_size"]=0.46,
+	},
+{
+	["u_name"]="Games/GLobby/res/club/chat/chat_yellow.png",
+	["u_md5"]="55c14643401e7098ffdd89039ff64210",
+	["u_size"]=0.42,
+	},
+{
+	["u_name"]="Games/GLobby/res/club/chat/icon_add.png",
+	["u_md5"]="4f96a3bc80b2f6bdc8b03d85ad6c8443",
+	["u_size"]=3.08,
+	},
+{
+	["u_name"]="Games/GLobby/res/club/chat/icon_biaoqing.png",
+	["u_md5"]="6ebd5d59b1e9f15aff5e13ec64efbe21",
+	["u_size"]=3.59,
+	},
+{
+	["u_name"]="Games/GLobby/res/club/chat/icon_yuyin.png",
+	["u_md5"]="e49a8cd563ec01602c6d46bf4c4de5fb",
+	["u_size"]=4,
+	},
+{
 	["u_name"]="Games/GLobby/res/club/clubHead/icon_huizhang1.png",
 	["u_md5"]="75928a3d8ce7e408da20aed5ed3ae89e",
 	["u_size"]=13.76,
@@ -927,6 +959,11 @@ return {
 	["u_name"]="Games/GLobby/res/cocostudio/dntg_lobby_apply_create_club.json",
 	["u_md5"]="162fe9bb887a2b7b1018b43eca3f4807",
 	["u_size"]=17.93,
+	},
+{
+	["u_name"]="Games/GLobby/res/cocostudio/dntg_lobby_card_chat.json",
+	["u_md5"]="6820726aee2243a24fa3388eb2501cb9",
+	["u_size"]=19.31,
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/dntg_lobby_card_info.json",
@@ -1905,8 +1942,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardInfoLayerView.lua",
-	["u_md5"]="3ddf326e769e9de1ba91edfaf8b5a58e",
-	["u_size"]=25.47,
+	["u_md5"]="57b805084526a568d771dba631e68593",
+	["u_size"]=25.75,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardManageLayerMediator.lua",
@@ -1919,8 +1956,18 @@ return {
 	["u_size"]=20.6,
 	},
 {
+	["u_name"]="Games/GLobby/src/Club/GLobbyClubChatLayerMediator.lua",
+	["u_md5"]="7e19abf96a42f1acb5e8e51515861f61",
+	["u_size"]=0.87,
+	},
+{
+	["u_name"]="Games/GLobby/src/Club/GLobbyClubChatLayerView.lua",
+	["u_md5"]="5cd88e61c8a554f50503ac82cf458d84",
+	["u_size"]=3.04,
+	},
+{
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubListLayerItem.lua",
-	["u_md5"]="bc26f19914f91a0ffd34121dacd4cccc",
+	["u_md5"]="2aab2759f6051d05ec4eedc53bfbfd32",
 	["u_size"]=3.54,
 	},
 {
@@ -1980,8 +2027,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubValidateMsgLayerItem.lua",
-	["u_md5"]="450b3ad45bbcd94688e37fcf17dae2ef",
-	["u_size"]=5.57,
+	["u_md5"]="28a30a07c3c463be52b1fc1b64c4d92d",
+	["u_size"]=6.08,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubValidateMsgLayerMediator.lua",
@@ -1990,8 +2037,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubValidateMsgLayerView.lua",
-	["u_md5"]="e00d2a37a67f21604639ab82ecdc6325",
-	["u_size"]=9.52,
+	["u_md5"]="ec9c1992e73a088302954f0e4910cef6",
+	["u_size"]=9.39,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCreateCardLayerMediator.lua",
@@ -2065,8 +2112,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/GameVManager/GameVManager.lua",
-	["u_md5"]="5d9b2140c9993fe4ae9ab7377ff424ea",
-	["u_size"]=12.85,
+	["u_md5"]="317825026257afed7d7f62f02b80723a",
+	["u_size"]=12.95,
 	},
 {
 	["u_name"]="Games/GLobby/src/GameVManager/UpdateProgress.json",
@@ -2205,8 +2252,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/data/clubRoomListData.lua",
-	["u_md5"]="e777fa6565be768851ecaa1d32b38698",
-	["u_size"]=3.39,
+	["u_md5"]="fffaca026ab0e5b3b99ffe0f514e8968",
+	["u_size"]=3.61,
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyGameRecordLayerItem.lua",
