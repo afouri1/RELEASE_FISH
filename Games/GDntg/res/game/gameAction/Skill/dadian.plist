@@ -11,11 +11,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{966,568}</string>
+                <string>{656,242}</string>
                 <key>spriteSourceSize</key>
-                <string>{966,568}</string>
+                <string>{656,242}</string>
                 <key>textureRect</key>
-                <string>{{0,0},{966,568}}</string>
+                <string>{{0,0},{656,242}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -26,11 +26,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{966,568}</string>
+                <string>{656,242}</string>
                 <key>spriteSourceSize</key>
-                <string>{966,568}</string>
+                <string>{656,242}</string>
                 <key>textureRect</key>
-                <string>{{966,0},{966,568}}</string>
+                <string>{{656,0},{656,242}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -41,11 +41,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{966,568}</string>
+                <string>{656,242}</string>
                 <key>spriteSourceSize</key>
-                <string>{966,568}</string>
+                <string>{656,242}</string>
                 <key>textureRect</key>
-                <string>{{0,568},{966,568}}</string>
+                <string>{{1312,0},{656,242}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -56,11 +56,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{966,568}</string>
+                <string>{656,242}</string>
                 <key>spriteSourceSize</key>
-                <string>{966,568}</string>
+                <string>{656,242}</string>
                 <key>textureRect</key>
-                <string>{{966,568},{966,568}}</string>
+                <string>{{0,242},{656,242}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -71,11 +71,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{966,568}</string>
+                <string>{656,242}</string>
                 <key>spriteSourceSize</key>
-                <string>{966,568}</string>
+                <string>{656,242}</string>
                 <key>textureRect</key>
-                <string>{{0,1136},{966,568}}</string>
+                <string>{{656,242},{656,242}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -86,11 +86,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{966,568}</string>
+                <string>{656,242}</string>
                 <key>spriteSourceSize</key>
-                <string>{966,568}</string>
+                <string>{656,242}</string>
                 <key>textureRect</key>
-                <string>{{966,1136},{966,568}}</string>
+                <string>{{1312,242},{656,242}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -106,9 +106,9 @@
             <key>realTextureFileName</key>
             <string>dadian.png</string>
             <key>size</key>
-            <string>{1932,1704}</string>
+            <string>{1968,484}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:61611c035b2a6eb42498640f244db128:e75ac579c591b78ba8831690ffafcd93:9b410b563f7718f49e92148e894ef0bd$</string>
+            <string>$TexturePacker:SmartUpdate:d3724c892960eedcf66cce8ad0cec2d3:b47f2b6f66253bddc6ae3fe04a254166:9b410b563f7718f49e92148e894ef0bd$</string>
             <key>textureFileName</key>
             <string>dadian.png</string>
         </dict>
