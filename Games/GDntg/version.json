@@ -2,20 +2,19 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.254",
-["packageSize"] = 44750,
-["date"] = "20181108",
+["version"] = "1.1.255",
+["packageSize"] = 44751,
+["date"] = "20181109",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.命中优化
-2.没有炮弹不能发射子弹修复
-3.索取V币脚本报错修复
-4.俱乐部数据同步修复
-5.圆圈鱼阵倍率修复
-6.马甲包-中华捕鱼
-7.boss提示标语添加
-8.技能特效算分修复
+1.红点提示消息修复
+2.微信头像显示
+3.炮弹输入框报错修复
+4.统计数字加入千分符
+5.体验场炮值修改为100-1000
+6.游戏内脚本报错修复
+7.牌局名称丢失修复
 ]],
 ["assets"] = {} 
 }
