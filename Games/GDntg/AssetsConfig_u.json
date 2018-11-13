@@ -2,19 +2,18 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.255",
-["packageSize"] = 44751,
-["date"] = "20181109",
+["version"] = "1.1.262",
+["packageSize"] = 44750,
+["date"] = "20181113",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.红点提示消息修复
-2.微信头像显示
-3.炮弹输入框报错修复
-4.统计数字加入千分符
-5.体验场炮值修改为100-1000
-6.游戏内脚本报错修复
-7.牌局名称丢失修复
+1.点击微信不能登陆
+2.牌局界面V币/炮弹刷新修复
+3.V币不能索取修复
+4.风火轮、闪电连锁技能倍率修复
+5.鱼速度修改
+6.俱乐部界面调整
 ]],
 ["assets"] = {
 {
@@ -1649,8 +1648,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/shouji.plist",
-	["u_md5"]="c2ac8214fae5c8856bd49b9b1ef8e738",
-	["u_size"]=6.38,
+	["u_md5"]="b4164b7593ea06103e2552fcdd1ed272",
+	["u_size"]=6.21,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/shouji.png",
@@ -1659,8 +1658,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/shouji_1.plist",
-	["u_md5"]="eccb5818a7d4fe5fc5eff911038e1a0b",
-	["u_size"]=9.7,
+	["u_md5"]="056e54603f2647cabc0429a9d1ea1008",
+	["u_size"]=9.44,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/shouji_1.png",
@@ -3059,12 +3058,12 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish.lua",
-	["u_md5"]="2fd789f78fcbd608b9a7378120701e71",
-	["u_size"]=32.04,
+	["u_md5"]="864f80c81fb30dead01ae9b8c6559fc8",
+	["u_size"]=31.94,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish1.lua",
-	["u_md5"]="34c4e02d0b9735826f82a86a5fcd65e8",
+	["u_md5"]="b4c4ef9d75992748a58a7d901f8de809",
 	["u_size"]=11.44,
 	},
 {
@@ -3074,8 +3073,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/GCFpersonalhit.lua",
-	["u_md5"]="ec45ac4202b0aa4771c277c1c8ea6e95",
-	["u_size"]=0.86,
+	["u_md5"]="e044dccd9e60e055fda2f08dbc6a0b4b",
+	["u_size"]=0.89,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/SceneCreate01.lua",
@@ -3089,23 +3088,23 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Selection.lua",
-	["u_md5"]="9f90f628a4999c250202523ce8c89d34",
-	["u_size"]=1.03,
+	["u_md5"]="5116457949bb651502f91579ee0312e5",
+	["u_size"]=0.76,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/clubhit.lua",
-	["u_md5"]="587e0cdb27978ad0f2aead7a6d74515b",
-	["u_size"]=0.8,
+	["u_md5"]="5bf8fb0adc6f0ab05f3200bcc09f7e7a",
+	["u_size"]=0.84,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/clubpersonalhit.lua",
-	["u_md5"]="1352ee467cff4d0a2a65a72018d6dfa2",
-	["u_size"]=0.9,
+	["u_md5"]="9ca20ea9dbcfdd7434641425a7a0a773",
+	["u_size"]=0.93,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/collision.lua",
-	["u_md5"]="7395025dcedc44de2f635f9b137a2eef",
-	["u_size"]=7.32,
+	["u_md5"]="83c8bcbd1ab05d6904a4c45923ddc622",
+	["u_size"]=7.28,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/commodity.lua",
@@ -3114,18 +3113,18 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/correctfactor.lua",
-	["u_md5"]="c38293dc3730764286384f21014da9bc",
-	["u_size"]=0.31,
+	["u_md5"]="2190e9e65d27827a0be44c98b268cd91",
+	["u_size"]=0.5,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishPath.lua",
-	["u_md5"]="24d55a2effe953125acb839ca4bcc2ed",
-	["u_size"]=91.04,
+	["u_md5"]="786983e09e4118a0e65a3709cd0a43d7",
+	["u_size"]=90.97,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fisharray.lua",
-	["u_md5"]="50dad31d90f010a5d0b880894178cf3b",
-	["u_size"]=2.73,
+	["u_md5"]="b9ef4dc400543e2051d45cda4436f886",
+	["u_size"]=2.72,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishfarmscene.lua",
@@ -3134,13 +3133,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/goldcoinhit.lua",
-	["u_md5"]="215419f547c8f142f52ba2260d775dc6",
-	["u_size"]=0.79,
+	["u_md5"]="49810950f1a52f6f6ac38b8c7ef69263",
+	["u_size"]=0.83,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/outfishsurface.lua",
-	["u_md5"]="4ad06cf5ac340472fe8dba0294d32def",
-	["u_size"]=46.15,
+	["u_md5"]="62f5215c802b8189c56be9dfb21553a5",
+	["u_size"]=46.24,
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
@@ -3304,13 +3303,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GSkill/GSkillMediator.lua",
-	["u_md5"]="0cc5016f33d5c835b84ff4f4f8740e5a",
+	["u_md5"]="541cb2a1911c483109f06584cec09e1a",
 	["u_size"]=15.66,
 	},
 {
 	["u_name"]="Games/GDntg/src/GSkill/GSkillView.lua",
-	["u_md5"]="1084de73e523d2ffdb13c7b1473ce623",
-	["u_size"]=9.4,
+	["u_md5"]="921c3907da2e8cc3dc16d7f06bb29c62",
+	["u_size"]=9.62,
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GLockUIMediator.lua",
@@ -3409,8 +3408,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/pb/dntg_c2s.pb",
-	["u_md5"]="f35f71a894bde68a7be5dddf79a2193d",
-	["u_size"]=0.59,
+	["u_md5"]="ed450fa668f84de2001645d79f20da85",
+	["u_size"]=0.38,
 	},
 {
 	["u_name"]="Games/GDntg/src/pb/dntg_s2c.pb",

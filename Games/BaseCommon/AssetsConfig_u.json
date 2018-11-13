@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.1.255",
+["version"] = "1.1.262",
 ["packageSize"] = 7918,
-["date"] = "20181109",
+["date"] = "20181113",
 ["depends"] = {
 10002,
 10003,
@@ -58,8 +58,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/MsgHandler.lua",
-	["u_md5"]="92859adc7ac7042b9763e46551dee083",
-	["u_size"]=9.1,
+	["u_md5"]="83b2fd5d3bcb341d3d33e1087dcb53de",
+	["u_size"]=9.64,
 	},
 {
 	["u_name"]="Games/BaseCommon/ProtoBuf/ProtobufParse.lua",
@@ -273,8 +273,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/NetworkImage.lua",
-	["u_md5"]="7d046f69b1980dc6157b9b2f61f264e8",
-	["u_size"]=6.62,
+	["u_md5"]="6bdcca2b79678082e010b4bc3795ea1a",
+	["u_size"]=6.64,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/StrUtil.lua",
@@ -283,8 +283,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/TiFunction.lua",
-	["u_md5"]="bef303eee12616665b51964ba65de244",
-	["u_size"]=56.01,
+	["u_md5"]="80017bab69ba23cd4256caffd9acbc15",
+	["u_size"]=56.24,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/TimeUtil.lua",
