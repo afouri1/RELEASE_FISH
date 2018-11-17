@@ -2,20 +2,24 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.262",
-["packageSize"] = 14668,
-["date"] = "20181113",
+["version"] = "1.1.276",
+["packageSize"] = 15791,
+["date"] = "20181117",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.点击微信不能登陆
-2.牌局界面V币/炮弹刷新修复
-3.V币不能索取修复
-4.风火轮、闪电连锁技能倍率修复
-5.鱼速度修改
-6.俱乐部界面调整
+1.命中优化调整
+2.体验场炮值调整
+3.炮弹-V币-牌桌ID数据问题修复
+4.渔场牌桌盈亏记录添加
+5.俱乐部炮台选择及新炮台资源添加
+6.游戏内转盘特效、鱼速度、鱼资源替换
+7.俱乐部数据-界面展示同步刷新问题修复
+8.修复已知脚本报错
+9.大厅界面调整，游戏内添加牌桌信息
+10.大厅及游戏内常规BUG修复
 ]],
 ["assets"] = {} 
 }

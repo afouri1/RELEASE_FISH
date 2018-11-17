@@ -11,11 +11,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{180,123}</string>
+                <string>{144,98}</string>
                 <key>spriteSourceSize</key>
-                <string>{180,123}</string>
+                <string>{144,98}</string>
                 <key>textureRect</key>
-                <string>{{0,0},{180,123}}</string>
+                <string>{{0,0},{144,98}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -26,11 +26,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{180,123}</string>
+                <string>{144,98}</string>
                 <key>spriteSourceSize</key>
-                <string>{180,123}</string>
+                <string>{144,98}</string>
                 <key>textureRect</key>
-                <string>{{0,123},{180,123}}</string>
+                <string>{{144,0},{144,98}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -41,11 +41,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{180,123}</string>
+                <string>{144,98}</string>
                 <key>spriteSourceSize</key>
-                <string>{180,123}</string>
+                <string>{144,98}</string>
                 <key>textureRect</key>
-                <string>{{0,246},{180,123}}</string>
+                <string>{{288,0},{144,98}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -56,11 +56,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{180,123}</string>
+                <string>{144,98}</string>
                 <key>spriteSourceSize</key>
-                <string>{180,123}</string>
+                <string>{144,98}</string>
                 <key>textureRect</key>
-                <string>{{0,369},{180,123}}</string>
+                <string>{{432,0},{144,98}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -71,11 +71,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{180,123}</string>
+                <string>{144,98}</string>
                 <key>spriteSourceSize</key>
-                <string>{180,123}</string>
+                <string>{144,98}</string>
                 <key>textureRect</key>
-                <string>{{0,492},{180,123}}</string>
+                <string>{{576,0},{144,98}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -86,11 +86,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{180,123}</string>
+                <string>{144,98}</string>
                 <key>spriteSourceSize</key>
-                <string>{180,123}</string>
+                <string>{144,98}</string>
                 <key>textureRect</key>
-                <string>{{0,615},{180,123}}</string>
+                <string>{{720,0},{144,98}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -101,11 +101,26 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{180,123}</string>
+                <string>{144,98}</string>
                 <key>spriteSourceSize</key>
-                <string>{180,123}</string>
+                <string>{144,98}</string>
                 <key>textureRect</key>
-                <string>{{0,738},{180,123}}</string>
+                <string>{{864,0},{144,98}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>fishMove00508.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{144,98}</string>
+                <key>spriteSourceSize</key>
+                <string>{144,98}</string>
+                <key>textureRect</key>
+                <string>{{1008,0},{144,98}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -116,11 +131,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{180,123}</string>
+                <string>{144,98}</string>
                 <key>spriteSourceSize</key>
-                <string>{180,123}</string>
+                <string>{144,98}</string>
                 <key>textureRect</key>
-                <string>{{0,861},{180,123}}</string>
+                <string>{{1152,0},{144,98}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -131,11 +146,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{180,123}</string>
+                <string>{144,98}</string>
                 <key>spriteSourceSize</key>
-                <string>{180,123}</string>
+                <string>{144,98}</string>
                 <key>textureRect</key>
-                <string>{{0,984},{180,123}}</string>
+                <string>{{1296,0},{144,98}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -146,11 +161,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{180,123}</string>
+                <string>{144,98}</string>
                 <key>spriteSourceSize</key>
-                <string>{180,123}</string>
+                <string>{144,98}</string>
                 <key>textureRect</key>
-                <string>{{0,1107},{180,123}}</string>
+                <string>{{1440,0},{144,98}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -161,26 +176,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{180,123}</string>
+                <string>{144,98}</string>
                 <key>spriteSourceSize</key>
-                <string>{180,123}</string>
+                <string>{144,98}</string>
                 <key>textureRect</key>
-                <string>{{0,1230},{180,123}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>fishMove00513.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{180,123}</string>
-                <key>spriteSourceSize</key>
-                <string>{180,123}</string>
-                <key>textureRect</key>
-                <string>{{0,1353},{180,123}}</string>
+                <string>{{1584,0},{144,98}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -196,9 +196,9 @@
             <key>realTextureFileName</key>
             <string>fishMove005.png</string>
             <key>size</key>
-            <string>{180,1476}</string>
+            <string>{1728,98}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:47460daa0f219c1473fe2ebbce530dbc:4385fd30ce4a1235738fd34d65011a9e:9b6173174e1506123b61e7bc33caf44a$</string>
+            <string>$TexturePacker:SmartUpdate:a05cf5f277e965e3c7e76da5207cca6f:2fa0a1c1e3ed1f99fa29326ad4413b31:9b6173174e1506123b61e7bc33caf44a$</string>
             <key>textureFileName</key>
             <string>fishMove005.png</string>
         </dict>
