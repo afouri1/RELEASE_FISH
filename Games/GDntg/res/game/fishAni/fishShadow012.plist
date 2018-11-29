@@ -11,11 +11,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{320,218}</string>
+                <string>{256,174}</string>
                 <key>spriteSourceSize</key>
-                <string>{320,218}</string>
+                <string>{256,174}</string>
                 <key>textureRect</key>
-                <string>{{0,0},{320,218}}</string>
+                <string>{{0,0},{256,174}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -26,11 +26,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{320,218}</string>
+                <string>{256,174}</string>
                 <key>spriteSourceSize</key>
-                <string>{320,218}</string>
+                <string>{256,174}</string>
                 <key>textureRect</key>
-                <string>{{320,0},{320,218}}</string>
+                <string>{{256,0},{256,174}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -41,11 +41,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{320,218}</string>
+                <string>{256,174}</string>
                 <key>spriteSourceSize</key>
-                <string>{320,218}</string>
+                <string>{256,174}</string>
                 <key>textureRect</key>
-                <string>{{640,0},{320,218}}</string>
+                <string>{{0,174},{256,174}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -56,11 +56,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{320,218}</string>
+                <string>{256,174}</string>
                 <key>spriteSourceSize</key>
-                <string>{320,218}</string>
+                <string>{256,174}</string>
                 <key>textureRect</key>
-                <string>{{960,0},{320,218}}</string>
+                <string>{{256,174},{256,174}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -71,11 +71,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{320,218}</string>
+                <string>{256,174}</string>
                 <key>spriteSourceSize</key>
-                <string>{320,218}</string>
+                <string>{256,174}</string>
                 <key>textureRect</key>
-                <string>{{1280,0},{320,218}}</string>
+                <string>{{0,348},{256,174}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -86,11 +86,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{320,218}</string>
+                <string>{256,174}</string>
                 <key>spriteSourceSize</key>
-                <string>{320,218}</string>
+                <string>{256,174}</string>
                 <key>textureRect</key>
-                <string>{{1600,0},{320,218}}</string>
+                <string>{{256,348},{256,174}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -101,11 +101,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{320,218}</string>
+                <string>{256,174}</string>
                 <key>spriteSourceSize</key>
-                <string>{320,218}</string>
+                <string>{256,174}</string>
                 <key>textureRect</key>
-                <string>{{0,218},{320,218}}</string>
+                <string>{{0,522},{256,174}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -116,11 +116,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{320,218}</string>
+                <string>{256,174}</string>
                 <key>spriteSourceSize</key>
-                <string>{320,218}</string>
+                <string>{256,174}</string>
                 <key>textureRect</key>
-                <string>{{320,218},{320,218}}</string>
+                <string>{{256,522},{256,174}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -131,11 +131,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{320,218}</string>
+                <string>{256,174}</string>
                 <key>spriteSourceSize</key>
-                <string>{320,218}</string>
+                <string>{256,174}</string>
                 <key>textureRect</key>
-                <string>{{640,218},{320,218}}</string>
+                <string>{{0,696},{256,174}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -146,11 +146,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{320,218}</string>
+                <string>{256,174}</string>
                 <key>spriteSourceSize</key>
-                <string>{320,218}</string>
+                <string>{256,174}</string>
                 <key>textureRect</key>
-                <string>{{960,218},{320,218}}</string>
+                <string>{{256,696},{256,174}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -161,11 +161,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{320,218}</string>
+                <string>{256,174}</string>
                 <key>spriteSourceSize</key>
-                <string>{320,218}</string>
+                <string>{256,174}</string>
                 <key>textureRect</key>
-                <string>{{1280,218},{320,218}}</string>
+                <string>{{0,870},{256,174}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -176,11 +176,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{320,218}</string>
+                <string>{256,174}</string>
                 <key>spriteSourceSize</key>
-                <string>{320,218}</string>
+                <string>{256,174}</string>
                 <key>textureRect</key>
-                <string>{{1600,218},{320,218}}</string>
+                <string>{{256,870},{256,174}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -196,9 +196,9 @@
             <key>realTextureFileName</key>
             <string>fishShadow012.png</string>
             <key>size</key>
-            <string>{1920,436}</string>
+            <string>{512,1044}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:d49ba1af1f1150d915dfff7eeeedcb9a:65ca63cbf89889fed10e570ebf7c83db:b54fda6cf9c940c3cabdb16436d8d251$</string>
+            <string>$TexturePacker:SmartUpdate:dc9e955ecddd6741caba9bc6d1ee5bdc:2b76571e557a139032c22085c28e4f78:b54fda6cf9c940c3cabdb16436d8d251$</string>
             <key>textureFileName</key>
             <string>fishShadow012.png</string>
         </dict>

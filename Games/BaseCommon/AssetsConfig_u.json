@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.1.255",
-["packageSize"] = 7918,
-["date"] = "20181109",
+["version"] = "1.1.283",
+["packageSize"] = 7873,
+["date"] = "20181129",
 ["depends"] = {
 10002,
 10003,
@@ -13,13 +13,13 @@ return {
 ["assets"] = {
 {
 	["u_name"]="Games/BaseCommon/CommonEvent.lua",
-	["u_md5"]="d5bf59130f730bebdaaad989f2025783",
-	["u_size"]=0.37,
+	["u_md5"]="e5d4f7f86671421b3ca61fd1f69c7b03",
+	["u_size"]=0.89,
 	},
 {
 	["u_name"]="Games/BaseCommon/CommonFunc.lua",
-	["u_md5"]="73e8a4e114412614eb6fd3000a2bed30",
-	["u_size"]=14.06,
+	["u_md5"]="76e7f5e6fed8a6f34dffdea9122f8c08",
+	["u_size"]=19.53,
 	},
 {
 	["u_name"]="Games/BaseCommon/ErrorHandler.lua",
@@ -28,13 +28,13 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/GameAction.lua",
-	["u_md5"]="571760f125209b0fd95d2c2c412cc6b0",
-	["u_size"]=3.18,
+	["u_md5"]="331513a56a8b3d8b883b3b09129074ab",
+	["u_size"]=3.28,
 	},
 {
 	["u_name"]="Games/BaseCommon/GameNetwork/GameSocket.lua",
-	["u_md5"]="cecde731669eb9a1978dfc9e304f053d",
-	["u_size"]=17.52,
+	["u_md5"]="939b9c49b5ee5eb7ca592e69626c66d3",
+	["u_size"]=18.44,
 	},
 {
 	["u_name"]="Games/BaseCommon/GameNetwork/GameSocketEvent.lua",
@@ -53,13 +53,13 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/GameUserData.lua",
-	["u_md5"]="c2e003bc881693ba0592c51e0a74ab2c",
-	["u_size"]=24.93,
+	["u_md5"]="039560a829163329b1c3595d7ad4bb3d",
+	["u_size"]=25.93,
 	},
 {
 	["u_name"]="Games/BaseCommon/MsgHandler.lua",
-	["u_md5"]="92859adc7ac7042b9763e46551dee083",
-	["u_size"]=9.1,
+	["u_md5"]="d1866696052897b339fe72ced33e9162",
+	["u_size"]=10.12,
 	},
 {
 	["u_name"]="Games/BaseCommon/ProtoBuf/ProtobufParse.lua",
@@ -128,8 +128,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/config.lua",
-	["u_md5"]="062a3c42ba08e06aa0afb55125c0079d",
-	["u_size"]=9.37,
+	["u_md5"]="3ffffa11f6ccbe59fcb7cc282b019932",
+	["u_size"]=9.49,
 	},
 {
 	["u_name"]="Games/BaseCommon/net/WeChatLoginHttp.lua",
@@ -243,13 +243,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/DeviceUtil.lua",
-	["u_md5"]="ac23e7a123df9992ec32da3e862c69d6",
-	["u_size"]=2.75,
-	},
-{
-	["u_name"]="Games/BaseCommon/utils/DeviceUtil_old.lua",
-	["u_md5"]="71982b6c69798383af085edf9492be0a",
-	["u_size"]=56.79,
+	["u_md5"]="c8b8035be5997506353011eada435647",
+	["u_size"]=3.71,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/GCommon.lua",
@@ -263,8 +258,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/KeyboardHandler.lua",
-	["u_md5"]="ad60dce7d500abfa0469e82d63edc223",
-	["u_size"]=5.8,
+	["u_md5"]="58539f33092c109de9e6fa1fecef1130",
+	["u_size"]=5.86,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/MyAnimation.lua",
@@ -273,8 +268,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/NetworkImage.lua",
-	["u_md5"]="7d046f69b1980dc6157b9b2f61f264e8",
-	["u_size"]=6.62,
+	["u_md5"]="6bdcca2b79678082e010b4bc3795ea1a",
+	["u_size"]=6.64,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/StrUtil.lua",
@@ -283,8 +278,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/TiFunction.lua",
-	["u_md5"]="bef303eee12616665b51964ba65de244",
-	["u_size"]=56.01,
+	["u_md5"]="3f104f3509887e0a8e970bc9a658bcab",
+	["u_size"]=57.53,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/TimeUtil.lua",

@@ -2,19 +2,19 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.255",
-["packageSize"] = 44751,
-["date"] = "20181109",
+["version"] = "1.1.283",
+["packageSize"] = 51641,
+["date"] = "20181129",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.红点提示消息修复
-2.微信头像显示
-3.炮弹输入框报错修复
-4.统计数字加入千分符
-5.体验场炮值修改为100-1000
-6.游戏内脚本报错修复
-7.牌局名称丢失修复
+1.赠送金币记录修复
+2.滑动条添加
+3.公告修复
+4.俱乐部界面修复
+5.搜索成员修复
+6.创建渔场/牌局默认一个昵称
+
 ]],
 ["assets"] = {} 
 }
