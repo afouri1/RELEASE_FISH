@@ -2,14 +2,20 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
+<<<<<<< HEAD
 ["version"] = "1.1.307",
 ["packageSize"] = 16322,
+=======
+["version"] = "1.1.283",
+["packageSize"] = 16334,
+>>>>>>> 426aaeb4d08dc518d891676f714bbc4c842e81cc
 ["date"] = "20181129",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
+<<<<<<< HEAD
 1.新增文字-语音聊天
 2.新增金币场
 3.新增盈利列表及个人放水
@@ -27,6 +33,15 @@ return {
 15.已知异常退出游戏问题修复
 16.已知脚本报错修复
 17.大厅及游戏内常规bug修复/功能添加
+=======
+1.赠送金币记录修复
+2.滑动条添加
+3.公告修复
+4.俱乐部界面修复
+5.搜索成员修复
+6.创建渔场/牌局默认一个昵称
+
+>>>>>>> 426aaeb4d08dc518d891676f714bbc4c842e81cc
 ]],
 ["assets"] = {
 {
@@ -36,8 +51,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/ProTest.lua",
-	["u_md5"]="a13d13c4787c87c624517be1fb1dd53f",
-	["u_size"]=5.02,
+	["u_md5"]="ccfde5ae07079a6bcded605e47bea7e6",
+	["u_size"]=16.91,
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
@@ -66,7 +81,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/main.lua",
-	["u_md5"]="cf6ff7b34de112c90a3c5d61fed77c4a",
+	["u_md5"]="9119e92f748916235a5e13b800f71483",
 	["u_size"]=3.96,
 	},
 {
@@ -2811,18 +2826,23 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerMediator.lua",
+<<<<<<< HEAD
 	["u_md5"]="69703dcb69863df1636fbe7107bea128",
 	["u_size"]=8.51,
+=======
+	["u_md5"]="8ad57228633db32b7be06dd3dc0aed4e",
+	["u_size"]=8.52,
+>>>>>>> 426aaeb4d08dc518d891676f714bbc4c842e81cc
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerView.lua",
-	["u_md5"]="712317a94299fbd184d42c6d7d4d5d3f",
-	["u_size"]=7.31,
+	["u_md5"]="3c9e8d8a557e49ce1fc80808668f50dd",
+	["u_size"]=7.38,
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerViewTest.lua",
-	["u_md5"]="4462274aa038bafcfc34a9ddff2b0dc1",
-	["u_size"]=9.78,
+	["u_md5"]="de064fcd3bcfd9d589bc68642558f0e4",
+	["u_size"]=9.79,
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLogin_logic.lua",
@@ -2981,8 +3001,13 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/news/GLobbyNewsLayerView.lua",
+<<<<<<< HEAD
 	["u_md5"]="ae04f776a55f0625886b014ba9d6d5cb",
 	["u_size"]=12.79,
+=======
+	["u_md5"]="0010b6685606ab851bb7ff65fb2f8da6",
+	["u_size"]=12.93,
+>>>>>>> 426aaeb4d08dc518d891676f714bbc4c842e81cc
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_Basis.pb",
