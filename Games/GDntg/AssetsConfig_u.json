@@ -2,18 +2,12 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-<<<<<<< HEAD
 ["version"] = "1.1.307",
 ["packageSize"] = 51640,
-=======
-["version"] = "1.1.283",
-["packageSize"] = 51641,
->>>>>>> 426aaeb4d08dc518d891676f714bbc4c842e81cc
 ["date"] = "20181129",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-<<<<<<< HEAD
 1.新增文字-语音聊天
 2.新增金币场
 3.新增盈利列表及个人放水
@@ -31,15 +25,6 @@ return {
 15.已知异常退出游戏问题修复
 16.已知脚本报错修复
 17.大厅及游戏内常规bug修复/功能添加
-=======
-1.赠送金币记录修复
-2.滑动条添加
-3.公告修复
-4.俱乐部界面修复
-5.搜索成员修复
-6.创建渔场/牌局默认一个昵称
-
->>>>>>> 426aaeb4d08dc518d891676f714bbc4c842e81cc
 ]],
 ["assets"] = {
 {
@@ -2086,7 +2071,6 @@ return {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/xiaoshandian.png",
 	["u_md5"]="d740145ec682618f0cfeba69179532fa",
 	["u_size"]=198.05,
-<<<<<<< HEAD
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/yidabaodian.plist",
@@ -2114,35 +2098,6 @@ return {
 	["u_size"]=11.52,
 	},
 {
-=======
-	},
-{
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/yidabaodian.plist",
-	["u_md5"]="a7e11b564aba4b630765a3f3ed56621e",
-	["u_size"]=11.57,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/yidabaodian.png",
-	["u_md5"]="ad9de4f72c8433bc101e14ea10d8f608",
-	["u_size"]=392.42,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/yifeixing.plist",
-	["u_md5"]="3afb30af6a8b7cb0afab4c2ae5b22a82",
-	["u_size"]=11.33,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/yifeixing.png",
-	["u_md5"]="436c15ffed36c4a643cb0e3d0073287c",
-	["u_size"]=27.84,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/gameAction/Skill/yixiaobaodian.plist",
-	["u_md5"]="31c43b1ab0770d5d278896f0251d076a",
-	["u_size"]=11.52,
-	},
-{
->>>>>>> 426aaeb4d08dc518d891676f714bbc4c842e81cc
 	["u_name"]="Games/GDntg/res/game/gameAction/Skill/yixiaobaodian.png",
 	["u_md5"]="97dd8e688284ce198a40fab340b0c517",
 	["u_size"]=86.93,
@@ -3834,13 +3789,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish.lua",
-<<<<<<< HEAD
 	["u_md5"]="b2d4c96ceb48efaae8b264fe660b7864",
 	["u_size"]=31.89,
-=======
-	["u_md5"]="e8db36bcaf5262c2fa37b3f091298a4f",
-	["u_size"]=31.93,
->>>>>>> 426aaeb4d08dc518d891676f714bbc4c842e81cc
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish1.lua",
@@ -3871,21 +3821,6 @@ return {
 	["u_name"]="Games/GDntg/src/Configs/Selection.lua",
 	["u_md5"]="fc4227a12dc66d9f2834fcf319816b16",
 	["u_size"]=0.76,
-	},
-{
-	["u_name"]="Games/GDntg/src/Configs/SystemCtable.lua",
-	["u_md5"]="e970d042ef23f0de2d889f700bb11342",
-	["u_size"]=0.08,
-	},
-{
-	["u_name"]="Games/GDntg/src/Configs/TGCFpersonalhit.lua",
-	["u_md5"]="4238f637391085837ec2c3d703924d43",
-	["u_size"]=0.41,
-	},
-{
-	["u_name"]="Games/GDntg/src/Configs/Tclubpersonalhit.lua",
-	["u_md5"]="4238f637391085837ec2c3d703924d43",
-	["u_size"]=0.41,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/clubhit.lua",

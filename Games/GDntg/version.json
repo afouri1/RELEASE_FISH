@@ -2,18 +2,12 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-<<<<<<< HEAD
 ["version"] = "1.1.307",
 ["packageSize"] = 51640,
-=======
-["version"] = "1.1.283",
-["packageSize"] = 51641,
->>>>>>> 426aaeb4d08dc518d891676f714bbc4c842e81cc
 ["date"] = "20181129",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-<<<<<<< HEAD
 1.新增文字-语音聊天
 2.新增金币场
 3.新增盈利列表及个人放水
@@ -31,15 +25,6 @@ return {
 15.已知异常退出游戏问题修复
 16.已知脚本报错修复
 17.大厅及游戏内常规bug修复/功能添加
-=======
-1.赠送金币记录修复
-2.滑动条添加
-3.公告修复
-4.俱乐部界面修复
-5.搜索成员修复
-6.创建渔场/牌局默认一个昵称
-
->>>>>>> 426aaeb4d08dc518d891676f714bbc4c842e81cc
 ]],
 ["assets"] = {} 
 }
