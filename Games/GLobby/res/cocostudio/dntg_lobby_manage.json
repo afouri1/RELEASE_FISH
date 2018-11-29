@@ -713,8 +713,8 @@
               "rotation": 0,
               "scaleX": 1,
               "scaleY": 1,
-              "sizePercentX": 0.113293052,
-              "sizePercentY": 0.03271028,
+              "sizePercentX": 1.510574E-05,
+              "sizePercentY": 9.345794E-06,
               "sizeType": 0,
               "tag": 586,
               "touchAble": false,
@@ -1020,11 +1020,11 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 37,
+                  "height": 52,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
-                  "positionPercentX": -0.244725734,
+                  "positionPercentX": -0.303797454,
                   "positionPercentY": -0.425,
                   "positionType": 0,
                   "rotation": 0,
@@ -1037,8 +1037,8 @@
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": true,
-                  "width": 37,
-                  "x": -58,
+                  "width": 53,
+                  "x": -72,
                   "y": -136,
                   "capInsetsHeight": 1,
                   "capInsetsWidth": 1,
@@ -1051,8 +1051,8 @@
                     "resourceType": 0
                   },
                   "scale9Enable": false,
-                  "scale9Height": 37,
-                  "scale9Width": 37
+                  "scale9Height": 52,
+                  "scale9Width": 53
                 }
               },
               {
@@ -1074,11 +1074,11 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 37,
+                  "height": 52,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
-                  "positionPercentX": 0.25316456,
+                  "positionPercentX": 0.303797454,
                   "positionPercentY": -0.425,
                   "positionType": 0,
                   "rotation": 0,
@@ -1091,8 +1091,8 @@
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": true,
-                  "width": 37,
-                  "x": 60,
+                  "width": 53,
+                  "x": 72,
                   "y": -136,
                   "capInsetsHeight": 1,
                   "capInsetsWidth": 1,
@@ -1105,8 +1105,8 @@
                     "resourceType": 0
                   },
                   "scale9Enable": false,
-                  "scale9Height": 37,
-                  "scale9Width": 37
+                  "scale9Height": 52,
+                  "scale9Width": 53
                 }
               },
               {
@@ -1157,6 +1157,58 @@
                   "text": "0",
                   "touchScaleEnable": false,
                   "vAlignment": 1
+                }
+              },
+              {
+                "classname": "TextField",
+                "name": null,
+                "children": [],
+                "options": {
+                  "__type": "TextFieldSurrogate:#EditorCommon.JsonModel.Component.GUI",
+                  "classname": "TextField",
+                  "name": "TextField_total_qt",
+                  "ZOrder": 0,
+                  "actiontag": 24829630,
+                  "anchorPointX": 1.49011612E-08,
+                  "anchorPointY": 1.49011612E-08,
+                  "classType": "CocoStudio.EngineAdapterWrap.CSTextField",
+                  "colorB": 255,
+                  "colorG": 255,
+                  "colorR": 255,
+                  "customProperty": "",
+                  "flipX": false,
+                  "flipY": false,
+                  "height": 36,
+                  "ignoreSize": false,
+                  "layoutParameter": null,
+                  "opacity": 255,
+                  "positionPercentX": -0.202531651,
+                  "positionPercentY": -0.48125,
+                  "positionType": 0,
+                  "rotation": 0,
+                  "scaleX": 1,
+                  "scaleY": 1,
+                  "sizePercentX": 0.4050633,
+                  "sizePercentY": 0.1125,
+                  "sizeType": 0,
+                  "tag": 4735,
+                  "touchAble": true,
+                  "useMergedTexture": false,
+                  "visible": false,
+                  "width": 96,
+                  "x": -48,
+                  "y": -154,
+                  "areaHeight": 36,
+                  "areaWidth": 96,
+                  "fontFile": null,
+                  "fontName": "微软雅黑",
+                  "fontSize": 28,
+                  "maxLength": 10,
+                  "maxLengthEnable": false,
+                  "passwordEnable": false,
+                  "passwordStyleText": "*",
+                  "placeHolder": "input words here",
+                  "text": "0"
                 }
               },
               {
@@ -1550,11 +1602,11 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 37,
+                  "height": 52,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
-                  "positionPercentX": -0.244725734,
+                  "positionPercentX": -0.303797454,
                   "positionPercentY": -0.425,
                   "positionType": 0,
                   "rotation": 0,
@@ -1567,8 +1619,8 @@
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": true,
-                  "width": 37,
-                  "x": -58,
+                  "width": 53,
+                  "x": -72,
                   "y": -136,
                   "capInsetsHeight": 1,
                   "capInsetsWidth": 1,
@@ -1581,8 +1633,8 @@
                     "resourceType": 0
                   },
                   "scale9Enable": false,
-                  "scale9Height": 37,
-                  "scale9Width": 37
+                  "scale9Height": 52,
+                  "scale9Width": 53
                 }
               },
               {
@@ -1604,11 +1656,11 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 37,
+                  "height": 52,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
-                  "positionPercentX": 0.25316456,
+                  "positionPercentX": 0.303797454,
                   "positionPercentY": -0.425,
                   "positionType": 0,
                   "rotation": 0,
@@ -1621,8 +1673,8 @@
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": true,
-                  "width": 37,
-                  "x": 60,
+                  "width": 53,
+                  "x": 72,
                   "y": -136,
                   "capInsetsHeight": 1,
                   "capInsetsWidth": 1,
@@ -1635,8 +1687,8 @@
                     "resourceType": 0
                   },
                   "scale9Enable": false,
-                  "scale9Height": 37,
-                  "scale9Width": 37
+                  "scale9Height": 52,
+                  "scale9Width": 53
                 }
               },
               {
@@ -2080,11 +2132,11 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 37,
+                  "height": 52,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
-                  "positionPercentX": -0.244725734,
+                  "positionPercentX": -0.303797454,
                   "positionPercentY": -0.425,
                   "positionType": 0,
                   "rotation": 0,
@@ -2097,8 +2149,8 @@
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": true,
-                  "width": 37,
-                  "x": -58,
+                  "width": 53,
+                  "x": -72,
                   "y": -136,
                   "capInsetsHeight": 1,
                   "capInsetsWidth": 1,
@@ -2111,8 +2163,8 @@
                     "resourceType": 0
                   },
                   "scale9Enable": false,
-                  "scale9Height": 37,
-                  "scale9Width": 37
+                  "scale9Height": 52,
+                  "scale9Width": 53
                 }
               },
               {
@@ -2134,11 +2186,11 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 37,
+                  "height": 52,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
-                  "positionPercentX": 0.25316456,
+                  "positionPercentX": 0.303797454,
                   "positionPercentY": -0.425,
                   "positionType": 0,
                   "rotation": 0,
@@ -2151,8 +2203,8 @@
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": true,
-                  "width": 37,
-                  "x": 60,
+                  "width": 53,
+                  "x": 72,
                   "y": -136,
                   "capInsetsHeight": 1,
                   "capInsetsWidth": 1,
@@ -2165,8 +2217,8 @@
                     "resourceType": 0
                   },
                   "scale9Enable": false,
-                  "scale9Height": 37,
-                  "scale9Width": 37
+                  "scale9Height": 52,
+                  "scale9Width": 53
                 }
               },
               {
@@ -2610,11 +2662,11 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 37,
+                  "height": 52,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
-                  "positionPercentX": -0.244725734,
+                  "positionPercentX": -0.303797454,
                   "positionPercentY": -0.425,
                   "positionType": 0,
                   "rotation": 0,
@@ -2627,8 +2679,8 @@
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": true,
-                  "width": 37,
-                  "x": -58,
+                  "width": 53,
+                  "x": -72,
                   "y": -136,
                   "capInsetsHeight": 1,
                   "capInsetsWidth": 1,
@@ -2641,8 +2693,8 @@
                     "resourceType": 0
                   },
                   "scale9Enable": false,
-                  "scale9Height": 37,
-                  "scale9Width": 37
+                  "scale9Height": 52,
+                  "scale9Width": 53
                 }
               },
               {
@@ -2664,11 +2716,11 @@
                   "customProperty": "",
                   "flipX": false,
                   "flipY": false,
-                  "height": 37,
+                  "height": 52,
                   "ignoreSize": true,
                   "layoutParameter": null,
                   "opacity": 255,
-                  "positionPercentX": 0.25316456,
+                  "positionPercentX": 0.303797454,
                   "positionPercentY": -0.425,
                   "positionType": 0,
                   "rotation": 0,
@@ -2681,8 +2733,8 @@
                   "touchAble": false,
                   "useMergedTexture": false,
                   "visible": true,
-                  "width": 37,
-                  "x": 60,
+                  "width": 53,
+                  "x": 72,
                   "y": -136,
                   "capInsetsHeight": 1,
                   "capInsetsWidth": 1,
@@ -2695,8 +2747,8 @@
                     "resourceType": 0
                   },
                   "scale9Enable": false,
-                  "scale9Height": 37,
-                  "scale9Width": 37
+                  "scale9Height": 52,
+                  "scale9Width": 53
                 }
               },
               {

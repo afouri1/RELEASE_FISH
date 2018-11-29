@@ -154,96 +154,6 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>shouji_111.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{500,500}</string>
-                <key>spriteSourceSize</key>
-                <string>{500,500}</string>
-                <key>textureRect</key>
-                <string>{{1000,1000},{500,500}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>shouji_112.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{500,500}</string>
-                <key>spriteSourceSize</key>
-                <string>{500,500}</string>
-                <key>textureRect</key>
-                <string>{{1500,1000},{500,500}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>shouji_113.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{500,500}</string>
-                <key>spriteSourceSize</key>
-                <string>{500,500}</string>
-                <key>textureRect</key>
-                <string>{{0,1500},{500,500}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>shouji_114.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{500,500}</string>
-                <key>spriteSourceSize</key>
-                <string>{500,500}</string>
-                <key>textureRect</key>
-                <string>{{500,1500},{500,500}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>shouji_115.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{500,500}</string>
-                <key>spriteSourceSize</key>
-                <string>{500,500}</string>
-                <key>textureRect</key>
-                <string>{{1000,1500},{500,500}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>shouji_116.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{500,500}</string>
-                <key>spriteSourceSize</key>
-                <string>{500,500}</string>
-                <key>textureRect</key>
-                <string>{{1500,1500},{500,500}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
         </dict>
         <key>metadata</key>
         <dict>
@@ -256,9 +166,9 @@
             <key>realTextureFileName</key>
             <string>shouji_1.png</string>
             <key>size</key>
-            <string>{2000,2000}</string>
+            <string>{2000,1500}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:558c0d2aab96eaeffc1bf88caf011f5c:bf4d92377ca5b7a6f91f8fb017291c1d:87186202a0868b998c404d5daa22325d$</string>
+            <string>$TexturePacker:SmartUpdate:d116908d7409a417be5f28021261dfcd:ba13ee6cbc8448256590f419d1d913c5:87186202a0868b998c404d5daa22325d$</string>
             <key>textureFileName</key>
             <string>shouji_1.png</string>
         </dict>
