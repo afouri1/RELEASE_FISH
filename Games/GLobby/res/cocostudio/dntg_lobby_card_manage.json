@@ -156,7 +156,7 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 46,
+              "height": 0,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
@@ -173,7 +173,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 168,
+              "width": 0,
               "x": 0,
               "y": 0,
               "areaHeight": 0,
@@ -182,7 +182,7 @@
               "fontName": "微软雅黑",
               "fontSize": 36,
               "hAlignment": 1,
-              "text": "50225552",
+              "text": "",
               "touchScaleEnable": false,
               "vAlignment": 1
             }
@@ -775,7 +775,7 @@
               "fontName": "微软雅黑",
               "fontSize": 26,
               "hAlignment": 0,
-              "text": "*牌局消耗炮弹由渔场创始人提供",
+              "text": "*牌局消耗炮弹由渔厅创始人提供",
               "touchScaleEnable": false,
               "vAlignment": 1
             }

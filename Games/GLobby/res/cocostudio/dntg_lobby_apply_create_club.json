@@ -176,7 +176,7 @@
                   "x": -248,
                   "y": 10,
                   "fileNameData": {
-                    "path": "GLobby/res/font/clubIdNum.fnt",
+                    "path": "Games/GLobby/res/font/clubIdNum.fnt",
                     "plistFile": "",
                     "resourceType": 0
                   },
@@ -387,7 +387,7 @@
               "fontName": "微软雅黑",
               "fontSize": 30,
               "hAlignment": 0,
-              "text": "请输入渔场ID",
+              "text": "请输入渔厅ID",
               "touchScaleEnable": false,
               "vAlignment": 0
             }
@@ -437,7 +437,7 @@
               "fontName": "微软雅黑",
               "fontSize": 30,
               "hAlignment": 0,
-              "text": "*创建或加入渔场才能进入VIP厅游戏",
+              "text": "*创建或加入渔厅才能进入VIP厅游戏",
               "touchScaleEnable": false,
               "vAlignment": 0
             }
@@ -471,8 +471,8 @@
               "rotation": 0,
               "scaleX": 1,
               "scaleY": 1,
-              "sizePercentX": 0.136494249,
-              "sizePercentY": 0.0295728371,
+              "sizePercentX": 1.43678162E-05,
+              "sizePercentY": 1.09529019E-05,
               "sizeType": 0,
               "tag": 3969,
               "touchAble": false,

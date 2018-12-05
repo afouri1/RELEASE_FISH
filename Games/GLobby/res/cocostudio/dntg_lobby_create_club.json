@@ -285,7 +285,7 @@
               "fontName": "微软雅黑",
               "fontSize": 38,
               "hAlignment": 0,
-              "text": "渔场名称：",
+              "text": "渔厅名称：",
               "touchScaleEnable": false,
               "vAlignment": 0
             }
@@ -335,7 +335,7 @@
               "fontName": "微软雅黑",
               "fontSize": 30,
               "hAlignment": 0,
-              "text": "*创建或加入渔场才能进入VIP厅游戏",
+              "text": "*创建或加入渔厅才能进入VIP厅游戏",
               "touchScaleEnable": false,
               "vAlignment": 0
             }
