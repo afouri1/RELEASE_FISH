@@ -1,0 +1,21 @@
+return {
+["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
+["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
+["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
+["version"] = "1.1.327",
+["packageSize"] = 10799,
+["date"] = "20181205",
+["depends"] = {
+10001,
+1001,
+},
+["newDetails"] = [[版本更新内容：
+1.不能发送聊天修复
+2.vivox21全面屏问题修复
+3.牌局管理点击无反应修复
+4.井字鱼阵玉皇大帝调整
+5.ios闪屏页替换
+6.断线重连V币数据显示修复
+]],
+["assets"] = {} 
+}
