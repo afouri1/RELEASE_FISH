@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.332",
+["version"] = "1.1.330",
 ["packageSize"] = 10812,
 ["date"] = "20181206",
 ["depends"] = {
@@ -10,13 +10,12 @@ return {
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.赠送金币记录修复
-2.滑动条添加
-3.公告修复
-4.俱乐部界面修复
-5.搜索成员修复
-6.创建渔场/牌局默认一个昵称
-
+1.不能发送聊天修复
+2.vivox21全面屏问题修复
+3.牌局管理点击无反应修复
+4.井字鱼阵玉皇大帝调整
+5.ios闪屏页替换
+6.断线重连V币数据显示修复
 ]],
 ["assets"] = {
 {
@@ -26,8 +25,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/ProTest.lua",
-	["u_md5"]="86c63a415d0341d6f2b9398d1c27c134",
-	["u_size"]=18.19,
+	["u_md5"]="42f43a7a1a986fe1bfcc9ccab6962d90",
+	["u_size"]=18.17,
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
@@ -56,7 +55,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/main.lua",
-	["u_md5"]="9119e92f748916235a5e13b800f71483",
+	["u_md5"]="cf6ff7b34de112c90a3c5d61fed77c4a",
 	["u_size"]=3.96,
 	},
 {
