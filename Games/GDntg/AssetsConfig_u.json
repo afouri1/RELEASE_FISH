@@ -2,18 +2,19 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.327",
-["packageSize"] = 37187,
-["date"] = "20181205",
+["version"] = "1.1.332",
+["packageSize"] = 37188,
+["date"] = "20181206",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.不能发送聊天修复
-2.vivox21全面屏问题修复
-3.牌局管理点击无反应修复
-4.井字鱼阵玉皇大帝调整
-5.ios闪屏页替换
-6.断线重连V币数据显示修复
+1.赠送金币记录修复
+2.滑动条添加
+3.公告修复
+4.俱乐部界面修复
+5.搜索成员修复
+6.创建渔场/牌局默认一个昵称
+
 ]],
 ["assets"] = {
 {
@@ -3623,8 +3624,23 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Selection.lua",
-	["u_md5"]="7a18aca74ac6f66479cec7289ec9c579",
+	["u_md5"]="fc4227a12dc66d9f2834fcf319816b16",
 	["u_size"]=0.76,
+	},
+{
+	["u_name"]="Games/GDntg/src/Configs/SystemCtable.lua",
+	["u_md5"]="e970d042ef23f0de2d889f700bb11342",
+	["u_size"]=0.08,
+	},
+{
+	["u_name"]="Games/GDntg/src/Configs/TGCFpersonalhit.lua",
+	["u_md5"]="4238f637391085837ec2c3d703924d43",
+	["u_size"]=0.41,
+	},
+{
+	["u_name"]="Games/GDntg/src/Configs/Tclubpersonalhit.lua",
+	["u_md5"]="4238f637391085837ec2c3d703924d43",
+	["u_size"]=0.41,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/clubhit.lua",
@@ -3638,8 +3654,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/collision.lua",
-	["u_md5"]="ac6ac41667ab7cdb4ecadc0cae320ec1",
-	["u_size"]=7.39,
+	["u_md5"]="9b065a1aeb5d1d23fae652148f8e8e43",
+	["u_size"]=7.44,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/commodity.lua",
@@ -3678,8 +3694,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="6c7f93a92157e7277b755c7614d93944",
-	["u_size"]=46.08,
+	["u_md5"]="f69ab21c3a5bd86e6e542d29fd6f7a8a",
+	["u_size"]=46.07,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -3833,8 +3849,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
-	["u_md5"]="5cd76233ab904cdd035b3ddedcc2a6e8",
-	["u_size"]=30.76,
+	["u_md5"]="70178e27b965f8156ccd26504fb45f99",
+	["u_size"]=30.77,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GPlayerMediator.lua",

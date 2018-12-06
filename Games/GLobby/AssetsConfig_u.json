@@ -2,20 +2,21 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.327",
-["packageSize"] = 10799,
-["date"] = "20181205",
+["version"] = "1.1.332",
+["packageSize"] = 10812,
+["date"] = "20181206",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.不能发送聊天修复
-2.vivox21全面屏问题修复
-3.牌局管理点击无反应修复
-4.井字鱼阵玉皇大帝调整
-5.ios闪屏页替换
-6.断线重连V币数据显示修复
+1.赠送金币记录修复
+2.滑动条添加
+3.公告修复
+4.俱乐部界面修复
+5.搜索成员修复
+6.创建渔场/牌局默认一个昵称
+
 ]],
 ["assets"] = {
 {
@@ -25,12 +26,12 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/ProTest.lua",
-	["u_md5"]="42f43a7a1a986fe1bfcc9ccab6962d90",
-	["u_size"]=18.17,
+	["u_md5"]="86c63a415d0341d6f2b9398d1c27c134",
+	["u_size"]=18.19,
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
-	["u_md5"]="8da28fb6f82272f09b7d6fd5df753c4a",
+	["u_md5"]="2761d78dbf91a5309d5735d9b787f39c",
 	["u_size"]=27.94,
 	},
 {
@@ -55,7 +56,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/main.lua",
-	["u_md5"]="db072ec9122f200ef5a71e21649b06fc",
+	["u_md5"]="9119e92f748916235a5e13b800f71483",
 	["u_size"]=3.96,
 	},
 {
@@ -1729,6 +1730,11 @@ return {
 	["u_size"]=1,
 	},
 {
+	["u_name"]="Games/GLobby/res/common/userHeadImate.png",
+	["u_md5"]="fa2c9e7aeb7016923437d425e5a5610d",
+	["u_size"]=11.78,
+	},
+{
 	["u_name"]="Games/GLobby/res/font/clubIdNum.fnt",
 	["u_md5"]="ed7642acffeaabf078c7c542afd65bbc",
 	["u_size"]=1.4,
@@ -2390,8 +2396,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardInfoLayerView.lua",
-	["u_md5"]="b0aa51812fb1cafda756f6539549e7db",
-	["u_size"]=31.64,
+	["u_md5"]="a9507f7dad06eeb40f1618c9471394ed",
+	["u_size"]=31.67,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardManageLayerMediator.lua",
@@ -2420,8 +2426,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubChatLayerMediator.lua",
-	["u_md5"]="277015a713b35bf51bd0d49006343fef",
-	["u_size"]=9.28,
+	["u_md5"]="c99ed067f8bac1d6cdd69fb356a4d632",
+	["u_size"]=9.69,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubChatLayerView.lua",
@@ -2440,8 +2446,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubListLayerMediator.lua",
-	["u_md5"]="75ed62fdfde93226b9ed26903093a5c8",
-	["u_size"]=3.85,
+	["u_md5"]="2ab374812bb456fbfd668f2ecbacb6b1",
+	["u_size"]=4.04,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubListLayerView.lua",
@@ -2640,8 +2646,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/GameVManager/GameVManager.lua",
-	["u_md5"]="c2ab9b3c4de9f4775374899969ad5a4b",
-	["u_size"]=13.02,
+	["u_md5"]="be6d92cc6d90c608ccb8096dca25f57b",
+	["u_size"]=13.13,
 	},
 {
 	["u_name"]="Games/GLobby/src/GameVManager/UpdateProgress.json",
@@ -2710,7 +2716,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerView.lua",
-	["u_md5"]="8229e2ce03d3db5cb20ca4351411adef",
+	["u_md5"]="97a1845291b7796f3cd6d2edec302ac4",
 	["u_size"]=54.77,
 	},
 {
@@ -2720,8 +2726,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyLoadingView.lua",
-	["u_md5"]="81916953326c8c18150763c0c144a67f",
-	["u_size"]=2.49,
+	["u_md5"]="c857e60cfeacb3c5c4ede8f914479733",
+	["u_size"]=2.58,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyScrollBar.lua",
@@ -2760,8 +2766,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerViewTest.lua",
-	["u_md5"]="a6ce547c1e3abebb05ae6ef2a487abcd",
-	["u_size"]=10.03,
+	["u_md5"]="2ffb00064a3171d7e3820267a957f68d",
+	["u_size"]=10.29,
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLogin_logic.lua",
@@ -2785,13 +2791,13 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/YaYa/YaYaData.lua",
-	["u_md5"]="09837d8b8e70f2c693028d020a6c8f16",
-	["u_size"]=7.9,
+	["u_md5"]="e21847a1de7e587fc2c84c87943bb9c1",
+	["u_size"]=8.08,
 	},
 {
 	["u_name"]="Games/GLobby/src/YaYa/YaYaVoiceManage.lua",
-	["u_md5"]="e1f3825ab1dfad1baed64b6432514e63",
-	["u_size"]=10.79,
+	["u_md5"]="8539a59e1e9727ebede3985e8256f19b",
+	["u_size"]=10.83,
 	},
 {
 	["u_name"]="Games/GLobby/src/data/NewsListData.lua",
