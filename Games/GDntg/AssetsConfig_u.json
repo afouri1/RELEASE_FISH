@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.336",
-["packageSize"] = 37187,
+["version"] = "1.1.350",
+["packageSize"] = 37190,
 ["date"] = "20181206",
 ["depends"] = {
 },
@@ -3593,8 +3593,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish.lua",
-	["u_md5"]="7736392bdcf504c55bdd984014b9152c",
-	["u_size"]=31.88,
+	["u_md5"]="3a828b1cfda34a47ea3647b67954c92b",
+	["u_size"]=31.84,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish1.lua",
@@ -3623,7 +3623,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Selection.lua",
-	["u_md5"]="7a18aca74ac6f66479cec7289ec9c579",
+	["u_md5"]="5c50a936fa3ae72f673bf90570052712",
 	["u_size"]=0.76,
 	},
 {
@@ -3638,8 +3638,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/collision.lua",
-	["u_md5"]="ac6ac41667ab7cdb4ecadc0cae320ec1",
-	["u_size"]=7.39,
+	["u_md5"]="01b4ef34105bde87bc03ee00e14ec482",
+	["u_size"]=9.27,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/commodity.lua",
@@ -3663,8 +3663,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishfarmscene.lua",
-	["u_md5"]="1548c27ef845de85cb3a3e00fbd340e1",
-	["u_size"]=0.11,
+	["u_md5"]="a9ad07704e56d7d47c7c23c916ef5c42",
+	["u_size"]=0.4,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/goldcoinhit.lua",
@@ -3678,8 +3678,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="a4bcfb4da9dc946361ba6468a4925031",
-	["u_size"]=46.07,
+	["u_md5"]="050dee3c4865fc22d8fb17011192a283",
+	["u_size"]=46.7,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -3833,8 +3833,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
-	["u_md5"]="70178e27b965f8156ccd26504fb45f99",
-	["u_size"]=30.77,
+	["u_md5"]="05e4179d1828c6f34ec1357bec381735",
+	["u_size"]=30.76,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GPlayerMediator.lua",
