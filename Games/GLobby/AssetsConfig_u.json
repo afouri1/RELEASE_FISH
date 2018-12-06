@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.350",
-["packageSize"] = 10816,
+["version"] = "1.1.353",
+["packageSize"] = 10817,
 ["date"] = "20181206",
 ["depends"] = {
 10001,
@@ -2820,8 +2820,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/data/clubMemberListData.lua",
-	["u_md5"]="a268841de329863392755834de73b040",
-	["u_size"]=9.2,
+	["u_md5"]="0ab16b96362700025a4d8eac19a2646d",
+	["u_size"]=10.11,
 	},
 {
 	["u_name"]="Games/GLobby/src/data/clubRoomListData.lua",
@@ -2930,8 +2930,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_Basis.pb",
-	["u_md5"]="08b62f3268522fd28bad5050771a43c2",
-	["u_size"]=1.75,
+	["u_md5"]="9fe89ad48ae1bf5f21e2bb286f37706b",
+	["u_size"]=1.74,
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_Cmd.pb",
