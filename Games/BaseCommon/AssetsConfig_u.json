@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.1.391",
+["version"] = "1.1.392",
 ["packageSize"] = 1944,
 ["date"] = "20181221",
 ["depends"] = {
@@ -58,8 +58,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/MsgHandler.lua",
-	["u_md5"]="2cf337ad6973c564f3a7cc98a7c2d7fb",
-	["u_size"]=10.81,
+	["u_md5"]="5eef41fa0b04352db9608947abb887f5",
+	["u_size"]=10.88,
 	},
 {
 	["u_name"]="Games/BaseCommon/ProtoBuf/ProtobufParse.lua",
