@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.1.372",
-["packageSize"] = 1937,
-["date"] = "20181213",
+["version"] = "1.1.391",
+["packageSize"] = 1944,
+["date"] = "20181221",
 ["depends"] = {
 10002,
 10003,
@@ -18,8 +18,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/CommonFunc.lua",
-	["u_md5"]="3223e4b4aa17ec3ce9051dd5e4b21355",
-	["u_size"]=21.74,
+	["u_md5"]="21465287db4cd9b52d3f658cf515fb09",
+	["u_size"]=22.66,
 	},
 {
 	["u_name"]="Games/BaseCommon/ErrorHandler.lua",
@@ -53,13 +53,13 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/GameUserData.lua",
-	["u_md5"]="4578d530d51f9b12a26f483a1eccda3b",
-	["u_size"]=26.3,
+	["u_md5"]="dfbac1f514a2b9e11e1f56c6384afb21",
+	["u_size"]=26.44,
 	},
 {
 	["u_name"]="Games/BaseCommon/MsgHandler.lua",
-	["u_md5"]="aeda991c1755a71a007cd2628332a43c",
-	["u_size"]=10.63,
+	["u_md5"]="2cf337ad6973c564f3a7cc98a7c2d7fb",
+	["u_size"]=10.81,
 	},
 {
 	["u_name"]="Games/BaseCommon/ProtoBuf/ProtobufParse.lua",
@@ -103,8 +103,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/TYFramework/TYNode.lua",
-	["u_md5"]="62922fb06766302e004e1f30c07023fa",
-	["u_size"]=23.34,
+	["u_md5"]="1c36f6fa3fc04d4aee20c11ced3c018b",
+	["u_size"]=26.96,
 	},
 {
 	["u_name"]="Games/BaseCommon/TYFramework/TaskManager.lua",
@@ -128,8 +128,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/config.lua",
-	["u_md5"]="231556bc33b4bfa4096615d52a9f6785",
-	["u_size"]=10.34,
+	["u_md5"]="c28ce5cdcfb67788daf8dd956cf34b2b",
+	["u_size"]=10.61,
 	},
 {
 	["u_name"]="Games/BaseCommon/net/WeChatLoginHttp.lua",
@@ -243,8 +243,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/DeviceUtil.lua",
-	["u_md5"]="de89c5a43752ded210476562e23b8369",
-	["u_size"]=4.73,
+	["u_md5"]="40a74f9896d4edd45f75113cf61462ff",
+	["u_size"]=6.77,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/GCommon.lua",
