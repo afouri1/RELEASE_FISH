@@ -2,15 +2,16 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.397",
+["version"] = "1.1.398",
 ["packageSize"] = 11028,
-["date"] = "20181225",
+["date"] = "20181227",
 ["depends"] = {
 10001,
 1001,
 },
-["newDetails"] = [[版本更新内容：
-1.公告图片替换
+["newDetails"] = [[外网版本更新内容：
+1.点击app图标黑屏修复
+2.渔厅新增新手命中
 
 ]],
 ["assets"] = {
@@ -3101,7 +3102,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLogoActionLayer.lua",
-	["u_md5"]="f233eae4cbca188209ed855e96e9a704",
+	["u_md5"]="1111eae4cbca188209ed855e96e9a704",
 	["u_size"]=2.19,
 	},
 {
