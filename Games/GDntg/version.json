@@ -2,22 +2,25 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.396",
-["packageSize"] = 35937,
-["date"] = "20181221",
+["version"] = "1.1.423",
+["packageSize"] = 36617,
+["date"] = "20181229",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.新增合伙人系统
-2.新增炮弹微信充值
-3.牌桌背景替换
-4.大厅图标新增特效
-5.游戏内新手指引修复
-6.手动锁定调整
-7.鱼王倍率修复
-8.体验场命中修复
-9.打死技能鱼携带金币处一次显示
-
+1.进游戏加载界面新增logo
+2.炮台旋转位置调整
+3.初中高三个场次的背景替换
+4.新增推广员
+5.管理员权限修改
+6.大厅界面调整
+7.新增闪屏页
+8.命中调整优化
+9.场次准入门槛调整
+10.推广员/创始人分享邀请
+11.大圣闹海和定屏炸弹倍率修改为30倍
+12.新增渔厅列表/定位
+13.大厅及游戏内已知BUG修复
 ]],
 ["assets"] = {} 
 }

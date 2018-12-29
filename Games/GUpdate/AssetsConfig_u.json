@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GUpdate/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GUpdate/version.json",
-["version"] = "1.1.396",
+["version"] = "1.1.423",
 ["packageSize"] = 682,
-["date"] = "20181221",
+["date"] = "20181229",
 ["depends"] = {
 10001,
 },
@@ -57,8 +57,8 @@ return {
 	},
 {
 	["u_name"]="Games/GUpdate/UpdateMain.lua",
-	["u_md5"]="166c686a5d3896f68f4d81ca8db6a2b7",
-	["u_size"]=6.9,
+	["u_md5"]="1f105774588bcada8d1b601366577b6a",
+	["u_size"]=7.42,
 	},
 {
 	["u_name"]="Games/GUpdate/channelConfig.json",
