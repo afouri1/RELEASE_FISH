@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.1.447",
-["packageSize"] = 1962,
-["date"] = "20190109",
+["version"] = "1.1.453",
+["packageSize"] = 1963,
+["date"] = "20190111",
 ["depends"] = {
 10002,
 10003,
@@ -58,8 +58,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/IAP/GameiAPManager.lua",
-	["u_md5"]="8da00d07413fc4db6530828394ca74d4",
-	["u_size"]=6.87,
+	["u_md5"]="597f5d0a38a2acf2e2a373c3bc428c91",
+	["u_size"]=7.69,
 	},
 {
 	["u_name"]="Games/BaseCommon/MsgHandler.lua",
@@ -248,8 +248,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/DeviceUtil.lua",
-	["u_md5"]="79810cde6faca109a66c354a58cc5db9",
-	["u_size"]=12.17,
+	["u_md5"]="6a260dcd7dbb008385cdc35285098f2b",
+	["u_size"]=12.6,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/GCommon.lua",

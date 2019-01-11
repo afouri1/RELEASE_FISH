@@ -2,21 +2,21 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.447",
-["packageSize"] = 11828,
-["date"] = "20190109",
+["version"] = "1.1.453",
+["packageSize"] = 11836,
+["date"] = "20190111",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.成员管理界面优化
-2.新增体验码
-3.充值单位显示修复
-4.大厅崩溃修复
-5.游戏内闪退修复
-6.成员同一时间显示多条记录修复
-7.大厅及游戏内已知bug修复
+1.提取详情界面修复
+2.微信头像不显示修复
+3.成员列表显示性别和V币
+4.重启服务器V币对应不上
+5.大厅特效不清除修复
+6.大厅已知脚本报错修复
+7.大厅图标特效优化
 ]],
 ["assets"] = {} 
 }
