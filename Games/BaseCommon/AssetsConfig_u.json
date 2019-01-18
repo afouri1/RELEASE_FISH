@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.1.453",
-["packageSize"] = 1963,
-["date"] = "20190111",
+["version"] = "1.1.470",
+["packageSize"] = 1969,
+["date"] = "20190118",
 ["depends"] = {
 10002,
 10003,
@@ -53,13 +53,13 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/GameUserData.lua",
-	["u_md5"]="9fdcbda53af80048d2f46b04a7918a07",
-	["u_size"]=27.61,
+	["u_md5"]="dd423d3abef61316930b3a05d8a7b42c",
+	["u_size"]=28.51,
 	},
 {
 	["u_name"]="Games/BaseCommon/IAP/GameiAPManager.lua",
-	["u_md5"]="597f5d0a38a2acf2e2a373c3bc428c91",
-	["u_size"]=7.69,
+	["u_md5"]="3eacedd91f8ef536b08e67116c019875",
+	["u_size"]=9.37,
 	},
 {
 	["u_name"]="Games/BaseCommon/MsgHandler.lua",
@@ -78,8 +78,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/RichText.lua",
-	["u_md5"]="4f209aeae6b3c65ca570633f77bb6118",
-	["u_size"]=22.47,
+	["u_md5"]="b72b53081de889c1a1888500340c5b61",
+	["u_size"]=22.69,
 	},
 {
 	["u_name"]="Games/BaseCommon/SearchPathManager.lua",
@@ -133,8 +133,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/config.lua",
-	["u_md5"]="48488876e64641999ca9b135d7befbd5",
-	["u_size"]=11.09,
+	["u_md5"]="a7153a1cca0e366a5c9f73f6d1b9e852",
+	["u_size"]=11.22,
 	},
 {
 	["u_name"]="Games/BaseCommon/net/WeChatLoginHttp.lua",
@@ -248,8 +248,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/DeviceUtil.lua",
-	["u_md5"]="6a260dcd7dbb008385cdc35285098f2b",
-	["u_size"]=12.6,
+	["u_md5"]="a1f41fc3a895e9118660929716502486",
+	["u_size"]=12.92,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/GCommon.lua",
@@ -283,8 +283,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/TiFunction.lua",
-	["u_md5"]="21e09275f02bc82ef170e29b886c9ecd",
-	["u_size"]=60.98,
+	["u_md5"]="a4bde94c1de5cacc33daec0abc9b8997",
+	["u_size"]=63.41,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/TimeUtil.lua",
