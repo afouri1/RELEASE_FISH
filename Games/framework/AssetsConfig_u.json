@@ -2,16 +2,16 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/framework/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/framework/version.json",
-["version"] = "1.1.498",
-["packageSize"] = 732,
-["date"] = "20190124",
+["version"] = "1.1.250",
+["packageSize"] = 726,
+["date"] = "20181108",
 ["depends"] = {
 },
 ["newDetails"] = [[]],
 ["assets"] = {
 {
 	["u_name"]="Games/framework/audio.lua",
-	["u_md5"]="d4cbbb3e04b9237107d9d915ec7ccb1a",
+	["u_md5"]="d8c18d548da40f59cfa20ce1c801fbe2",
 	["u_size"]=14.94,
 	},
 {
@@ -81,7 +81,7 @@ return {
 	},
 {
 	["u_name"]="Games/framework/cc/net/SocketTCP.lua",
-	["u_md5"]="6f5c6599eff090dc3985120dcacef2fe",
+	["u_md5"]="4477f423bae7b6d1f5a899bc76b5310a",
 	["u_size"]=9.83,
 	},
 {
@@ -126,8 +126,8 @@ return {
 	},
 {
 	["u_name"]="Games/framework/cc/ui/UIInput.lua",
-	["u_md5"]="1132d7df44a792bd2c958a0bd8fdf0cb",
-	["u_size"]=7.99,
+	["u_md5"]="401cb38f31f7be73e166f274cc10a699",
+	["u_size"]=7.48,
 	},
 {
 	["u_name"]="Games/framework/cc/ui/UILabel.lua",
@@ -151,8 +151,8 @@ return {
 	},
 {
 	["u_name"]="Games/framework/cc/ui/UILoadingBar.lua",
-	["u_md5"]="a9145965c0879790624ebea1358c8451",
-	["u_size"]=6.97,
+	["u_md5"]="b43a886f70b5b124f319f2d6be3402c5",
+	["u_size"]=6.24,
 	},
 {
 	["u_name"]="Games/framework/cc/ui/UIPageView.lua",
@@ -281,8 +281,8 @@ return {
 	},
 {
 	["u_name"]="Games/framework/cocos2dx/DrawNodeEx.lua",
-	["u_md5"]="786e06bba0c99c4f272726dd0615eee7",
-	["u_size"]=1.94,
+	["u_md5"]="ef1a6c53efebcffd7ff329aad24ba78e",
+	["u_size"]=1.82,
 	},
 {
 	["u_name"]="Games/framework/cocos2dx/Event.lua",
@@ -336,8 +336,8 @@ return {
 	},
 {
 	["u_name"]="Games/framework/display.lua",
-	["u_md5"]="1640eb149ac22cb48edc388fe252828f",
-	["u_size"]=58.42,
+	["u_md5"]="2873a912b63a86ef98f9b06ad5fe1a9f",
+	["u_size"]=58.18,
 	},
 {
 	["u_name"]="Games/framework/filter.lua",
@@ -346,8 +346,8 @@ return {
 	},
 {
 	["u_name"]="Games/framework/functions.lua",
-	["u_md5"]="fc27d68a674449b583937ed076ecd58b",
-	["u_size"]=50.5,
+	["u_md5"]="c59a938153fabd183805fe0e7215f6a5",
+	["u_size"]=46.73,
 	},
 {
 	["u_name"]="Games/framework/global.lua",
