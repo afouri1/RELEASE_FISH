@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.512",
-["packageSize"] = 12183,
+["version"] = "1.1.514",
+["packageSize"] = 12186,
 ["date"] = "20190131",
 ["depends"] = {
 10001,
@@ -17,6 +17,7 @@ return {
 5.大厅聊天界面优化
 6.金币场数值调整优化
 7.其他大厅及游戏内已知bug修复
+
 ]],
 ["assets"] = {
 {
@@ -26,8 +27,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/ProTest.lua",
-	["u_md5"]="ffb191a3f9826b92ad074e67f889a9ac",
-	["u_size"]=19.83,
+	["u_md5"]="d836657e0470e24836a5d5fee1d83b6c",
+	["u_size"]=22.86,
 	},
 {
 	["u_name"]="Games/GLobby/SceneRoot.lua",
@@ -56,8 +57,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/main.lua",
-	["u_md5"]="4c6a5c63baf595d6873fcd2e8966f1db",
-	["u_size"]=4.24,
+	["u_md5"]="1d7cb2504c289ff7681327c7f0c0fbf3",
+	["u_size"]=4.32,
 	},
 {
 	["u_name"]="Games/GLobby/res/ComTips/LobbyComTips.json",
@@ -3416,8 +3417,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubListLayerView.lua",
-	["u_md5"]="d21a5939fbe2a552f4f429390471a47a",
-	["u_size"]=14.62,
+	["u_md5"]="65ea68aae1291e3c4dcfaf41cd8ec3a7",
+	["u_size"]=14.65,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubManageLayerMediator.lua",
@@ -3616,8 +3617,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/location/GLobbyFishHallListLayerView.lua",
-	["u_md5"]="bf799e7e340e01c5c04c5bbb8596e918",
-	["u_size"]=20.1,
+	["u_md5"]="ed890c7c2a79b650ee8d30167e5812f8",
+	["u_size"]=20.16,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/location/GLobbyKeyInviteLayerMediator.lua",

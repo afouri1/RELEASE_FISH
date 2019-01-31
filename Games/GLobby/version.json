@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.512",
-["packageSize"] = 12183,
+["version"] = "1.1.514",
+["packageSize"] = 12186,
 ["date"] = "20190131",
 ["depends"] = {
 10001,
@@ -17,6 +17,7 @@ return {
 5.大厅聊天界面优化
 6.金币场数值调整优化
 7.其他大厅及游戏内已知bug修复
+
 ]],
 ["assets"] = {} 
 }

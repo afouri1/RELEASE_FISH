@@ -2,12 +2,20 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.512",
-["packageSize"] = 36778,
+["version"] = "1.1.514",
+["packageSize"] = 36779,
 ["date"] = "20190131",
 ["depends"] = {
 },
-["newDetails"] = [[
+["newDetails"] = [[版本更新内容：
+1.体验场新增兑换金币
+2.渔厅内新增聊天
+3.美人鱼横幅优化
+4.推荐渔厅优化
+5.大厅聊天界面优化
+6.金币场数值调整优化
+7.其他大厅及游戏内已知bug修复
+
 ]],
 ["assets"] = {
 {
@@ -3382,8 +3390,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish.lua",
-	["u_md5"]="e081d104c9ec148bf193cd1b4377a451",
-	["u_size"]=32.44,
+	["u_md5"]="2d14f6b0dcf95ce2719b546610b80789",
+	["u_size"]=32.49,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish1.lua",
@@ -3417,7 +3425,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Selection.lua",
-	["u_md5"]="25da18b7c20de63ebd5cb8a0c31cea61",
+	["u_md5"]="5c50a936fa3ae72f673bf90570052712",
 	["u_size"]=0.76,
 	},
 {
@@ -3432,8 +3440,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/collision.lua",
-	["u_md5"]="81ff9810991dafb17e5dd543dfd98239",
-	["u_size"]=9.96,
+	["u_md5"]="950dba60dec26e84728d29d7080c21ad",
+	["u_size"]=10,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/correctfactor.lua",
@@ -3442,13 +3450,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishPath.lua",
-	["u_md5"]="7edcda64fb97c099fde3f6372a66c56f",
-	["u_size"]=88.74,
+	["u_md5"]="bb55173d55a18a1d45a1b3f9dcd203b1",
+	["u_size"]=88.81,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fisharray.lua",
-	["u_md5"]="52b346878170bee6ee28ccb330a80bc2",
-	["u_size"]=2.71,
+	["u_md5"]="ffc1f9ea5b1a590cfdb6a3242480c98d",
+	["u_size"]=2.72,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishfarmscene.lua",
@@ -3467,8 +3475,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="a0bfc60e6238b697d383394b697e7fca",
-	["u_size"]=54.58,
+	["u_md5"]="7f4fabd66a5674e389954ab77aa6b737",
+	["u_size"]=55.1,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",

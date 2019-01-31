@@ -2,12 +2,20 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.512",
-["packageSize"] = 36778,
+["version"] = "1.1.514",
+["packageSize"] = 36779,
 ["date"] = "20190131",
 ["depends"] = {
 },
-["newDetails"] = [[
+["newDetails"] = [[版本更新内容：
+1.体验场新增兑换金币
+2.渔厅内新增聊天
+3.美人鱼横幅优化
+4.推荐渔厅优化
+5.大厅聊天界面优化
+6.金币场数值调整优化
+7.其他大厅及游戏内已知bug修复
+
 ]],
 ["assets"] = {} 
 }
