@@ -2,22 +2,20 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.514",
-["packageSize"] = 12186,
-["date"] = "20190131",
+["version"] = "1.1.526",
+["packageSize"] = 12226,
+["date"] = "20190215",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.体验场新增兑换金币
-2.渔厅内新增聊天
-3.美人鱼横幅优化
-4.推荐渔厅优化
-5.大厅聊天界面优化
-6.金币场数值调整优化
-7.其他大厅及游戏内已知bug修复
-
+1.美人鱼碰撞体积优化
+2.渔厅界面优化调整
+3.解决部分手机聊天时崩溃
+4.充值金币之后未刷新修复
+5.公告图片替换
+6.聊天/游戏内部分体验优化
 ]],
 ["assets"] = {} 
 }
