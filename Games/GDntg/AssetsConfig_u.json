@@ -2,12 +2,22 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.529",
-["packageSize"] = 36779,
-["date"] = "20190218",
+["version"] = "1.1.538",
+["packageSize"] = 37400,
+["date"] = "20190223",
 ["depends"] = {
 },
-["newDetails"] = [[
+["newDetails"] = [[版本更新内容：
+1.“我的”内图标点击区域优化
+2.渔厅成员管理新增玩家信息
+3.牌桌界面调整优化
+4.新增背包系统
+5.新增鱼雷道具
+6.新增大转盘
+7.大厅新增活动标签
+8.新增渔厅列表详细信息查看
+9.大厅/游戏内常规BUG修复
+
 ]],
 ["assets"] = {
 {
@@ -341,6 +351,31 @@ return {
 	["u_size"]=175.12,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation/SYYLAnimation.ExportJson",
+	["u_md5"]="7a6dd8ac85d9a9bf93fdfa0fa9ac9941",
+	["u_size"]=21.88,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation/SYYLAnimation0.plist",
+	["u_md5"]="3a332d0d2b28acf7220fc3f594054635",
+	["u_size"]=2.73,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation/SYYLAnimation0.png",
+	["u_md5"]="9fb41f5db05f3b626ab1e1107f203c4d",
+	["u_size"]=323.02,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation/SYYLAnimation1.plist",
+	["u_md5"]="16cc0fba091884969491695f6fef4b76",
+	["u_size"]=1.89,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation/SYYLAnimation1.png",
+	["u_md5"]="161a2b5aabe687a8f549cc66dfa3a995",
+	["u_size"]=260.67,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/effect/coinAniBig.plist",
 	["u_md5"]="ffb5cc05025c90bdb2c7acd2be2a1540",
 	["u_size"]=10.81,
@@ -469,6 +504,11 @@ return {
 	["u_name"]="Games/GDntg/res/game/effect/hongzidan.png",
 	["u_md5"]="4d9383f22672dbf9140bbb2cbea432c2",
 	["u_size"]=17.84,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/img_shiyongyulei.png",
+	["u_md5"]="79f25311a5f584cd07ed0bfe91593d87",
+	["u_size"]=4.2,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effect/lanbaozha.plist",
@@ -3382,8 +3422,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish.lua",
-	["u_md5"]="e081d104c9ec148bf193cd1b4377a451",
-	["u_size"]=32.44,
+	["u_md5"]="2d14f6b0dcf95ce2719b546610b80789",
+	["u_size"]=32.49,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish1.lua",
@@ -3417,7 +3457,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Selection.lua",
-	["u_md5"]="25da18b7c20de63ebd5cb8a0c31cea61",
+	["u_md5"]="5c50a936fa3ae72f673bf90570052712",
 	["u_size"]=0.76,
 	},
 {
@@ -3442,13 +3482,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishPath.lua",
-	["u_md5"]="7edcda64fb97c099fde3f6372a66c56f",
-	["u_size"]=88.74,
+	["u_md5"]="bb55173d55a18a1d45a1b3f9dcd203b1",
+	["u_size"]=88.81,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fisharray.lua",
-	["u_md5"]="52b346878170bee6ee28ccb330a80bc2",
-	["u_size"]=2.71,
+	["u_md5"]="ffc1f9ea5b1a590cfdb6a3242480c98d",
+	["u_size"]=2.72,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/fishfarmscene.lua",
@@ -3467,8 +3507,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="7f4fabd66a5674e389954ab77aa6b737",
-	["u_size"]=55.1,
+	["u_md5"]="0709efe819f8a2b590044c9bf75daeea",
+	["u_size"]=56.21,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -3502,8 +3542,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerMediator.lua",
-	["u_md5"]="38ce09db381682242f33987cffff2598",
-	["u_size"]=10.66,
+	["u_md5"]="674f2eba75512ed99d61d15450b6b28c",
+	["u_size"]=15.05,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerView.lua",
@@ -3602,8 +3642,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GExchangeGoldView.lua",
-	["u_md5"]="4eded01f7ae56f110790bc46925649b3",
-	["u_size"]=5.81,
+	["u_md5"]="64b4997dcb40b6adb05c36bd7d1b72e5",
+	["u_size"]=5.93,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GLockMediator.lua",
@@ -3627,13 +3667,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerMediator.lua",
-	["u_md5"]="16fdccd0445993513dbc3070f57dbc8c",
-	["u_size"]=21.63,
+	["u_md5"]="8c4bcf059d1174affcc700227900eb3a",
+	["u_size"]=21.73,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
-	["u_md5"]="a25e511f947458cbeb376bf8a99480f5",
-	["u_size"]=30.96,
+	["u_md5"]="6cfe882439a559960d8bec1f253c32be",
+	["u_size"]=31.56,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GPlayerMediator.lua",
@@ -3727,8 +3767,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/NetworkConfig/DntgNetworkCmd.lua",
-	["u_md5"]="cd67837de957b4cf8beab3872d7e6f36",
-	["u_size"]=8.75,
+	["u_md5"]="e944bfc31654ea201aeb64d51fb0f1a4",
+	["u_size"]=9.17,
 	},
 {
 	["u_name"]="Games/GDntg/src/ScriptConfig.lua",
@@ -3767,8 +3807,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GPlayerData.lua",
-	["u_md5"]="160df2d6ac7496957d4ccf52d46b65bf",
-	["u_size"]=7.57,
+	["u_md5"]="f5f95f764c025b7cff6b831a07ecbdb6",
+	["u_size"]=7.88,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GServerSimulation.lua",
@@ -3782,8 +3822,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/pb/dntg_Cmd.pb",
-	["u_md5"]="5bc6b84651838ca37cfdcf13d99dbeee",
-	["u_size"]=1.01,
+	["u_md5"]="3cc989ac7552b883f20e898e2e4aa268",
+	["u_size"]=1.08,
 	},
 {
 	["u_name"]="Games/GDntg/src/pb/dntg_c2s.pb",
@@ -3792,8 +3832,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/pb/dntg_s2c.pb",
-	["u_md5"]="3bf456663ad077570d268966331dee2a",
-	["u_size"]=2.61,
+	["u_md5"]="f81ee83d02125597d20cf4f41648ad6c",
+	["u_size"]=2.69,
 	},
 {
 	["u_name"]="Games/GDntg/src/sound/AudioManager.lua",
