@@ -14,9 +14,9 @@
     "Games/GLobby/res/club/location/fishHall/bg.png",
     "Games/GLobby/res/club/location/fishHall/ico_1.png",
     "Games/GLobby/res/club/location/fishHall/img_csr.png",
-    "Games/GLobby/res/club/location/fishHall/img_zc.png",
-    "Games/GLobby/res/club/location/fishHall/img_dq.png",
     "Games/GLobby/res/club/location/fishHall/img_cssj.png",
+    "Games/GLobby/res/club/location/fishHall/img_zichan.png",
+    "Games/GLobby/res/club/location/fishHall/img_diqu.png",
     "Games/GLobby/res/club/memberManage/img_close.png",
     "Games/GLobby/res/club/location/fishHall/button_sqjr.png"
   ],
@@ -665,7 +665,7 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "Games/GLobby/res/club/location/fishHall/img_zc.png",
+                    "path": "Games/GLobby/res/club/location/fishHall/img_cssj.png",
                     "plistFile": "",
                     "resourceType": 0
                   },
@@ -719,7 +719,7 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "Games/GLobby/res/club/location/fishHall/img_dq.png",
+                    "path": "Games/GLobby/res/club/location/fishHall/img_zichan.png",
                     "plistFile": "",
                     "resourceType": 0
                   },
@@ -773,7 +773,7 @@
                   "capInsetsY": 0,
                   "fileName": null,
                   "fileNameData": {
-                    "path": "Games/GLobby/res/club/location/fishHall/img_cssj.png",
+                    "path": "Games/GLobby/res/club/location/fishHall/img_diqu.png",
                     "plistFile": "",
                     "resourceType": 0
                   },
