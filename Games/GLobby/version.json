@@ -2,15 +2,19 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.548",
-["packageSize"] = 14182,
-["date"] = "20190226",
+["version"] = "1.1.552",
+["packageSize"] = 16286,
+["date"] = "20190301",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.修复已知bug
+1.手机号登陆注册
+2.新增黄金鱼雷
+3.新增成绩
+4.新增返水
+5.渔厅命中修改
 ]],
 ["assets"] = {} 
 }

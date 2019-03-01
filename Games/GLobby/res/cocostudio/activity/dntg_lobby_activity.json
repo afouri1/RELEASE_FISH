@@ -16,7 +16,8 @@
     "Games/GLobby/res/activity/ico_beibao.png",
     "Games/GLobby/res/activity/ico_dazhuanpan.png",
     "Games/GLobby/res/activity/ico_chengjiu.png",
-    "Games/GLobby/res/activity/ico_renwu.png"
+    "Games/GLobby/res/activity/ico_renwu.png",
+    "Games/GLobby/res/activity/jifenjiangli.png"
   ],
   "version": "1.6.0.0",
   "widgetTree": {
@@ -295,6 +296,60 @@
               "scale9Enable": false,
               "scale9Height": 163,
               "scale9Width": 114
+            }
+          },
+          {
+            "classname": "ImageView",
+            "name": null,
+            "children": [],
+            "options": {
+              "__type": "ImageViewSurrogate:#EditorCommon.JsonModel.Component.GUI",
+              "classname": "ImageView",
+              "name": "Image_integral_award",
+              "ZOrder": 0,
+              "actiontag": 17969353,
+              "anchorPointX": 0.5,
+              "anchorPointY": 0.5,
+              "classType": "CocoStudio.EngineAdapterWrap.CSImageView",
+              "colorB": 255,
+              "colorG": 255,
+              "colorR": 255,
+              "customProperty": "",
+              "flipX": false,
+              "flipY": false,
+              "height": 163,
+              "ignoreSize": true,
+              "layoutParameter": null,
+              "opacity": 255,
+              "positionPercentX": 0,
+              "positionPercentY": -0.215667948,
+              "positionType": 0,
+              "rotation": 0,
+              "scaleX": 1,
+              "scaleY": 1,
+              "sizePercentX": 0.5,
+              "sizePercentY": 0.137634411,
+              "sizeType": 0,
+              "tag": 10655,
+              "touchAble": false,
+              "useMergedTexture": false,
+              "visible": true,
+              "width": 133,
+              "x": 0,
+              "y": -100,
+              "capInsetsHeight": 1,
+              "capInsetsWidth": 1,
+              "capInsetsX": 0,
+              "capInsetsY": 0,
+              "fileName": null,
+              "fileNameData": {
+                "path": "Games/GLobby/res/activity/jifenjiangli.png",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "scale9Enable": false,
+              "scale9Height": 163,
+              "scale9Width": 133
             }
           }
         ],

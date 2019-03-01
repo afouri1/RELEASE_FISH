@@ -199,6 +199,36 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>zyjiantou14.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{80,82}</string>
+                <key>spriteSourceSize</key>
+                <string>{80,82}</string>
+                <key>textureRect</key>
+                <string>{{80,328},{80,82}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>zyjiantou15.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{80,82}</string>
+                <key>spriteSourceSize</key>
+                <string>{80,82}</string>
+                <key>textureRect</key>
+                <string>{{160,328},{80,82}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
         </dict>
         <key>metadata</key>
         <dict>
@@ -213,7 +243,7 @@
             <key>size</key>
             <string>{240,410}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:f70ed02ea23ca61e7c1447f1650817db:3aeba0e9e1e48e6343512363829ea0f5:7261632cce2fcc3927aedf5b8489c9e3$</string>
+            <string>$TexturePacker:SmartUpdate:5170b665c0661d4b02f509d1ec57b933:c2590b19a411d11d4d5bc876169d0116:7261632cce2fcc3927aedf5b8489c9e3$</string>
             <key>textureFileName</key>
             <string>zyjiantou.png</string>
         </dict>
