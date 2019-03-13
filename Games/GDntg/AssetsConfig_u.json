@@ -2,18 +2,16 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.578",
-["packageSize"] = 40647,
-["date"] = "20190309",
+["version"] = "1.1.588",
+["packageSize"] = 42776,
+["date"] = "20190313",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.推荐渔厅优化
-2.金币场初级场门槛调整
-3.新增成就/任务
-4.新增鱼雷赠送记录
-5.金币场新增jackpot
-6.其他已知bug修复
+1.jackpot新增中奖消息
+2.活动新增免费赚币
+3.活动新增BUG反馈
+4.已知BUG修改
 ]],
 ["assets"] = {
 {
@@ -570,6 +568,21 @@ return {
 	["u_name"]="Games/GDntg/res/game/effect/lanzidan.png",
 	["u_md5"]="3bd8c27047ff7a22798621437403c277",
 	["u_size"]=16.9,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/longwangbz.plist",
+	["u_md5"]="a84c4ff6ad3b5c47acd599945e634a91",
+	["u_size"]=5.19,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/longwangbz.png",
+	["u_md5"]="9602efa8f6bd0eba8fff9e8c3049a355",
+	["u_size"]=44.44,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/lwpBullet.png",
+	["u_md5"]="d92e082d4abbdbe6535cbc637646b6e3",
+	["u_size"]=6.01,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effect/shaoguang.plist",
@@ -2253,8 +2266,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameUi/fishdec/texiaoyudes.png",
-	["u_md5"]="1cfd314ca399a4d443069b487453768d",
-	["u_size"]=167.52,
+	["u_md5"]="d3f127b8d084ab4bda73e99d35d2d0d3",
+	["u_size"]=183.24,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameUi/listBg.png",
@@ -2787,9 +2800,44 @@ return {
 	["u_size"]=2.24,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/jackpot/logo/logo.ExportJson",
+	["u_md5"]="704a71fb0de2f9d885f12ce04107f123",
+	["u_size"]=69.3,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/logo/logo0.plist",
+	["u_md5"]="3c09bd12cf09436120e0b4b164a6ec7d",
+	["u_size"]=9.38,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/logo/logo0.png",
+	["u_md5"]="8ace0033677392d094ce8e43a3ec60ed",
+	["u_size"]=464.92,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/logo/logo1.plist",
+	["u_md5"]="e65665e5734a7f1938322a30a33ab6e5",
+	["u_size"]=13.25,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/logo/logo1.png",
+	["u_md5"]="42e1e91d99932cacaa21e7ef24a46e28",
+	["u_size"]=397.87,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/logo/logo2.plist",
+	["u_md5"]="8254e410cc2250f1860233884ce7fd10",
+	["u_size"]=1.03,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/logo/logo2.png",
+	["u_md5"]="4a6c4180c40b67845bec2457fb7e33e9",
+	["u_size"]=17.32,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/jackpot/mianban/mianban.ExportJson",
-	["u_md5"]="98fca3e54148f034ee37365463330bac",
-	["u_size"]=17.02,
+	["u_md5"]="1c24ae77b6d6cf39994cabdaa9445d30",
+	["u_size"]=17.42,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/mianban/mianban0.plist",
@@ -2820,6 +2868,11 @@ return {
 	["u_name"]="Games/GDntg/res/game/jackpot/renyujiang.png",
 	["u_md5"]="88a93e1aa690aec06cd1193f28e7b25d",
 	["u_size"]=2.14,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/rollNum_static.png",
+	["u_md5"]="cc5b345d8e4a3f4587a180bb0cfec7f1",
+	["u_size"]=22.83,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/jackpot/shuoming.png",
@@ -3357,6 +3410,61 @@ return {
 	["u_size"]=5.46,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/Armature_yuwangqipao.plist",
+	["u_md5"]="c47fada83f36c42f68eeaf91d33a8ce1",
+	["u_size"]=8,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/Armature_yuwangqipao.png",
+	["u_md5"]="649b1bdb43d29a64c905b080c58f543d",
+	["u_size"]=290.41,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/bg.png",
+	["u_md5"]="937b9e6f5197cf4a882b8a03eaeda6ab",
+	["u_size"]=7.07,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/longwang/longwang.ExportJson",
+	["u_md5"]="5af3f45efbc69ba34cbe4f4a176babbc",
+	["u_size"]=24.62,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/longwang/longwang0.plist",
+	["u_md5"]="8ed23f326f0b389b722630e12a74f802",
+	["u_size"]=11.24,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/longwang/longwang0.png",
+	["u_md5"]="95f5b52e44ea758cfd36e023940c5fcb",
+	["u_size"]=226.47,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/lwpNum.png",
+	["u_md5"]="0d17cedba5f8512cdffb52ea20ac20ee",
+	["u_size"]=3.79,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/paotaitihuan.plist",
+	["u_md5"]="42b563c92ff7f04f32e9ac23b5f1dbcf",
+	["u_size"]=10.56,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/paotaitihuan.png",
+	["u_md5"]="7a38d303b2c5eda994d6ef60edf5ed95",
+	["u_size"]=144.72,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/shengyu.png",
+	["u_md5"]="c198f359effd09a9c9add37f99b76e76",
+	["u_size"]=3.56,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/playerPlace/longWangPao/yinying.png",
+	["u_md5"]="61cb8833c70f3e5cbc43d90fe163e5aa",
+	["u_size"]=11.05,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/playerPlace/newGun/erjipaotai.plist",
 	["u_md5"]="e26014c421f593ce5ba22b48b7310fa4",
 	["u_size"]=13.73,
@@ -3392,6 +3500,11 @@ return {
 	["u_size"]=16.62,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/playerPlace/newGun/gunBase05.png",
+	["u_md5"]="e9082658826127ff48408f2db5794fc7",
+	["u_size"]=50.9,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/playerPlace/newGun/gunEffect00.png",
 	["u_md5"]="54e73649f61a7d5e27b55b774c156542",
 	["u_size"]=8.5,
@@ -3417,6 +3530,11 @@ return {
 	["u_size"]=3.71,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/playerPlace/newGun/gunEffect05.png",
+	["u_md5"]="8208e8c43ea6c7d28b4d2fb6951939f6",
+	["u_size"]=1.69,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/playerPlace/newGun/sanjipaotai.plist",
 	["u_md5"]="ca80accc24090ebc1c67028776fe6f04",
 	["u_size"]=13.75,
@@ -3435,6 +3553,16 @@ return {
 	["u_name"]="Games/GDntg/res/game/playerPlace/newGun/sijipaotai.png",
 	["u_md5"]="5ce25d0e110d257bf9ad3aef03ef3197",
 	["u_size"]=229.54,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/playerPlace/newGun/wujipaotai.plist",
+	["u_md5"]="b76160ba84079de0b6cb16d20819b82e",
+	["u_size"]=13.72,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/playerPlace/newGun/wujipaotai.png",
+	["u_md5"]="24c5b47eb6f4e91b1c3aed9bde89566b",
+	["u_size"]=242.96,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/playerPlace/newGun/yijipaotai.plist",
@@ -3763,8 +3891,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="2c16109ad01af15e67ebf0d6346579a9",
-	["u_size"]=57.62,
+	["u_md5"]="47a92910c2fa8230df1dfe3c3df73773",
+	["u_size"]=65.37,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -3903,13 +4031,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GJackpotMediator.lua",
-	["u_md5"]="b80bc6cecf71465d7dbb005411a0d0cd",
-	["u_size"]=0.62,
+	["u_md5"]="042e4dce32359f4c99219746710e45f7",
+	["u_size"]=3.13,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GJackpotView.lua",
-	["u_md5"]="1562bc24499472fd2db1757d44095513",
-	["u_size"]=20.6,
+	["u_md5"]="3e1152a2b3c8793a7b47593adce26624",
+	["u_size"]=21.61,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GLockMediator.lua",
@@ -3933,7 +4061,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerMediator.lua",
-	["u_md5"]="9dde18936b0f1c56872ff617ec34ad7b",
+	["u_md5"]="8931a2af8bfced446d6caebf044a55c4",
 	["u_size"]=23.46,
 	},
 {
@@ -4098,8 +4226,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/pb/dntg_s2c.pb",
-	["u_md5"]="eeade8c467af4e929232ea78b3f052ec",
-	["u_size"]=2.98,
+	["u_md5"]="1193b86026db399693432744db04d50b",
+	["u_size"]=3.02,
 	},
 {
 	["u_name"]="Games/GDntg/src/sound/AudioManager.lua",

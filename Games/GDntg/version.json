@@ -2,18 +2,16 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.578",
-["packageSize"] = 40647,
-["date"] = "20190309",
+["version"] = "1.1.588",
+["packageSize"] = 42776,
+["date"] = "20190313",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.推荐渔厅优化
-2.金币场初级场门槛调整
-3.新增成就/任务
-4.新增鱼雷赠送记录
-5.金币场新增jackpot
-6.其他已知bug修复
+1.jackpot新增中奖消息
+2.活动新增免费赚币
+3.活动新增BUG反馈
+4.已知BUG修改
 ]],
 ["assets"] = {} 
 }
