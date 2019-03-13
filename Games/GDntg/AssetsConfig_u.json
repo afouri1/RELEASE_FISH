@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.588",
+["version"] = "1.1.589",
 ["packageSize"] = 42776,
 ["date"] = "20190313",
 ["depends"] = {
@@ -18,7 +18,7 @@ return {
 ["assets"] = {
 {
 	["u_name"]="Games/GDntg/res/cocostudio/DeskInfo.json",
-	["u_md5"]="11047bb3ac037a522ef56f14d1fb5c6b",
+	["u_md5"]="11147bb3ac037a522ef56114d1fb5c6b",
 	["u_size"]=13.99,
 	},
 {
