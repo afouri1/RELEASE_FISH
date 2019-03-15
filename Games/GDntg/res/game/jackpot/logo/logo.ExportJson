@@ -473,7 +473,7 @@
           ]
         },
         {
-          "name": "jackpot",
+          "name": "jack",
           "parent": "",
           "dI": 0,
           "x": 0.0,
@@ -485,7 +485,7 @@
           "kY": 0.0,
           "arrow_x": 0.0,
           "arrow_y": 0.0,
-          "effectbyskeleton": false,
+          "effectbyskeleton": true,
           "bl": 0,
           "display_data": [
             {
@@ -505,11 +505,11 @@
           ]
         },
         {
-          "name": "3",
+          "name": "jinbi2",
           "parent": "",
           "dI": 0,
-          "x": -105.53146362304688,
-          "y": 33.0,
+          "x": -109.41176605224609,
+          "y": 35.0,
           "z": 5,
           "cX": 1.0,
           "cY": 1.0,
@@ -517,7 +517,7 @@
           "kY": 0.0,
           "arrow_x": 0.0,
           "arrow_y": 0.0,
-          "effectbyskeleton": false,
+          "effectbyskeleton": true,
           "bl": 0,
           "display_data": [
             {
@@ -537,7 +537,7 @@
           ]
         },
         {
-          "name": "2",
+          "name": "jinbi1",
           "parent": "",
           "dI": 0,
           "x": 110.0,
@@ -549,7 +549,7 @@
           "kY": 0.0,
           "arrow_x": 0.0,
           "arrow_y": 0.0,
-          "effectbyskeleton": false,
+          "effectbyskeleton": true,
           "bl": 0,
           "display_data": [
             {
@@ -935,7 +935,7 @@
           "kY": 0.0,
           "arrow_x": 0.0,
           "arrow_y": 0.0,
-          "effectbyskeleton": false,
+          "effectbyskeleton": true,
           "bl": 0,
           "display_data": [
             {
@@ -1556,7 +1556,7 @@
               "dl": 0.0,
               "frame_data": [
                 {
-                  "dI": 0,
+                  "dI": 2,
                   "x": 0.0,
                   "y": 0.0,
                   "z": 0,
@@ -1813,7 +1813,7 @@
               ]
             },
             {
-              "name": "jackpot",
+              "name": "jack",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -1834,7 +1834,7 @@
               ]
             },
             {
-              "name": "3",
+              "name": "jinbi2",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -1855,7 +1855,7 @@
               ]
             },
             {
-              "name": "2",
+              "name": "jinbi1",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -2042,7 +2042,7 @@
                   "twE": 0,
                   "tweenFrame": true,
                   "bd_src": 1,
-                  "bd_dst": 1
+                  "bd_dst": 771
                 },
                 {
                   "dI": 11,
@@ -2383,8 +2383,8 @@
     },
     {
       "name": "huo/mj_fire_03",
-      "width": 0.0,
-      "height": 0.0,
+      "width": 736.0,
+      "height": 85.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
@@ -2407,8 +2407,8 @@
     },
     {
       "name": "huo/mj_fire_06",
-      "width": 0.0,
-      "height": 0.0,
+      "width": 736.0,
+      "height": 85.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
