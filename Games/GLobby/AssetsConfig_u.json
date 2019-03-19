@@ -2,19 +2,18 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.603",
-["packageSize"] = 20975,
-["date"] = "20190315",
+["version"] = "1.1.610",
+["packageSize"] = 20982,
+["date"] = "20190319",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1、游戏内新增龙王炮，极大提高BOSS命中率
-2、新增渔厅头像上传自定义
-3、新增渔厅自动喊话和是否需要批准功能
-4、成员列表翻页显示优化调整
-5、已知BUG修复
+1、修复渔厅图标覆盖问题
+2、修复红点显示错误问题
+3、修复部分包体登陆失败问题
+4、申请渔厅无需批准，将直接跳转渔厅列表
 ]],
 ["assets"] = {
 {
@@ -44,7 +43,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/Words.lua",
-	["u_md5"]="1104aa52433683300c1cb15364426f8c",
+	["u_md5"]="f46cd0915f704415c29ca05986ba6d12",
 	["u_size"]=4.61,
 	},
 {
@@ -3019,8 +3018,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/proSys/dntg_lobby_all_prosystem.json",
-	["u_md5"]="27e7d734ca0d475d891cd66b8169cd42",
-	["u_size"]=38.06,
+	["u_md5"]="44fd889ea2f5394f7d672c1649761ed6",
+	["u_size"]=38.07,
 	},
 {
 	["u_name"]="Games/GLobby/res/cocostudio/proSys/dntg_lobby_all_prosystem_item.json",
@@ -4144,8 +4143,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/res/my/expe/btn_hdpd.png",
-	["u_md5"]="ee439a0657c2f9ce58467f564722a2e7",
-	["u_size"]=1.81,
+	["u_md5"]="d86530d939b8f2d336b0a2ef8a4dc0f5",
+	["u_size"]=5.35,
 	},
 {
 	["u_name"]="Games/GLobby/res/my/expe/img_tym.png",
@@ -4809,8 +4808,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubManageLayerView.lua",
-	["u_md5"]="72019b2d7cbbcfc1192fdf3ccceace0f",
-	["u_size"]=39.45,
+	["u_md5"]="936911c288954985dd9fd5e8c85379df",
+	["u_size"]=40.34,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyClubModifyLayerMediator.lua",
@@ -4889,8 +4888,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyHeadUpdateLayerView.lua",
-	["u_md5"]="176c4328fb988fb5f8b4a049c7f0bf71",
-	["u_size"]=6.24,
+	["u_md5"]="aa7d95f9afc519bfed6ca58140d5733d",
+	["u_size"]=6.62,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyMemberInfoLayerMediator.lua",
@@ -4969,8 +4968,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyProfitReportLayerItem.lua",
-	["u_md5"]="a486badef4053f6a912883bcc1b6a62f",
-	["u_size"]=5.85,
+	["u_md5"]="6b6b9d55023a55b29f7938b0410e0bf3",
+	["u_size"]=5.9,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyProfitReportLayerMediator.lua",
@@ -4979,8 +4978,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyProfitReportLayerView.lua",
-	["u_md5"]="466138e2d7d91d57e52736a05f4f3985",
-	["u_size"]=13.83,
+	["u_md5"]="cb2dea6ba61b69ffe15ace5d6d746fa0",
+	["u_size"]=13.99,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbySetManageLayerMediator.lua",
@@ -5029,7 +5028,7 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/location/GLobbyFishHallListLayerView.lua",
-	["u_md5"]="fd130309f233a1ca368c969534afdf67",
+	["u_md5"]="665da2efa10e222e8c7aaafcac0feaa3",
 	["u_size"]=27.3,
 	},
 {
@@ -5159,8 +5158,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/GameVManager/GameVManager.lua",
-	["u_md5"]="821377863461f456588a92d34f9bf8e6",
-	["u_size"]=13.37,
+	["u_md5"]="f3632b9fafebe87c2e6fff76eb528687",
+	["u_size"]=13.78,
 	},
 {
 	["u_name"]="Games/GLobby/src/GameVManager/UpdateProgress.json",
@@ -5239,8 +5238,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerView.lua",
-	["u_md5"]="16a918904df6aac9be8461387074725b",
-	["u_size"]=101.83,
+	["u_md5"]="9f1486abbbf98fcfd22366e2a47dd875",
+	["u_size"]=101.99,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageTop.lua",
@@ -5279,8 +5278,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerMediator.lua",
-	["u_md5"]="0d9a9522de03e6b5c34470c1fa38d396",
-	["u_size"]=15.22,
+	["u_md5"]="789c2b29c978cdaf0081b0f98fa6ade3",
+	["u_size"]=15.83,
 	},
 {
 	["u_name"]="Games/GLobby/src/Login/GLoginLayerView.lua",
@@ -5509,13 +5508,13 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/helper/GBroadcastMediator.lua",
-	["u_md5"]="9ffdd1fbb256420eda4a4dee88655de0",
-	["u_size"]=3.63,
+	["u_md5"]="4004fbfdd7b9d455d66857fa8db32690",
+	["u_size"]=3.64,
 	},
 {
 	["u_name"]="Games/GLobby/src/helper/GBroadcastView.lua",
-	["u_md5"]="17d84e40a691ecbbb0d41e91e88b783d",
-	["u_size"]=10.73,
+	["u_md5"]="5e4ccc3839133530974b37b691e84376",
+	["u_size"]=11.09,
 	},
 {
 	["u_name"]="Games/GLobby/src/helper/GGetSrvHostHelper.lua",
@@ -5564,8 +5563,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyBindExpeLayerView.lua",
-	["u_md5"]="2ade58af902a5cf75e67fc2eeabec126",
-	["u_size"]=5.06,
+	["u_md5"]="740c69e00372fdb9aec741057db3f04e",
+	["u_size"]=5.32,
 	},
 {
 	["u_name"]="Games/GLobby/src/my/GLobbyCashDetailsLayerItem.lua",
@@ -5709,8 +5708,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/Lobby_s2c.pb",
-	["u_md5"]="22fd9ae27c9dbf431b2b44efd44c08a3",
-	["u_size"]=10.18,
+	["u_md5"]="f0e651c9c5904aeb00484e4d1cdefff6",
+	["u_size"]=10.21,
 	},
 {
 	["u_name"]="Games/GLobby/src/pb/c2s.pb",

@@ -2,17 +2,16 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.603",
-["packageSize"] = 44507,
-["date"] = "20190315",
+["version"] = "1.1.610",
+["packageSize"] = 44510,
+["date"] = "20190319",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1、游戏内新增龙王炮，极大提高BOSS命中率
-2、新增渔厅头像上传自定义
-3、新增渔厅自动喊话和是否需要批准功能
-4、成员列表翻页显示优化调整
-5、已知BUG修复
+1、修复渔厅图标覆盖问题
+2、修复红点显示错误问题
+3、修复部分包体登陆失败问题
+4、申请渔厅无需批准，将直接跳转渔厅列表
 ]],
 ["assets"] = {
 {
@@ -4267,8 +4266,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/AddGImageAsync.lua",
-	["u_md5"]="f4812225532f02dede1d7fba09e5c21e",
-	["u_size"]=8.77,
+	["u_md5"]="43bd5e2bbafbaf18dca33d845a8fa32a",
+	["u_size"]=12.23,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GBg.lua",
