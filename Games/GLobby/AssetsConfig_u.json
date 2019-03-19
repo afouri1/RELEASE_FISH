@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.610",
+["version"] = "1.1.611",
 ["packageSize"] = 20982,
 ["date"] = "20190319",
 ["depends"] = {
@@ -5028,8 +5028,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/location/GLobbyFishHallListLayerView.lua",
-	["u_md5"]="665da2efa10e222e8c7aaafcac0feaa3",
-	["u_size"]=27.3,
+	["u_md5"]="b222a6459eaefae8dd91954667e55a31",
+	["u_size"]=27.79,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/location/GLobbyKeyInviteLayerMediator.lua",
