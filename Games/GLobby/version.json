@@ -2,20 +2,21 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.624",
-["packageSize"] = 22019,
-["date"] = "20190323",
+["version"] = "1.1.641",
+["packageSize"] = 22781,
+["date"] = "20190329",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1、金币场新增椰子积分，可在商城兑换实物（商城即将开放）
-2、部分渠道包更新中断，登陆失败，闪退问题修复
-3、活动弹窗面板和奖励效果优化
-4、创始人关闭牌局显示问题修复
-5、渔厅喇叭设置问题修复
-6、新增免费金币体验码（反馈BUG，渠道活动获取）
+1、开放椰子积分商城，大家可以兑换心仪的实物话费了
+2、新增首充大礼包，全面回馈忠实玩家
+3、新增救济金，为您全方位保驾护航
+4、新增排行榜，让您脱颖而出
+5、大厅按钮调整
+6、苹果包新增渔厅图标自定义功能
+
 ]],
 ["assets"] = {} 
 }

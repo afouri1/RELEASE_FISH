@@ -2,18 +2,13 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.624",
+["version"] = "1.1.641",
 ["packageSize"] = 44619,
-["date"] = "20190323",
+["date"] = "20190329",
 ["depends"] = {
 },
-["newDetails"] = [[版本更新内容：
-1、金币场新增椰子积分，可在商城兑换实物（商城即将开放）
-2、部分渠道包更新中断，登陆失败，闪退问题修复
-3、活动弹窗面板和奖励效果优化
-4、创始人关闭牌局显示问题修复
-5、渔厅喇叭设置问题修复
-6、新增免费金币体验码（反馈BUG，渠道活动获取）
+["newDetails"] = [[
+
 ]],
 ["assets"] = {} 
 }
