@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GZhayu/version.json",
-["version"] = "1.1.702",
+["version"] = "1.1.703",
 ["packageSize"] = 14574,
 ["date"] = "20190413",
 ["depends"] = {
@@ -1436,7 +1436,7 @@ return {
 	},
 {
 	["u_name"]="Games/GZhayu/src/ZhayuGame.lua",
-	["u_md5"]="a5f72b91e35a3594edd464ab1c5e3d58",
+	["u_md5"]="cd8ba9374b02791d6b9d0a6bdd194c37",
 	["u_size"]=43.01,
 	},
 {
