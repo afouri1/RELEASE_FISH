@@ -4,7 +4,7 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>boom/0035.png</key>
+			<key>boom/0034.png</key>
 			<dict>
 				<key>width</key>
 				<integer>650</integer>
@@ -23,7 +23,7 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>boom/0036.png</key>
+			<key>boom/0035.png</key>
 			<dict>
 				<key>width</key>
 				<integer>650</integer>
@@ -35,6 +35,25 @@
 				<integer>512</integer>
 				<key>x</key>
 				<integer>652</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>boom/0036.png</key>
+			<dict>
+				<key>width</key>
+				<integer>650</integer>
+				<key>height</key>
+				<integer>512</integer>
+				<key>originalWidth</key>
+				<integer>650</integer>
+				<key>originalHeight</key>
+				<integer>512</integer>
+				<key>x</key>
+				<integer>1304</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>

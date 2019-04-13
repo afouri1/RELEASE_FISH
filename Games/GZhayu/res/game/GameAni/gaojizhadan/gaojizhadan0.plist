@@ -4,6 +4,405 @@
 	<dict>
 		<key>frames</key>
 		<dict>
+			<key>86/懒人素材 (1).png</key>
+			<dict>
+				<key>width</key>
+				<integer>113</integer>
+				<key>height</key>
+				<integer>111</integer>
+				<key>originalWidth</key>
+				<integer>113</integer>
+				<key>originalHeight</key>
+				<integer>111</integer>
+				<key>x</key>
+				<integer>0</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>86/懒人素材 (2).png</key>
+			<dict>
+				<key>width</key>
+				<integer>114</integer>
+				<key>height</key>
+				<integer>113</integer>
+				<key>originalWidth</key>
+				<integer>114</integer>
+				<key>originalHeight</key>
+				<integer>113</integer>
+				<key>x</key>
+				<integer>115</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>86/懒人素材 (3).png</key>
+			<dict>
+				<key>width</key>
+				<integer>115</integer>
+				<key>height</key>
+				<integer>120</integer>
+				<key>originalWidth</key>
+				<integer>115</integer>
+				<key>originalHeight</key>
+				<integer>120</integer>
+				<key>x</key>
+				<integer>231</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>86/懒人素材 (4).png</key>
+			<dict>
+				<key>width</key>
+				<integer>121</integer>
+				<key>height</key>
+				<integer>123</integer>
+				<key>originalWidth</key>
+				<integer>121</integer>
+				<key>originalHeight</key>
+				<integer>123</integer>
+				<key>x</key>
+				<integer>348</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>86/懒人素材 (5).png</key>
+			<dict>
+				<key>width</key>
+				<integer>124</integer>
+				<key>height</key>
+				<integer>124</integer>
+				<key>originalWidth</key>
+				<integer>124</integer>
+				<key>originalHeight</key>
+				<integer>124</integer>
+				<key>x</key>
+				<integer>471</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>86/懒人素材 (6).png</key>
+			<dict>
+				<key>width</key>
+				<integer>126</integer>
+				<key>height</key>
+				<integer>122</integer>
+				<key>originalWidth</key>
+				<integer>126</integer>
+				<key>originalHeight</key>
+				<integer>122</integer>
+				<key>x</key>
+				<integer>597</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>86/懒人素材 (7).png</key>
+			<dict>
+				<key>width</key>
+				<integer>124</integer>
+				<key>height</key>
+				<integer>121</integer>
+				<key>originalWidth</key>
+				<integer>124</integer>
+				<key>originalHeight</key>
+				<integer>121</integer>
+				<key>x</key>
+				<integer>725</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>86/懒人素材 (8).png</key>
+			<dict>
+				<key>width</key>
+				<integer>125</integer>
+				<key>height</key>
+				<integer>125</integer>
+				<key>originalWidth</key>
+				<integer>125</integer>
+				<key>originalHeight</key>
+				<integer>125</integer>
+				<key>x</key>
+				<integer>851</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>86/懒人素材 (9).png</key>
+			<dict>
+				<key>width</key>
+				<integer>126</integer>
+				<key>height</key>
+				<integer>124</integer>
+				<key>originalWidth</key>
+				<integer>126</integer>
+				<key>originalHeight</key>
+				<integer>124</integer>
+				<key>x</key>
+				<integer>978</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>86/懒人素材 (10).png</key>
+			<dict>
+				<key>width</key>
+				<integer>126</integer>
+				<key>height</key>
+				<integer>125</integer>
+				<key>originalWidth</key>
+				<integer>126</integer>
+				<key>originalHeight</key>
+				<integer>125</integer>
+				<key>x</key>
+				<integer>1106</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>86/懒人素材 (11).png</key>
+			<dict>
+				<key>width</key>
+				<integer>123</integer>
+				<key>height</key>
+				<integer>122</integer>
+				<key>originalWidth</key>
+				<integer>123</integer>
+				<key>originalHeight</key>
+				<integer>122</integer>
+				<key>x</key>
+				<integer>1234</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>86/懒人素材 (12).png</key>
+			<dict>
+				<key>width</key>
+				<integer>123</integer>
+				<key>height</key>
+				<integer>126</integer>
+				<key>originalWidth</key>
+				<integer>123</integer>
+				<key>originalHeight</key>
+				<integer>126</integer>
+				<key>x</key>
+				<integer>1359</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>86/懒人素材 (13).png</key>
+			<dict>
+				<key>width</key>
+				<integer>124</integer>
+				<key>height</key>
+				<integer>126</integer>
+				<key>originalWidth</key>
+				<integer>124</integer>
+				<key>originalHeight</key>
+				<integer>126</integer>
+				<key>x</key>
+				<integer>1484</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>86/懒人素材 (14).png</key>
+			<dict>
+				<key>width</key>
+				<integer>123</integer>
+				<key>height</key>
+				<integer>127</integer>
+				<key>originalWidth</key>
+				<integer>123</integer>
+				<key>originalHeight</key>
+				<integer>127</integer>
+				<key>x</key>
+				<integer>1610</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>86/懒人素材 (15).png</key>
+			<dict>
+				<key>width</key>
+				<integer>122</integer>
+				<key>height</key>
+				<integer>125</integer>
+				<key>originalWidth</key>
+				<integer>122</integer>
+				<key>originalHeight</key>
+				<integer>125</integer>
+				<key>x</key>
+				<integer>1735</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>86/懒人素材 (16).png</key>
+			<dict>
+				<key>width</key>
+				<integer>118</integer>
+				<key>height</key>
+				<integer>119</integer>
+				<key>originalWidth</key>
+				<integer>118</integer>
+				<key>originalHeight</key>
+				<integer>119</integer>
+				<key>x</key>
+				<integer>1859</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>86/懒人素材 (17).png</key>
+			<dict>
+				<key>width</key>
+				<integer>116</integer>
+				<key>height</key>
+				<integer>114</integer>
+				<key>originalWidth</key>
+				<integer>116</integer>
+				<key>originalHeight</key>
+				<integer>114</integer>
+				<key>x</key>
+				<integer>0</integer>
+				<key>y</key>
+				<integer>129</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>86/懒人素材 (18).png</key>
+			<dict>
+				<key>width</key>
+				<integer>115</integer>
+				<key>height</key>
+				<integer>109</integer>
+				<key>originalWidth</key>
+				<integer>115</integer>
+				<key>originalHeight</key>
+				<integer>109</integer>
+				<key>x</key>
+				<integer>118</integer>
+				<key>y</key>
+				<integer>129</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>86/懒人素材 (19).png</key>
+			<dict>
+				<key>width</key>
+				<integer>109</integer>
+				<key>height</key>
+				<integer>105</integer>
+				<key>originalWidth</key>
+				<integer>109</integer>
+				<key>originalHeight</key>
+				<integer>105</integer>
+				<key>x</key>
+				<integer>235</integer>
+				<key>y</key>
+				<integer>129</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>guangshu_73.png</key>
+			<dict>
+				<key>width</key>
+				<integer>128</integer>
+				<key>height</key>
+				<integer>128</integer>
+				<key>originalWidth</key>
+				<integer>128</integer>
+				<key>originalHeight</key>
+				<integer>128</integer>
+				<key>x</key>
+				<integer>346</integer>
+				<key>y</key>
+				<integer>129</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>caihongquan.png</key>
+			<dict>
+				<key>width</key>
+				<integer>256</integer>
+				<key>height</key>
+				<integer>256</integer>
+				<key>originalWidth</key>
+				<integer>256</integer>
+				<key>originalHeight</key>
+				<integer>256</integer>
+				<key>x</key>
+				<integer>476</integer>
+				<key>y</key>
+				<integer>129</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
 			<key>gaojizhadan.png</key>
 			<dict>
 				<key>width</key>
@@ -15,9 +414,9 @@
 				<key>originalHeight</key>
 				<integer>249</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>734</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>129</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -34,9 +433,9 @@
 				<key>originalHeight</key>
 				<integer>148</integer>
 				<key>x</key>
-				<integer>192</integer>
+				<integer>926</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>129</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -53,9 +452,9 @@
 				<key>originalHeight</key>
 				<integer>482</integer>
 				<key>x</key>
-				<integer>258</integer>
+				<integer>992</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>129</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -72,9 +471,9 @@
 				<key>originalHeight</key>
 				<integer>512</integer>
 				<key>x</key>
-				<integer>749</integer>
-				<key>y</key>
 				<integer>0</integer>
+				<key>y</key>
+				<integer>613</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -91,9 +490,9 @@
 				<key>originalHeight</key>
 				<integer>512</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>652</integer>
 				<key>y</key>
-				<integer>514</integer>
+				<integer>613</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -110,9 +509,9 @@
 				<key>originalHeight</key>
 				<integer>512</integer>
 				<key>x</key>
-				<integer>652</integer>
+				<integer>1304</integer>
 				<key>y</key>
-				<integer>514</integer>
+				<integer>613</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -129,9 +528,9 @@
 				<key>originalHeight</key>
 				<integer>512</integer>
 				<key>x</key>
-				<integer>1304</integer>
+				<integer>0</integer>
 				<key>y</key>
-				<integer>514</integer>
+				<integer>1127</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -148,9 +547,9 @@
 				<key>originalHeight</key>
 				<integer>512</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>652</integer>
 				<key>y</key>
-				<integer>1028</integer>
+				<integer>1127</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -167,28 +566,9 @@
 				<key>originalHeight</key>
 				<integer>512</integer>
 				<key>x</key>
-				<integer>652</integer>
-				<key>y</key>
-				<integer>1028</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>boom/0007.png</key>
-			<dict>
-				<key>width</key>
-				<integer>650</integer>
-				<key>height</key>
-				<integer>512</integer>
-				<key>originalWidth</key>
-				<integer>650</integer>
-				<key>originalHeight</key>
-				<integer>512</integer>
-				<key>x</key>
 				<integer>1304</integer>
 				<key>y</key>
-				<integer>1028</integer>
+				<integer>1127</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -207,7 +587,7 @@
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>1542</integer>
+				<integer>1641</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -226,26 +606,7 @@
 				<key>x</key>
 				<integer>332</integer>
 				<key>y</key>
-				<integer>1542</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>guang2.png</key>
-			<dict>
-				<key>width</key>
-				<integer>462</integer>
-				<key>height</key>
-				<integer>462</integer>
-				<key>originalWidth</key>
-				<integer>462</integer>
-				<key>originalHeight</key>
-				<integer>462</integer>
-				<key>x</key>
-				<integer>590</integer>
-				<key>y</key>
-				<integer>1542</integer>
+				<integer>1641</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -262,9 +623,9 @@
 				<key>originalHeight</key>
 				<integer>107</integer>
 				<key>x</key>
-				<integer>1054</integer>
+				<integer>590</integer>
 				<key>y</key>
-				<integer>1542</integer>
+				<integer>1641</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
