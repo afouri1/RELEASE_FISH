@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.701",
+["version"] = "1.1.702",
 ["packageSize"] = 24236,
 ["date"] = "20190413",
 ["depends"] = {
@@ -13,7 +13,8 @@ return {
 1、游戏厅新游“炸鱼来了”全面开启，一夜暴富不是梦
 2、新增金币商城，椰子积分也可以兑换金币了
 3、新增邮件系统，随时关注领取福利哦
-4、新增召集大使（2019/04/15开放）
+4、已知BUG修复
+5、新增召集大使（2019/04/15开放）
 
 ]],
 ["assets"] = {} 
