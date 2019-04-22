@@ -2,15 +2,21 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.708",
-["packageSize"] = 24236,
-["date"] = "20190415",
+["version"] = "1.1.733",
+["packageSize"] = 25877,
+["date"] = "20190422",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1、开放召集大使
+1、超豪华登陆礼包上线就送，有钱就是任性
+2、独家首创免费VIP系统，周周给您发工资
+3、渔厅人数上限扩充至500人
+4、“炸鱼来了”略微提高中奖率，降低未中奖概率
+5、各种火热活动可以直接从大厅首页横幅进入了
+6、渔厅图标和人物头像上传问题修复
+7、新游预告：“泡泡龙珠”即将火热上线
 ]],
 ["assets"] = {} 
 }
